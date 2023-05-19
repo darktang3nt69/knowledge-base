@@ -1,9 +1,5 @@
 # Docker 101
 
-Class: MAT 630
-Created: April 22, 2023 9:58 PM
-Reviewed: No
-Type: Seminar
 
 # 
 

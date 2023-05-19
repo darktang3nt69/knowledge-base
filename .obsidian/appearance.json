@@ -1,10 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "Spectrum",
   "monospaceFontFamily": "Cascadia Code",
   "translucency": false,
   "enabledCssSnippets": [
     "padding"
   ],
-  "interfaceFontFamily": "Arial Narrow"
+  "interfaceFontFamily": "Arial Narrow",
+  "nativeMenus": true
 }
