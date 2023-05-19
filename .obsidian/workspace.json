@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "ea223b8030fb7f93",
+    "type": "split",
+    "children": [
+      {
+        "id": "bae3d6910bdd3024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c71e25f80786980f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08fd4e29354a7ce7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7729e078ca3593af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3c61c32416b9aa4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa8ed13d65fae360",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b69955822c94760e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "388887a9d68de1d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c624004d93cd66e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "660c2f40f7c054bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a8fea8d032d8d46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa305072970a2428",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fdc608608ca3cf43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "c71e25f80786980f",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "My Cheat Sheets",
+    "Untitled 1.md",
+    "apps/argocd.md",
+    "Christian's Cheat Sheets/LICENSE",
+    "Christian's Cheat Sheets/windows/windows-updates.md",
+    "Christian's Cheat Sheets/windows/windows-terminal.md",
+    "Christian's Cheat Sheets/windows/windows-dns-server.md",
+    "Christian's Cheat Sheets/windows/powershell.md",
+    "Christian's Cheat Sheets/windows/powershell-remote.md",
+    "Christian's Cheat Sheets/windows/environment-variables-in-windows.md",
+    "Christian's Cheat Sheets/windows/chocolatey.md",
+    "Christian's Cheat Sheets/windows/certutil.md",
+    "Christian's Cheat Sheets/windows",
+    "Christian's Cheat Sheets/Untitled",
+    "Christian's Cheat Sheets/tools/wsl.md",
+    "Christian's Cheat Sheets/tools/vscode.md",
+    "Christian's Cheat Sheets/tools/vagrant.md",
+    "Christian's Cheat Sheets/tools/terraform.md",
+    "Christian's Cheat Sheets/tools/starship.md",
+    "Christian's Cheat Sheets/tools/packer.md",
+    "Christian's Cheat Sheets/tools/openssl.md",
+    "Christian's Cheat Sheets/tools/openssh.md",
+    "Christian's Cheat Sheets/tools/nmap.md",
+    "Christian's Cheat Sheets/tools/iterm2.md",
+    "Christian's Cheat Sheets/tools/homebrew.md",
+    "Christian's Cheat Sheets/tools/git.md",
+    "Christian's Cheat Sheets/tools/direnv.md",
+    "Christian's Cheat Sheets/tools/datree.md",
+    "Christian's Cheat Sheets/tools",
+    "Christian's Cheat Sheets/networking",
+    "Christian's Cheat Sheets/misc",
+    "Christian's Cheat Sheets/macos",
+    "Christian's Cheat Sheets/linux/distros",
+    "Christian's Cheat Sheets/linux"
+  ]
+}
