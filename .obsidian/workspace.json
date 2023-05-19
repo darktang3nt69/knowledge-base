@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bae3d6910bdd3024",
+        "id": "1fd905f9603c5c5f",
         "type": "tabs",
         "children": [
           {
-            "id": "c71e25f80786980f",
+            "id": "ebf9ef7204810227",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "My Cheat Sheets/Debian/Installation of Debian 11.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "My Cheat Sheets/Debian/Installation of Debian 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "My Cheat Sheets/Debian/Installation of Debian 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "My Cheat Sheets/Debian/Installation of Debian 11.md"
+              }
             }
           },
           {
@@ -148,8 +157,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c71e25f80786980f",
+  "active": "ebf9ef7204810227",
   "lastOpenFiles": [
+    "README.md",
+    "Christian's Cheat Sheets/docker/docker.md",
+    "Christian's Cheat Sheets/linux/linux.md",
+    "Christian's Cheat Sheets/linux/lspci.md",
+    "Christian's Cheat Sheets/linux/distros/centos.md",
+    "My Cheat Sheets/Debian/Installation of Debian 11.md",
+    "Christian's Cheat Sheets/macos/chrome-on-macos.md",
+    "Christian's Cheat Sheets/cloud/what-is-cloud-computing.md",
+    "Christian's Cheat Sheets/databases/mariadb.md",
+    "Christian's Cheat Sheets/linux/distros/debian.md",
+    "Christian's Cheat Sheets/linux/distros/fedora.md",
+    "Christian's Cheat Sheets/linux/distros/ubuntu.md",
+    "Christian's Cheat Sheets/linux/awk.md",
+    "My Cheat Sheets/Debian",
     "Untitled.md",
     "My Cheat Sheets",
     "Untitled 1.md",
@@ -167,23 +190,10 @@
     "Christian's Cheat Sheets/Untitled",
     "Christian's Cheat Sheets/tools/wsl.md",
     "Christian's Cheat Sheets/tools/vscode.md",
-    "Christian's Cheat Sheets/tools/vagrant.md",
-    "Christian's Cheat Sheets/tools/terraform.md",
-    "Christian's Cheat Sheets/tools/starship.md",
-    "Christian's Cheat Sheets/tools/packer.md",
-    "Christian's Cheat Sheets/tools/openssl.md",
-    "Christian's Cheat Sheets/tools/openssh.md",
-    "Christian's Cheat Sheets/tools/nmap.md",
-    "Christian's Cheat Sheets/tools/iterm2.md",
-    "Christian's Cheat Sheets/tools/homebrew.md",
-    "Christian's Cheat Sheets/tools/git.md",
-    "Christian's Cheat Sheets/tools/direnv.md",
-    "Christian's Cheat Sheets/tools/datree.md",
     "Christian's Cheat Sheets/tools",
     "Christian's Cheat Sheets/networking",
     "Christian's Cheat Sheets/misc",
     "Christian's Cheat Sheets/macos",
-    "Christian's Cheat Sheets/linux/distros",
-    "Christian's Cheat Sheets/linux"
+    "Christian's Cheat Sheets/linux/distros"
   ]
 }

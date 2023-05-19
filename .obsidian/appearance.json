@@ -2,5 +2,8 @@
   "accentColor": "",
   "cssTheme": "Obsidian gruvbox",
   "monospaceFontFamily": "Cascadia Code",
-  "translucency": false
+  "translucency": false,
+  "enabledCssSnippets": [
+    "padding"
+  ]
 }
