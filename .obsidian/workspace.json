@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Debian/Installation of Debian 11.md",
+                "file": "My Cheat Sheets/Docker/Docker-networking/Docker Network Deep Dive.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Debian/Installation of Debian 11.md",
+                "file": "My Cheat Sheets/Docker/Docker-networking/Docker Network Deep Dive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Debian/Installation of Debian 11.md",
+                "file": "My Cheat Sheets/Docker/Docker-networking/Docker Network Deep Dive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Debian/Installation of Debian 11.md"
+                "file": "My Cheat Sheets/Docker/Docker-networking/Docker Network Deep Dive.md"
               }
             }
           },
@@ -157,43 +157,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebf9ef7204810227",
+  "active": "a3c61c32416b9aa4",
   "lastOpenFiles": [
+    "My Cheat Sheets/Docker/Docker-networking/Docker cli Commands.md",
+    "My Cheat Sheets/Docker/Docker-networking/Docker Network Deep Dive.md",
+    "My Cheat Sheets/Docker/Docker-networking/Docker Networking -Deep Dive.md",
+    "My Cheat Sheets/Docker/Docker 101.md",
+    "Christian's Cheat Sheets/docker/docker-networking.md",
+    "My Cheat Sheets/Docker/Docker-networking",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet8.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet7.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet6.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet5.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet4.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet3.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet1.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images",
+    "My Cheat Sheets/Docker/Docker-networking/Docker Notes ac5fdeeeb8784b43b3bd120c23d6cca3.csv",
+    "My Cheat Sheets/Docker/docker Networking images",
+    "My Cheat Sheets/Docker/docker images (4).md",
+    "My Cheat Sheets/Docker/docker images (3).md",
+    "My Cheat Sheets/Docker/docker images (2).md",
+    "My Cheat Sheets/Docker/docker images (1).md",
+    "My Cheat Sheets/Docker/docker images (1).csv",
+    "My Cheat Sheets/Docker/docker images (1)",
+    "My Cheat Sheets/Docker",
+    "My Cheat Sheets/New folder",
+    "Christian's Cheat Sheets/misc/markdown.md",
+    "Christian's Cheat Sheets/misc/http-status-codes.md",
+    "Christian's Cheat Sheets/misc/github-actions.md",
+    "Christian's Cheat Sheets/misc/github.md",
+    "Christian's Cheat Sheets/misc/color-codes.md",
+    "Christian's Cheat Sheets/linux/distros/debian.md",
+    "Christian's Cheat Sheets/linux/distros/centos.md",
+    "Christian's Cheat Sheets/hardware/aspm.md",
+    "My Cheat Sheets/Debian/Installation of Debian 11.md",
     "README.md",
     "Christian's Cheat Sheets/docker/docker.md",
     "Christian's Cheat Sheets/linux/linux.md",
     "Christian's Cheat Sheets/linux/lspci.md",
-    "Christian's Cheat Sheets/linux/distros/centos.md",
-    "My Cheat Sheets/Debian/Installation of Debian 11.md",
     "Christian's Cheat Sheets/macos/chrome-on-macos.md",
     "Christian's Cheat Sheets/cloud/what-is-cloud-computing.md",
     "Christian's Cheat Sheets/databases/mariadb.md",
-    "Christian's Cheat Sheets/linux/distros/debian.md",
-    "Christian's Cheat Sheets/linux/distros/fedora.md",
-    "Christian's Cheat Sheets/linux/distros/ubuntu.md",
-    "Christian's Cheat Sheets/linux/awk.md",
     "My Cheat Sheets/Debian",
-    "Untitled.md",
-    "My Cheat Sheets",
-    "Untitled 1.md",
-    "apps/argocd.md",
-    "Christian's Cheat Sheets/LICENSE",
-    "Christian's Cheat Sheets/windows/windows-updates.md",
-    "Christian's Cheat Sheets/windows/windows-terminal.md",
-    "Christian's Cheat Sheets/windows/windows-dns-server.md",
-    "Christian's Cheat Sheets/windows/powershell.md",
-    "Christian's Cheat Sheets/windows/powershell-remote.md",
-    "Christian's Cheat Sheets/windows/environment-variables-in-windows.md",
-    "Christian's Cheat Sheets/windows/chocolatey.md",
-    "Christian's Cheat Sheets/windows/certutil.md",
-    "Christian's Cheat Sheets/windows",
-    "Christian's Cheat Sheets/Untitled",
-    "Christian's Cheat Sheets/tools/wsl.md",
-    "Christian's Cheat Sheets/tools/vscode.md",
-    "Christian's Cheat Sheets/tools",
-    "Christian's Cheat Sheets/networking",
-    "Christian's Cheat Sheets/misc",
-    "Christian's Cheat Sheets/macos",
-    "Christian's Cheat Sheets/linux/distros"
+    "My Cheat Sheets"
   ]
 }
