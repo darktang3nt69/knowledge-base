@@ -10,9 +10,17 @@
   "editor:toggle-source": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "Q"
+      "key": "X"
+    }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
     }
   ]
 }

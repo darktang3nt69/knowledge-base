@@ -5,7 +5,6 @@
 	- [[cert-manager]]
 	- [[cloudflare-tunnels]]
 	- [[grafana]]
-	- [[Index]]
 	- [[kasm]]
 	- [[longhorn]]
 	- [[nginx]]
@@ -17,13 +16,21 @@
 	- [[teleport]]
 	- [[traefik]]
 - [[Christian's Cheat Sheets]]
-- **[[cloud]]**
+- **cloud**
+	- **provider**
+		- [[civo]]
+		- [[digitalocean]]
+	- [[what-is-cloud-computing]]
 - **databases**
 	- [[mariadb]]
 	- [[mysql]]
 	- [[postgres]]
 	- [[sqlite]]
 - **[[docker]]**
+	- [[docker-compose]]
+	- [[docker-file]]
+	- [[docker-networking]]
+	- [[docker]]
 - **hardware**
 	- [[aspm]]
 - **infra**
@@ -34,7 +41,32 @@
 	- [[truenas-scale]]
 	- [[zfs]]
 - **[[kubernetes]]**
+	- [[helm]]
+	- [[k3s]]
+	- [[k9s]]
+	- [[kind]]
+	- [[kubectl]]
+	- [[kubernetes-dns]]
+	- [[kubernetes]]
 - **[[linux]]**
+	- [[awk]]
+	- [[cron]]
+	- **distros**
+		- [[centos]]
+		- [[debian]]
+		- [[fedora]]
+		- [[ubuntu]]
+	- [[environment-variables-in-linux]]
+	- [[grep]]
+	- [[iptables]]
+	- [[linux]]
+	- [[lspci]]
+	- [[mount]]
+	- [[netplan]]
+	- [[nfs]]
+	- [[sed]]
+	- [[ufw]]
+	- [[user]]
 - **macos**
 	- [[chrome-on-macos]]
 	- [[docker-on-macos-silicon]]

@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "3217ebb45db01fec",
+        "id": "46cfa33906a18387",
         "type": "tabs",
         "children": [
           {
-            "id": "21713794a95aac04",
+            "id": "84bbd6bdbc4fc494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Keychron/Keychron Custom firmware.md",
+                "file": "My Cheat Sheets/Debian/Networking/Setting Static IP in Debian.md",
                 "mode": "preview",
-                "backlinks": false,
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "94b762b6eaadb6af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Cheat Sheets/My Cheat Sheets.md",
+                "mode": "preview",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Keychron/Keychron Custom firmware.md",
+                "file": "My Cheat Sheets/Debian/Networking/Setting Static IP in Debian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Keychron/Keychron Custom firmware.md",
+                "file": "My Cheat Sheets/Debian/Networking/Setting Static IP in Debian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Keychron/Keychron Custom firmware.md"
+                "file": "My Cheat Sheets/Debian/Networking/Setting Static IP in Debian.md"
               }
             }
           },
@@ -162,37 +175,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7837429fd83126a",
+  "active": "84bbd6bdbc4fc494",
   "lastOpenFiles": [
-    "My Cheat Sheets/Debian/Installation of Debian 11.md",
-    "My Cheat Sheets/My Cheat Sheets.md",
-    "Christian's Cheat Sheets/docker/docker.md",
+    "My Cheat Sheets/Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
+    "My Cheat Sheets/Home Lab Docs/The arrs Stack/The Arr stack.md",
     "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
-    "Christian's Cheat Sheets/kubernetes/kubernetes-dns.md",
-    "My Cheat Sheets/Docker/Docker-networking/docker images/docker images.md",
-    "2023-05-19.md",
-    "Christian's Cheat Sheets/linux/Index.md",
-    "My Cheat Sheets/Untitled.md",
-    "Vault Index.md",
-    "Christian's Cheat Sheets/Vault Index.md",
+    "Christian's Cheat Sheets/apps/nginx.md",
+    "My Cheat Sheets/My Cheat Sheets.md",
+    "My Cheat Sheets/Debian/Networking/Setup Samba Share.md",
+    "My Cheat Sheets/Debian/Installation of Debian 11.md",
+    "Christian's Cheat Sheets/tools/datree.md",
+    "My Cheat Sheets/Home Lab Docs/The arrs Stack",
+    "My Cheat Sheets/Mother of all Indices..md",
+    "Christian's Cheat Sheets/misc/markdown.md",
+    "My Cheat Sheets/Home Lab Docs/Install Portainer.md",
+    "Christian's Cheat Sheets/linux/ufw.md",
+    "My Cheat Sheets/experiment.md",
+    "Christian's Cheat Sheets/apps/cert-manager.md",
+    "Christian's Cheat Sheets/apps/cloudflare-tunnels.md",
+    "Christian's Cheat Sheets/apps/grafana.md",
+    "Christian's Cheat Sheets/apps/kasm.md",
+    "Christian's Cheat Sheets/apps/longhorn.md",
+    "Christian's Cheat Sheets/apps/Index.md",
+    "Christian's Cheat Sheets/apps/argocd.md",
+    "Untitled.md",
+    "Christian's Cheat Sheets/windows/powershell.md",
+    "My Cheat Sheets/Home Lab Docs",
+    "Christian's Cheat Sheets/tools/starship.md",
+    "My Cheat Sheets/Debian/Networking/WiFi.md",
+    "My Cheat Sheets/Debian/Networking/Setting Static IP in Debian.md",
+    "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
+    "My Cheat Sheets/Docker/Installation",
+    "My Cheat Sheets/Debian/Networking",
     "Untitled 1",
     "Untitled",
-    "My Cheat Sheets/Docker/Docker 101.md",
-    "My Cheat Sheets/Keychron/Keychron Custom firmware.md",
     "Christian's Cheat Sheets.pdf",
-    "My Cheat Sheets/Index.md",
-    "Christian's Cheat Sheets/Index.md",
-    "Untitled.md",
-    "Christian's Cheat Sheets/apps/argocd.md",
-    "Christian's Cheat Sheets/linux/awk.md",
-    "Christian's Cheat Sheets/cloud/cloud.md",
-    "My Cheat Sheets/Docker/Index.md",
-    "Christian's Cheat Sheets/apps/Index.md",
-    "README.md",
-    "Christian's Cheat Sheets/windows/windows-terminal.md",
-    "Christian's Cheat Sheets/windows/windows-updates.md",
-    "Christian's Cheat Sheets/windows/windows-dns-server.md",
-    "Christian's Cheat Sheets/windows/powershell.md",
     "My Cheat Sheets/Docker/Docker-networking",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
@@ -205,10 +222,6 @@
     "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet3.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet1.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images",
-    "My Cheat Sheets/Docker/Docker-networking/Docker Notes ac5fdeeeb8784b43b3bd120c23d6cca3.csv",
-    "My Cheat Sheets/Docker/docker Networking images",
-    "My Cheat Sheets/Docker/docker images (1).csv",
-    "My Cheat Sheets/Docker/docker images (1)",
-    "My Cheat Sheets/Docker"
+    "My Cheat Sheets/Docker/Docker-networking/Docker Notes ac5fdeeeb8784b43b3bd120c23d6cca3.csv"
   ]
 }

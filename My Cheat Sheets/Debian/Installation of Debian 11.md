@@ -25,3 +25,23 @@
 	- Choose to install GRUB on the **primary devices**.
 
 Since, it is headless you don't have a gui. Connect through SSH.
+
+### Post Installation steps
+
+1. Edit your source if installed from usb.
+```bash
+sudo nano /etc/apt/sources.list
+```
+
+2. Comment these lines like this:
+```
+#deb cdrom:[Debian GNU/Linux 11.7.0 _Bullseye_ - Official amd64 DVD Binary-1 20230429-11:50]/ bullseye contrib main
+
+#deb cdrom:[Debian GNU/Linux 11.7.0 _Bullseye_ - Official amd64 DVD Binary-1 20230429-11:50]/ bullseye contrib main
+```
+
+3. Update again
+```bash
+sudo apt update
+sudo apt upgrade
+```

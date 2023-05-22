@@ -26,3 +26,10 @@ Block an IP Address
 sudo ufw deny from 203.0.113.0/24
 ```
 
+Allow an IP Address
+
+## Allow an IP Address/Subnet
+
+```bash
+sudo ufw allow from 203.0.113.0/24
+```
