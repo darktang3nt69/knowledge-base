@@ -9,17 +9,29 @@
 - **Docker**
 	- [[Docker Study Plan]]
 	- **Docker-networking**
+		- [[Bridge Networks]]
+		- [[Container networking]]
 		- **[[docker images]]**
 			- [[docker images]]
 		- [[Docker Network Deep Dive]]
+		- [[Host Networking]]
+		- [[IPvlan Networks]]
+		- [[Macvlan Network]]
+		- [[Networking overview]]
 	- **Installation**
 		- [[Installation of Docker]]
 		- [[Linux post-installation steps for Docker Engine]]
+	- **Storage**
+		- [[Overview]]
+		- [[Volumes]]
 - **Home Lab Docs**
 	- [[Install Portainer]]
 	- **The arrs Stack**
 		- [[Hard Links and Folder Structure for arr stack]]
 		- [[The Arr stack]]
+- **K8s**
+	- [[How to Learn Kubernetes (Complete Roadmap & Resources)]]
+	- [[Service Discovery]]
 - **Keychron**
 	- [[Keychron Custom firmware]]
 - [[Mother of all Indices.]]

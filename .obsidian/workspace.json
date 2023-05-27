@@ -4,36 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "46cfa33906a18387",
+        "id": "edc1abe492467434",
         "type": "tabs",
         "children": [
           {
-            "id": "84bbd6bdbc4fc494",
+            "id": "7a7b5aeba14d0e9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Cheat Sheets/Debian/Networking/Setting Static IP in Debian.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "94b762b6eaadb6af",
+            "id": "27db268a8cdf1f36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/My Cheat Sheets.md",
+                "file": "My Cheat Sheets/K8s/Service Discovery.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "self ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Debian/Networking/Setting Static IP in Debian.md",
+                "file": "My Cheat Sheets/K8s/Service Discovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Debian/Networking/Setting Static IP in Debian.md",
+                "file": "My Cheat Sheets/K8s/Service Discovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Debian/Networking/Setting Static IP in Debian.md"
+                "file": "My Cheat Sheets/K8s/Service Discovery.md"
               }
             }
           },
@@ -175,42 +171,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84bbd6bdbc4fc494",
+  "active": "27db268a8cdf1f36",
   "lastOpenFiles": [
-    "My Cheat Sheets/Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
-    "My Cheat Sheets/Home Lab Docs/The arrs Stack/The Arr stack.md",
-    "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
-    "Christian's Cheat Sheets/apps/nginx.md",
+    "My Cheat Sheets/K8s/Service Discovery.md",
+    "My Cheat Sheets/Docker/Docker-networking/Macvlan Network.md",
+    "My Cheat Sheets/Docker/Docker Security/Docker security.md",
+    "My Cheat Sheets/Docker/Docker Security",
+    "My Cheat Sheets/Docker/Docker-networking/IPvlan Networks.md",
+    "My Cheat Sheets/Docker/Docker-networking/Host Networking.md",
+    "My Cheat Sheets/Docker/Docker-networking/Bridge Networks.md",
     "My Cheat Sheets/My Cheat Sheets.md",
-    "My Cheat Sheets/Debian/Networking/Setup Samba Share.md",
+    "My Cheat Sheets/Docker/Docker-networking/Untitled 1.md",
+    "My Cheat Sheets/Docker/Docker-networking/Container networking.md",
+    "My Cheat Sheets/Docker/Docker-networking/Networking overview.md",
+    "My Cheat Sheets/Docker/Storage/Volumes.md",
+    "My Cheat Sheets/Docker/Storage/Overview.md",
+    "My Cheat Sheets/Docker/Docker-networking/Docker Network Deep Dive.md",
     "My Cheat Sheets/Debian/Installation of Debian 11.md",
-    "Christian's Cheat Sheets/tools/datree.md",
-    "My Cheat Sheets/Home Lab Docs/The arrs Stack",
-    "My Cheat Sheets/Mother of all Indices..md",
-    "Christian's Cheat Sheets/misc/markdown.md",
-    "My Cheat Sheets/Home Lab Docs/Install Portainer.md",
-    "Christian's Cheat Sheets/linux/ufw.md",
-    "My Cheat Sheets/experiment.md",
-    "Christian's Cheat Sheets/apps/cert-manager.md",
-    "Christian's Cheat Sheets/apps/cloudflare-tunnels.md",
-    "Christian's Cheat Sheets/apps/grafana.md",
-    "Christian's Cheat Sheets/apps/kasm.md",
-    "Christian's Cheat Sheets/apps/longhorn.md",
-    "Christian's Cheat Sheets/apps/Index.md",
-    "Christian's Cheat Sheets/apps/argocd.md",
-    "Untitled.md",
-    "Christian's Cheat Sheets/windows/powershell.md",
-    "My Cheat Sheets/Home Lab Docs",
-    "Christian's Cheat Sheets/tools/starship.md",
+    "My Cheat Sheets/Debian/All About GUI in Debian.md",
     "My Cheat Sheets/Debian/Networking/WiFi.md",
+    "My Cheat Sheets/Debian/Networking/Setup Samba Share.md",
     "My Cheat Sheets/Debian/Networking/Setting Static IP in Debian.md",
+    "My Cheat Sheets/K8s/How to Learn Kubernetes (Complete Roadmap & Resources).md",
+    "My Cheat Sheets/Keychron/Keychron Custom firmware.md",
+    "My Cheat Sheets/Home Lab Docs/The arrs Stack/The Arr stack.md",
+    "My Cheat Sheets/Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
     "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
+    "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
+    "My Cheat Sheets/Docker/Storage",
+    "Christian's Cheat Sheets/misc/ssl-certs.md",
+    "My Cheat Sheets/K8s",
+    "Christian's Cheat Sheets/infra/proxmox-certificate-management.md",
+    "My Cheat Sheets/Home Lab Docs/The arrs Stack",
+    "My Cheat Sheets/Home Lab Docs",
     "My Cheat Sheets/Docker/Installation",
     "My Cheat Sheets/Debian/Networking",
     "Untitled 1",
     "Untitled",
     "Christian's Cheat Sheets.pdf",
-    "My Cheat Sheets/Docker/Docker-networking",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",
@@ -220,8 +218,6 @@
     "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet5.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet4.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet3.png",
-    "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet1.png",
-    "My Cheat Sheets/Docker/Docker-networking/docker images",
-    "My Cheat Sheets/Docker/Docker-networking/Docker Notes ac5fdeeeb8784b43b3bd120c23d6cca3.csv"
+    "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet1.png"
   ]
 }

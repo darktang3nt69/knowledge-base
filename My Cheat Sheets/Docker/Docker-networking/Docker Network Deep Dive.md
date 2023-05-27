@@ -1,7 +1,5 @@
 # Docker Network Deep Dive
 
-Created: April 22, 2023 10:10 PM
-Reviewed: No
 
 # Docker Networking Deep Dive
 
