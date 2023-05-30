@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "edc1abe492467434",
+        "id": "0e6bf2d47bc218d5",
         "type": "tabs",
         "children": [
           {
-            "id": "7a7b5aeba14d0e9e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "27db268a8cdf1f36",
+            "id": "9ddde0a142d4a487",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/K8s/Service Discovery.md",
+                "file": "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/K8s/Service Discovery.md",
+                "file": "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/K8s/Service Discovery.md",
+                "file": "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/K8s/Service Discovery.md"
+                "file": "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md"
               }
             }
           },
@@ -171,8 +162,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "27db268a8cdf1f36",
+  "active": "9ddde0a142d4a487",
   "lastOpenFiles": [
+    "My Cheat Sheets/Debian/Setup Passwordless ssh login.md",
+    "My Cheat Sheets/K8s/Kubernetes Pod Priority, PriorityClass, and Preemption Explained.md",
+    "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md",
     "My Cheat Sheets/K8s/Service Discovery.md",
     "My Cheat Sheets/Docker/Docker-networking/Macvlan Network.md",
     "My Cheat Sheets/Docker/Docker Security/Docker security.md",
@@ -197,11 +191,8 @@
     "My Cheat Sheets/Home Lab Docs/The arrs Stack/The Arr stack.md",
     "My Cheat Sheets/Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
     "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
-    "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
     "My Cheat Sheets/Docker/Storage",
-    "Christian's Cheat Sheets/misc/ssl-certs.md",
     "My Cheat Sheets/K8s",
-    "Christian's Cheat Sheets/infra/proxmox-certificate-management.md",
     "My Cheat Sheets/Home Lab Docs/The arrs Stack",
     "My Cheat Sheets/Home Lab Docs",
     "My Cheat Sheets/Docker/Installation",

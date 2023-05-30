@@ -6,6 +6,7 @@
 		- [[Setting Static IP in Debian]]
 		- [[Setup Samba Share]]
 		- [[WiFi]]
+	- [[Setup Passwordless ssh login]]
 - **Docker**
 	- [[Docker Study Plan]]
 	- **Docker-networking**
@@ -31,6 +32,8 @@
 		- [[The Arr stack]]
 - **K8s**
 	- [[How to Learn Kubernetes (Complete Roadmap & Resources)]]
+	- [[Kubernetes Architecture Explained]]
+	- [[Kubernetes Pod Priority, PriorityClass, and Preemption Explained]]
 	- [[Service Discovery]]
 - **Keychron**
 	- [[Keychron Custom firmware]]
