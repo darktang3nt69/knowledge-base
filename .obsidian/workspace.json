@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md",
+                "file": "Christian's Cheat Sheets/apps/cert-manager.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "474c974191a85883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "self ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md",
+                "file": "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md",
+                "file": "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md"
+                "file": "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md"
               }
             }
           },
@@ -162,11 +176,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ddde0a142d4a487",
+  "active": "474c974191a85883",
   "lastOpenFiles": [
+    "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
+    "My Cheat Sheets/K3s/installation.md",
+    "My Cheat Sheets/Debian/Networking/Setup Samba Share.md",
+    "My Cheat Sheets/K3s",
+    "My Cheat Sheets/Debian/Networking/Setting Static IP in Debian.md",
+    "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
+    "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
+    "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md",
     "My Cheat Sheets/Debian/Setup Passwordless ssh login.md",
     "My Cheat Sheets/K8s/Kubernetes Pod Priority, PriorityClass, and Preemption Explained.md",
-    "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md",
     "My Cheat Sheets/K8s/Service Discovery.md",
     "My Cheat Sheets/Docker/Docker-networking/Macvlan Network.md",
     "My Cheat Sheets/Docker/Docker Security/Docker security.md",
@@ -184,13 +205,7 @@
     "My Cheat Sheets/Debian/Installation of Debian 11.md",
     "My Cheat Sheets/Debian/All About GUI in Debian.md",
     "My Cheat Sheets/Debian/Networking/WiFi.md",
-    "My Cheat Sheets/Debian/Networking/Setup Samba Share.md",
-    "My Cheat Sheets/Debian/Networking/Setting Static IP in Debian.md",
     "My Cheat Sheets/K8s/How to Learn Kubernetes (Complete Roadmap & Resources).md",
-    "My Cheat Sheets/Keychron/Keychron Custom firmware.md",
-    "My Cheat Sheets/Home Lab Docs/The arrs Stack/The Arr stack.md",
-    "My Cheat Sheets/Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
-    "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
     "My Cheat Sheets/Docker/Storage",
     "My Cheat Sheets/K8s",
     "My Cheat Sheets/Home Lab Docs/The arrs Stack",
@@ -199,7 +214,6 @@
     "My Cheat Sheets/Debian/Networking",
     "Untitled 1",
     "Untitled",
-    "Christian's Cheat Sheets.pdf",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",

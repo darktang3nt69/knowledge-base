@@ -29,7 +29,10 @@
 	- [[Install Portainer]]
 	- **The arrs Stack**
 		- [[Hard Links and Folder Structure for arr stack]]
+		- [[qBittorrent - Basic Setup]]
 		- [[The Arr stack]]
+- **K3s**
+	- [[installation]]
 - **K8s**
 	- [[How to Learn Kubernetes (Complete Roadmap & Resources)]]
 	- [[Kubernetes Architecture Explained]]

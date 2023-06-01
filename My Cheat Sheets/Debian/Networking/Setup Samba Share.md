@@ -27,7 +27,7 @@ sudo cp /etc/samba/smb.conf smb.conf.orig
 
 6. Open `/etc/samba/smb.conf`, and add the following.
 ```bash
-sudo /etc/samba/smb.conf
+sudo nano /etc/samba/smb.conf
 ```
 ```
 [samba_share]
