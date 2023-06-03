@@ -6,6 +6,7 @@
 		- [[Setting Static IP in Debian]]
 		- [[Setup Samba Share]]
 		- [[WiFi]]
+	- [[Remote Desktop Client]]
 	- [[Setup Passwordless ssh login]]
 - **Docker**
 	- [[Docker Study Plan]]

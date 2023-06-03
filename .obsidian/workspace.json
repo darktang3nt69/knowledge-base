@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
-                "mode": "source",
+                "file": "My Cheat Sheets/Debian/Remote Desktop Client.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
+                "file": "My Cheat Sheets/Debian/Remote Desktop Client.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
+                "file": "My Cheat Sheets/Debian/Remote Desktop Client.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md"
+                "file": "My Cheat Sheets/Debian/Remote Desktop Client.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   "active": "474c974191a85883",
   "lastOpenFiles": [
     "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
+    "My Cheat Sheets/Debian/Remote Desktop Client.md",
     "My Cheat Sheets/K3s/installation.md",
     "My Cheat Sheets/Debian/Networking/Setup Samba Share.md",
     "My Cheat Sheets/K3s",
@@ -205,7 +206,6 @@
     "My Cheat Sheets/Debian/Installation of Debian 11.md",
     "My Cheat Sheets/Debian/All About GUI in Debian.md",
     "My Cheat Sheets/Debian/Networking/WiFi.md",
-    "My Cheat Sheets/K8s/How to Learn Kubernetes (Complete Roadmap & Resources).md",
     "My Cheat Sheets/Docker/Storage",
     "My Cheat Sheets/K8s",
     "My Cheat Sheets/Home Lab Docs/The arrs Stack",
