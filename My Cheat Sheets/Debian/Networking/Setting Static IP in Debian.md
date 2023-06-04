@@ -17,7 +17,7 @@ allow-hotplug enp0s5
 iface enp0s5 inet dhcp
 ```
 
-4. Remove DHCP and alllow-hotplug. and find these values.
+4. Comment DHCP and alllow-hotplug. and find these values.
 - Get netmask from :
 ```bash
 sudo ifconfig
@@ -53,7 +53,35 @@ sudo systemctl restart networking.service
 sudo systemctl status networking.service
 ```
 
+8. Current Config
+```
+auto lo
+iface lo inet loopback
 
+
+#allow-hotplug enp7s0
+#iface enp7s0 inet dhcp
+
+auto enp7s0
+iface enp7s0 inet static
+address 192.168.1.69
+netmask 255.255.255.0
+gateway 192.168.1.1
+dns-domain google.com
+dns-nameservers 8.8.8.8
+dns-nameservers 1.1.1.1
+domain darktang3nt.local
+
+auto wlp6s0
+iface wlp6s0 inet static
+address 192.168.1.69
+netmask 255.255.255.0
+gateway 192.168.1.1
+dns-domain google.com
+dns-nameservers 8.8.8.8
+dns-nameservers 1.1.1.1
+domain darktang3nt.local
+```
 
   
 #### Sample session:

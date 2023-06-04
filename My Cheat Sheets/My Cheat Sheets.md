@@ -2,6 +2,7 @@
 - **Debian**
 	- [[All About GUI in Debian]]
 	- [[Installation of Debian 11]]
+	- [[Make ZSH default shell]]
 	- **Networking**
 		- [[Setting Static IP in Debian]]
 		- [[Setup Samba Share]]

@@ -21,13 +21,13 @@ To create the `docker` group and add your user:
 1.  Create the `docker` group.
     
     ```
-    $ sudo groupadd docker
+    sudo groupadd docker
     ```
     
 2.  Add your user to the `docker` group.
     
     ```
-    $ sudo usermod -aG docker $USER
+    sudo usermod -aG docker $USER
     ```
     
 3.  Log out and log back in so that your group membership is re-evaluated.
@@ -37,13 +37,13 @@ To create the `docker` group and add your user:
     You can also run the following command to activate the changes to groups:
     
     ```
-    $ newgrp docker
+    newgrp docker
     ```
     
 4.  Verify that you can run `docker` commands without `sudo`.
     
     ```
-    $ docker run hello-world
+    docker run hello-world
     ```
     
     This command downloads a test image and runs it in a container. When the container runs, it prints a message and exits.
@@ -60,8 +60,8 @@ To create the `docker` group and add your user:
     To fix this problem, either remove the `~/.docker/` directory (it’s recreated automatically, but any custom settings are lost), or change its ownership and permissions using the following commands:
     
     ```
-    $ sudo chown "$USER":"$USER" /home/"$USER"/.docker -R
-    $ sudo chmod g+rwx "$HOME/.docker" -R
+    sudo chown "$USER":"$USER" /home/"$USER"/.docker -R
+    sudo chmod g+rwx "$HOME/.docker" -R
     ```
     
 
@@ -70,15 +70,15 @@ To create the `docker` group and add your user:
 Many modern Linux distributions use [systemd](https://docs.docker.com/config/daemon/systemd/) to manage which services start when the system boots. On Debian and Ubuntu, the Docker service starts on boot by default. To automatically start Docker and containerd on boot for other Linux distributions using systemd, run the following commands:
 
 ```
-$ sudo systemctl enable docker.service
-$ sudo systemctl enable containerd.service
+sudo systemctl enable docker.service
+sudo systemctl enable containerd.service
 ```
 
 To stop this behavior, use `disable` instead.
 
 ```
-$ sudo systemctl disable docker.service
-$ sudo systemctl disable containerd.service
+sudo systemctl disable docker.service
+sudo systemctl disable containerd.service
 ```
 
 If you need to add an HTTP proxy, set a different directory or partition for the Docker runtime files, or make other customizations, see [customize your systemd Docker daemon options](https://docs.docker.com/config/daemon/systemd/).
