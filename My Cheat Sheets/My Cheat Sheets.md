@@ -12,6 +12,8 @@
 	- [[Remote Desktop Client]]
 	- [[Setup Passwordless ssh login]]
 	- [[Sources List]]
+	- [[Ubuntu Orangepi]]
+	- [[Version Upgrade]]
 - **Docker**
 	- [[Docker Study Plan]]
 	- **Docker-networking**

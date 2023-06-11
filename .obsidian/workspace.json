@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0e6bf2d47bc218d5",
+        "id": "7c9634c5d867031b",
         "type": "tabs",
         "children": [
           {
-            "id": "9ddde0a142d4a487",
+            "id": "632fae0fa8ee7412",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Cheat Sheets/Home Lab Docs/Interesting Docker Container.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Home Lab Docs/Interesting Docker Container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Home Lab Docs/Interesting Docker Container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "My Cheat Sheets/Home Lab Docs/Interesting Docker Container.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,10 +153,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ddde0a142d4a487",
+  "active": "632fae0fa8ee7412",
   "lastOpenFiles": [
-    "My Cheat Sheets/My Cheat Sheets.md",
+    "My Cheat Sheets/Debian/Ubuntu Orangepi.md",
+    "My Cheat Sheets/Debian/Installation of Debian 11.md",
+    "My Cheat Sheets/Debian/Version Upgrade.md",
     "My Cheat Sheets/Home Lab Docs/Interesting Docker Container.md",
+    "My Cheat Sheets/My Cheat Sheets.md",
     "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
     "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
     "My Cheat Sheets/K3s/installation.md",
@@ -188,10 +182,7 @@
     "My Cheat Sheets/K8s/Kubernetes Pod Priority, PriorityClass, and Preemption Explained.md",
     "My Cheat Sheets/K8s/Service Discovery.md",
     "My Cheat Sheets/Docker/Docker-networking/Macvlan Network.md",
-    "My Cheat Sheets/Docker/Docker Security/Docker security.md",
     "My Cheat Sheets/Docker/Docker Security",
-    "My Cheat Sheets/Docker/Docker-networking/IPvlan Networks.md",
-    "My Cheat Sheets/Docker/Docker-networking/Host Networking.md",
     "My Cheat Sheets/Docker/Storage",
     "My Cheat Sheets/K8s",
     "My Cheat Sheets/Home Lab Docs/The arrs Stack",
