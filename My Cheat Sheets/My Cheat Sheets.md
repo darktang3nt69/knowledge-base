@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
 - **Debian**
+	- [[Add user to sudo]]
 	- [[All About GUI in Debian]]
 	- [[Installation of Debian 11]]
 	- [[Make ZSH default shell]]
@@ -7,8 +8,10 @@
 		- [[Setting Static IP in Debian]]
 		- [[Setup Samba Share]]
 		- [[WiFi]]
+	- [[Oh My Zsh + PowerLevel10k = 😎 terminal]]
 	- [[Remote Desktop Client]]
 	- [[Setup Passwordless ssh login]]
+	- [[Sources List]]
 - **Docker**
 	- [[Docker Study Plan]]
 	- **Docker-networking**
@@ -29,6 +32,7 @@
 		- [[Volumes]]
 - **Home Lab Docs**
 	- [[Install Portainer]]
+	- [[Interesting Docker Container]]
 	- **The arrs Stack**
 		- [[Hard Links and Folder Structure for arr stack]]
 		- [[qBittorrent - Basic Setup]]

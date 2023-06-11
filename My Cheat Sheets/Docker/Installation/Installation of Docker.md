@@ -32,13 +32,14 @@ echo \
 5. To install the latest version, run:
 
 ```bash
+sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
 
 6. Verify that the Docker Engine installation is successful by running the `hello-world` image:
 
-```
-$ sudo docker run hello-world
+```bash
+sudo docker run hello-world
 ```
 
 Read: [[Linux post-installation steps for Docker Engine]] for next steps.
