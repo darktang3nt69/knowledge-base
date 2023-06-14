@@ -1,8 +1,10 @@
 %% Begin Waypoint %%
-- **Debian**
+- **Debian and Linux**
 	- [[Add user to sudo]]
 	- [[All About GUI in Debian]]
+	- [[Get CPU Temps]]
 	- [[Installation of Debian 11]]
+	- [[Linux Cheatsheet]]
 	- [[Make ZSH default shell]]
 	- **Networking**
 		- [[Setting Static IP in Debian]]
@@ -43,7 +45,9 @@
 	- [[installation]]
 - **K8s**
 	- [[How to Learn Kubernetes (Complete Roadmap & Resources)]]
+	- [[Kubeconfig File Explained With Practical Examples]]
 	- [[Kubernetes Architecture Explained]]
+	- [[Kubernetes Objects Vs Resources Vs Custom Resource]]
 	- [[Kubernetes Pod Priority, PriorityClass, and Preemption Explained]]
 	- [[Service Discovery]]
 - **Keychron**

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7c9634c5d867031b",
+        "id": "b012cfaf5d3323d6",
         "type": "tabs",
         "children": [
           {
-            "id": "632fae0fa8ee7412",
+            "id": "4f138c76f5c194dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "My Cheat Sheets/K8s/Kubernetes Objects Vs Resources Vs Custom Resource.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "My Cheat Sheets/K8s/Kubernetes Objects Vs Resources Vs Custom Resource.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "My Cheat Sheets/K8s/Kubernetes Objects Vs Resources Vs Custom Resource.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "My Cheat Sheets/K8s/Kubernetes Objects Vs Resources Vs Custom Resource.md"
+              }
             }
           },
           {
@@ -153,42 +162,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "632fae0fa8ee7412",
+  "active": "4f138c76f5c194dc",
   "lastOpenFiles": [
-    "My Cheat Sheets/Debian/Ubuntu Orangepi.md",
-    "My Cheat Sheets/Debian/Installation of Debian 11.md",
-    "My Cheat Sheets/Debian/Version Upgrade.md",
+    "My Cheat Sheets/K8s/How to Learn Kubernetes (Complete Roadmap & Resources).md",
+    "My Cheat Sheets/K8s/Kubernetes Objects Vs Resources Vs Custom Resource.md",
+    "My Cheat Sheets/K8s/Kubeconfig File Explained With Practical Examples.md",
+    "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
+    "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md",
+    "My Cheat Sheets/K8s/Service Discovery.md",
+    "My Cheat Sheets/K8s/Kubernetes Pod Priority, PriorityClass, and Preemption Explained.md",
+    "My Cheat Sheets/K3s/installation.md",
+    "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md",
+    "My Cheat Sheets/Debian and Linux/Ubuntu Orangepi.md",
+    "My Cheat Sheets/Debian and Linux/Installation of Debian 11.md",
+    "My Cheat Sheets/Debian and Linux/Version Upgrade.md",
     "My Cheat Sheets/Home Lab Docs/Interesting Docker Container.md",
     "My Cheat Sheets/My Cheat Sheets.md",
     "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
     "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
-    "My Cheat Sheets/K3s/installation.md",
     "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
     "My Cheat Sheets/Home Lab Docs/Install Portainer.md",
     "My Cheat Sheets/K3s/Portainer on K3s.md",
-    "My Cheat Sheets/Debian/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
-    "My Cheat Sheets/Debian/Make ZSH default shell.md",
-    "My Cheat Sheets/Debian/Add user to sudo.md",
-    "My Cheat Sheets/Debian/Networking/Setting Static IP in Debian.md",
-    "My Cheat Sheets/Debian/Networking/WiFi.md",
-    "My Cheat Sheets/Debian/Sources List.md",
-    "My Cheat Sheets/Debian/Setup Passwordless ssh login.md",
-    "My Cheat Sheets/Debian/Remote Desktop Client.md",
-    "Christian's Cheat Sheets/apps/cert-manager.md",
-    "My Cheat Sheets/Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
-    "My Cheat Sheets/Debian/Networking/Setup Samba Share.md",
+    "My Cheat Sheets/Debian and Linux/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
+    "My Cheat Sheets/Debian and Linux/Make ZSH default shell.md",
+    "My Cheat Sheets/Debian and Linux/Add user to sudo.md",
+    "My Cheat Sheets/Debian and Linux/Networking/Setting Static IP in Debian.md",
+    "My Cheat Sheets/Debian and Linux/Networking/WiFi.md",
+    "My Cheat Sheets/Debian and Linux/Sources List.md",
+    "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
     "My Cheat Sheets/K3s",
-    "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md",
-    "My Cheat Sheets/K8s/Kubernetes Pod Priority, PriorityClass, and Preemption Explained.md",
-    "My Cheat Sheets/K8s/Service Discovery.md",
-    "My Cheat Sheets/Docker/Docker-networking/Macvlan Network.md",
     "My Cheat Sheets/Docker/Docker Security",
     "My Cheat Sheets/Docker/Storage",
     "My Cheat Sheets/K8s",
     "My Cheat Sheets/Home Lab Docs/The arrs Stack",
     "My Cheat Sheets/Home Lab Docs",
     "My Cheat Sheets/Docker/Installation",
-    "My Cheat Sheets/Debian/Networking",
+    "My Cheat Sheets/Debian and Linux/Networking",
     "Untitled 1",
     "Untitled",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
