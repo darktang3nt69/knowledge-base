@@ -6,6 +6,6 @@
   "enabledCssSnippets": [
     "padding"
   ],
-  "interfaceFontFamily": "Arial Narrow",
+  "interfaceFontFamily": "Arial Narrow,Cascadia Code",
   "nativeMenus": true
 }
