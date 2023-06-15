@@ -11,13 +11,8 @@
             "id": "4f138c76f5c194dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Cheat Sheets/K3s/Certs.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/K3s/Certs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/K3s/Certs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "My Cheat Sheets/K3s/Certs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,10 +154,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f138c76f5c194dc",
+  "active": "a3c61c32416b9aa4",
   "lastOpenFiles": [
-    "My Cheat Sheets/Rough Notes.md",
+    "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md",
+    "My Cheat Sheets/K8s/K8s API Reference.md",
     "My Cheat Sheets/K3s/Certs.md",
+    "My Cheat Sheets/K8s/Pods",
+    "My Cheat Sheets/Rough Notes.md",
     "My Cheat Sheets/K8s/Kubernetes Objects Vs Resources Vs Custom Resource.md",
     "My Cheat Sheets/K8s/How to Learn Kubernetes (Complete Roadmap & Resources).md",
     "My Cheat Sheets/K8s/Kubeconfig File Explained With Practical Examples.md",
@@ -189,8 +183,6 @@
     "My Cheat Sheets/Debian and Linux/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
     "My Cheat Sheets/Debian and Linux/Make ZSH default shell.md",
     "My Cheat Sheets/Debian and Linux/Add user to sudo.md",
-    "My Cheat Sheets/Debian and Linux/Networking/Setting Static IP in Debian.md",
-    "My Cheat Sheets/Debian and Linux/Networking/WiFi.md",
     "My Cheat Sheets/K3s",
     "My Cheat Sheets/Docker/Docker Security",
     "My Cheat Sheets/Docker/Storage",
@@ -200,7 +192,6 @@
     "My Cheat Sheets/Docker/Installation",
     "My Cheat Sheets/Debian and Linux/Networking",
     "Untitled 1",
-    "Untitled",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",

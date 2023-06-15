@@ -50,6 +50,8 @@
 	- [[Kubernetes Architecture Explained]]
 	- [[Kubernetes Objects Vs Resources Vs Custom Resource]]
 	- [[Kubernetes Pod Priority, PriorityClass, and Preemption Explained]]
+	- **Pods**
+		- [[Pod Lifecycle]]
 	- [[Service Discovery]]
 - **Keychron**
 	- [[Keychron Custom firmware]]
