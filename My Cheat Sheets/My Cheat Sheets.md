@@ -3,6 +3,7 @@
 	- [[Add user to sudo]]
 	- [[All About GUI in Debian]]
 	- [[Get CPU Temps]]
+	- [[Install .deb files]]
 	- [[Installation of Debian 11]]
 	- [[Linux Cheatsheet]]
 	- [[Make ZSH default shell]]
@@ -36,7 +37,7 @@
 		- [[Volumes]]
 - **Home Lab Docs**
 	- [[Install Portainer]]
-	- [[Interesting Docker Container]]
+	- [[Interesting Docker Containers]]
 	- **The arrs Stack**
 		- [[Hard Links and Folder Structure for arr stack]]
 		- [[qBittorrent - Basic Setup]]

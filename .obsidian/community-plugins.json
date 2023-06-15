@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "table-editor-obsidian",
-  "waypoint"
+  "waypoint",
+  "url-into-selection",
+  "obsidian-plugin-toc"
 ]
