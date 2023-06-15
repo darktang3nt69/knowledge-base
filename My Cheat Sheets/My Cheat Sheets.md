@@ -42,6 +42,7 @@
 		- [[qBittorrent - Basic Setup]]
 		- [[The Arr stack]]
 - **K3s**
+	- [[Certs]]
 	- [[installation]]
 - **K8s**
 	- [[How to Learn Kubernetes (Complete Roadmap & Resources)]]
@@ -54,5 +55,6 @@
 	- [[Keychron Custom firmware]]
 - [[Mother of all Indices.]]
 - [[My Cheat Sheets]]
+- [[Rough Notes]]
 
 %% End Waypoint %%

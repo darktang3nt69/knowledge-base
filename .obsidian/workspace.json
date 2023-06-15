@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/K8s/Kubernetes Objects Vs Resources Vs Custom Resource.md",
+                "file": "My Cheat Sheets/K3s/Certs.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/K8s/Kubernetes Objects Vs Resources Vs Custom Resource.md",
+                "file": "My Cheat Sheets/K3s/Certs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/K8s/Kubernetes Objects Vs Resources Vs Custom Resource.md",
+                "file": "My Cheat Sheets/K3s/Certs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/K8s/Kubernetes Objects Vs Resources Vs Custom Resource.md"
+                "file": "My Cheat Sheets/K3s/Certs.md"
               }
             }
           },
@@ -163,10 +163,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7837429fd83126a",
+  "active": "4f138c76f5c194dc",
   "lastOpenFiles": [
-    "My Cheat Sheets/K8s/How to Learn Kubernetes (Complete Roadmap & Resources).md",
+    "My Cheat Sheets/Rough Notes.md",
+    "My Cheat Sheets/K3s/Certs.md",
     "My Cheat Sheets/K8s/Kubernetes Objects Vs Resources Vs Custom Resource.md",
+    "My Cheat Sheets/K8s/How to Learn Kubernetes (Complete Roadmap & Resources).md",
     "My Cheat Sheets/K8s/Kubeconfig File Explained With Practical Examples.md",
     "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
     "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md",
@@ -189,8 +191,6 @@
     "My Cheat Sheets/Debian and Linux/Add user to sudo.md",
     "My Cheat Sheets/Debian and Linux/Networking/Setting Static IP in Debian.md",
     "My Cheat Sheets/Debian and Linux/Networking/WiFi.md",
-    "My Cheat Sheets/Debian and Linux/Sources List.md",
-    "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
     "My Cheat Sheets/K3s",
     "My Cheat Sheets/Docker/Docker Security",
     "My Cheat Sheets/Docker/Storage",
