@@ -11,8 +11,13 @@
             "id": "5a7f7444df9b89b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md"
+              }
             }
           },
           {
@@ -138,11 +147,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,9 +163,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7837429fd83126a",
+  "active": "5a7f7444df9b89b1",
   "lastOpenFiles": [
     "My Cheat Sheets/K8s/Checklist.md",
+    "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
+    "My Cheat Sheets/Debian and Linux/Sources List.md",
     "My Cheat Sheets/K8s/Pods/Ephemeral Containers.md",
     "My Cheat Sheets/K8s/Pods/Init Containers.md",
     "My Cheat Sheets/Home Lab Docs/Install Pihole.md",
@@ -167,7 +179,6 @@
     "My Cheat Sheets/Debian and Linux/Networking/Setting Static IP in Debian.md",
     "Christian's Cheat Sheets/apps/argocd.md",
     "My Cheat Sheets/Debian and Linux/Remote Desktop Client.md",
-    "My Cheat Sheets/Debian and Linux/Sources List.md",
     "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
     "Christian's Cheat Sheets/apps/teleport.md",
     "My Cheat Sheets/Home Lab Docs/Interesting Docker Containers.md",
@@ -180,7 +191,6 @@
     "My Cheat Sheets/Debian and Linux/Install .deb files.md",
     "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
     "My Cheat Sheets/Home Lab Docs/Install Portainer.md",
-    "My Cheat Sheets/K8s/K8s API Reference.md",
     "My Cheat Sheets/K8s/Pods",
     "My Cheat Sheets/K3s",
     "My Cheat Sheets/Docker/Docker Security",

@@ -51,6 +51,7 @@
 	- [[Checklist]]
 	- [[How to Learn Kubernetes (Complete Roadmap & Resources)]]
 	- [[Kubeconfig File Explained With Practical Examples]]
+	- [[Kubectl Cheat Sheet]]
 	- [[Kubernetes Architecture Explained]]
 	- [[Kubernetes Objects Vs Resources Vs Custom Resource]]
 	- [[Kubernetes Pod Priority, PriorityClass, and Preemption Explained]]
