@@ -4,7 +4,8 @@
   "monospaceFontFamily": "Cascadia Code",
   "translucency": false,
   "enabledCssSnippets": [
-    "padding"
+    "padding",
+    "highlight"
   ],
   "interfaceFontFamily": "Arial Narrow,Cascadia Code",
   "nativeMenus": true

@@ -30,12 +30,14 @@
 		- [[Macvlan Network]]
 		- [[Networking overview]]
 	- **Installation**
+		- [[Install Docker Compose]]
 		- [[Installation of Docker]]
 		- [[Linux post-installation steps for Docker Engine]]
 	- **Storage**
 		- [[Overview]]
 		- [[Volumes]]
 - **Home Lab Docs**
+	- [[Install Pihole]]
 	- [[Install Portainer]]
 	- [[Interesting Docker Containers]]
 	- **The arrs Stack**
@@ -52,6 +54,8 @@
 	- [[Kubernetes Objects Vs Resources Vs Custom Resource]]
 	- [[Kubernetes Pod Priority, PriorityClass, and Preemption Explained]]
 	- **Pods**
+		- [[Ephemeral Containers]]
+		- [[Init Containers]]
 		- [[Pod Lifecycle]]
 	- [[Service Discovery]]
 - **Keychron**

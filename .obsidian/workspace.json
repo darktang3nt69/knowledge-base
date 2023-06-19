@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b012cfaf5d3323d6",
+        "id": "5df1393a4e347ace",
         "type": "tabs",
         "children": [
           {
-            "id": "4f138c76f5c194dc",
+            "id": "9ce649812b0484c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Networking/Setting Static IP in Debian.md",
+                "file": "My Cheat Sheets/K8s/Pods/Ephemeral Containers.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Networking/Setting Static IP in Debian.md",
+                "file": "My Cheat Sheets/K8s/Pods/Ephemeral Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Networking/Setting Static IP in Debian.md",
+                "file": "My Cheat Sheets/K8s/Pods/Ephemeral Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Networking/Setting Static IP in Debian.md"
+                "file": "My Cheat Sheets/K8s/Pods/Ephemeral Containers.md"
               }
             }
           },
@@ -163,17 +163,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f138c76f5c194dc",
+  "active": "9ce649812b0484c2",
   "lastOpenFiles": [
-    "Christian's Cheat Sheets/apps/argocd.md",
+    "My Cheat Sheets/K8s/Pods/Init Containers.md",
+    "My Cheat Sheets/K8s/Pods/Ephemeral Containers.md",
+    "My Cheat Sheets/Home Lab Docs/Install Pihole.md",
+    "My Cheat Sheets/Docker/Installation/Install Docker Compose.md",
+    "My Cheat Sheets/My Cheat Sheets.md",
+    "My Cheat Sheets/Home Lab Docs/The arrs Stack/The Arr stack.md",
     "My Cheat Sheets/Mother of all Indices..md",
+    "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md",
+    "My Cheat Sheets/Debian and Linux/Networking/Setting Static IP in Debian.md",
+    "Christian's Cheat Sheets/apps/argocd.md",
     "My Cheat Sheets/Debian and Linux/Remote Desktop Client.md",
     "My Cheat Sheets/Debian and Linux/Sources List.md",
     "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
     "Christian's Cheat Sheets/apps/teleport.md",
     "My Cheat Sheets/Home Lab Docs/Interesting Docker Containers.md",
-    "My Cheat Sheets/Home Lab Docs/The arrs Stack/The Arr stack.md",
-    "My Cheat Sheets/My Cheat Sheets.md",
     "My Cheat Sheets/Debian and Linux/Version Upgrade.md",
     "My Cheat Sheets/Debian and Linux/Ubuntu Orangepi.md",
     "My Cheat Sheets/Debian and Linux/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
@@ -183,15 +189,9 @@
     "My Cheat Sheets/Debian and Linux/Install .deb files.md",
     "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
     "My Cheat Sheets/Home Lab Docs/Install Portainer.md",
-    "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md",
     "My Cheat Sheets/K8s/K8s API Reference.md",
     "My Cheat Sheets/K3s/Certs.md",
     "My Cheat Sheets/K8s/Pods",
-    "My Cheat Sheets/Rough Notes.md",
-    "My Cheat Sheets/K8s/Kubernetes Objects Vs Resources Vs Custom Resource.md",
-    "My Cheat Sheets/K8s/How to Learn Kubernetes (Complete Roadmap & Resources).md",
-    "My Cheat Sheets/K8s/Kubeconfig File Explained With Practical Examples.md",
-    "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md",
     "My Cheat Sheets/K3s",
     "My Cheat Sheets/Docker/Docker Security",
     "My Cheat Sheets/Docker/Storage",
