@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5df1393a4e347ace",
+        "id": "8748a165c0d659b3",
         "type": "tabs",
         "children": [
           {
-            "id": "9ce649812b0484c2",
+            "id": "5a7f7444df9b89b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Cheat Sheets/K8s/Pods/Ephemeral Containers.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/K8s/Pods/Ephemeral Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/K8s/Pods/Ephemeral Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "My Cheat Sheets/K8s/Pods/Ephemeral Containers.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,10 +153,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ce649812b0484c2",
+  "active": "a7837429fd83126a",
   "lastOpenFiles": [
-    "My Cheat Sheets/K8s/Pods/Init Containers.md",
+    "My Cheat Sheets/K8s/Checklist.md",
     "My Cheat Sheets/K8s/Pods/Ephemeral Containers.md",
+    "My Cheat Sheets/K8s/Pods/Init Containers.md",
     "My Cheat Sheets/Home Lab Docs/Install Pihole.md",
     "My Cheat Sheets/Docker/Installation/Install Docker Compose.md",
     "My Cheat Sheets/My Cheat Sheets.md",
@@ -190,7 +181,6 @@
     "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
     "My Cheat Sheets/Home Lab Docs/Install Portainer.md",
     "My Cheat Sheets/K8s/K8s API Reference.md",
-    "My Cheat Sheets/K3s/Certs.md",
     "My Cheat Sheets/K8s/Pods",
     "My Cheat Sheets/K3s",
     "My Cheat Sheets/Docker/Docker Security",

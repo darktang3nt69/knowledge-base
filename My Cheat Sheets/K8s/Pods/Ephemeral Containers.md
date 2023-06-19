@@ -1,5 +1,3 @@
-# Ephemeral Containers
-
 **FEATURE STATE:** `Kubernetes v1.25 [stable]`
 
 This page provides an overview of ephemeral containers: a special type of container that runs temporarily in an existing [Pod](https://kubernetes.io/docs/concepts/workloads/pods/) to accomplish user-initiated actions such as troubleshooting. You use ephemeral containers to inspect services rather than to build applications.

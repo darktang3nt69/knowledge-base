@@ -48,6 +48,7 @@
 	- [[Certs]]
 	- [[installation]]
 - **K8s**
+	- [[Checklist]]
 	- [[How to Learn Kubernetes (Complete Roadmap & Resources)]]
 	- [[Kubeconfig File Explained With Practical Examples]]
 	- [[Kubernetes Architecture Explained]]
