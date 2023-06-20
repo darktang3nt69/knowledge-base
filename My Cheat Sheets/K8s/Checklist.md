@@ -1,10 +1,10 @@
 ## Learn About Pod & Associated Resources
 
 1. Pods and their associated Concepts
-    - [ ]  Service
-    - [ ] Persistent Volume
-    - [ ] Configmap
-    - [ ] Secret
-    - [ ] PersistentVolumeClaim
+    - [x]  Service
+    - [x] Persistent Volume
+    - [x] Configmap
+    - [x] Secret
+    - [x] PersistentVolumeClaim
 
 2. 

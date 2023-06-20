@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
+                "file": "My Cheat Sheets/K8s/Pods/Deployments/Deployment Status.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
+                "file": "My Cheat Sheets/K8s/Pods/Deployments/Deployment Status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
+                "file": "My Cheat Sheets/K8s/Pods/Deployments/Deployment Status.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md"
+                "file": "My Cheat Sheets/K8s/Pods/Deployments/Deployment Status.md"
               }
             }
           },
@@ -147,12 +147,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,34 +162,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a7f7444df9b89b1",
+  "active": "a7837429fd83126a",
   "lastOpenFiles": [
+    "My Cheat Sheets/K8s/Pods/Deployments/Pausing and Resuming a rollout of a Deployment.md",
+    "My Cheat Sheets/K8s/Pods/Deployments/Deployment Status.md",
+    "My Cheat Sheets/K8s/Pods/Deployments/Delete HPA (Horizontal Pod Autoscalar), VPA(Vertical Pod Autoscalar) and Cluster Autoscaler.md",
+    "My Cheat Sheets/K8s/Pods/Deployments/Scaling a Deployment.md",
+    "My Cheat Sheets/K8s/Pods/Deployments/Rolling back a Deployment.md",
+    "My Cheat Sheets/K8s/Pods/Deployments/Rollover and Label Selector.md",
+    "My Cheat Sheets/K8s/Pods/Deployments/Updating a Deployment.md",
+    "My Cheat Sheets/K8s/Pods/Deployments/Creating a Deployment.md",
+    "My Cheat Sheets/K8s/Pods/Deployments/Deployments.md",
+    "My Cheat Sheets/K8s/Pods/Deployments",
+    "My Cheat Sheets/K8s/Service Discovery.md",
     "My Cheat Sheets/K8s/Checklist.md",
-    "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
-    "My Cheat Sheets/Debian and Linux/Sources List.md",
-    "My Cheat Sheets/K8s/Pods/Ephemeral Containers.md",
-    "My Cheat Sheets/K8s/Pods/Init Containers.md",
-    "My Cheat Sheets/Home Lab Docs/Install Pihole.md",
-    "My Cheat Sheets/Docker/Installation/Install Docker Compose.md",
-    "My Cheat Sheets/My Cheat Sheets.md",
-    "My Cheat Sheets/Home Lab Docs/The arrs Stack/The Arr stack.md",
-    "My Cheat Sheets/Mother of all Indices..md",
-    "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md",
-    "My Cheat Sheets/Debian and Linux/Networking/Setting Static IP in Debian.md",
-    "Christian's Cheat Sheets/apps/argocd.md",
-    "My Cheat Sheets/Debian and Linux/Remote Desktop Client.md",
-    "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
-    "Christian's Cheat Sheets/apps/teleport.md",
-    "My Cheat Sheets/Home Lab Docs/Interesting Docker Containers.md",
-    "My Cheat Sheets/Debian and Linux/Version Upgrade.md",
-    "My Cheat Sheets/Debian and Linux/Ubuntu Orangepi.md",
-    "My Cheat Sheets/Debian and Linux/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
-    "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
-    "My Cheat Sheets/Debian and Linux/Installation of Debian 11.md",
-    "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md",
-    "My Cheat Sheets/Debian and Linux/Install .deb files.md",
-    "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
-    "My Cheat Sheets/Home Lab Docs/Install Portainer.md",
+    "Christian's Cheat Sheets/kubernetes/k3s.md",
+    "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
+    "Christian's Cheat Sheets/networking/tls.md",
+    "Christian's Cheat Sheets/networking/tcp.md",
+    "Christian's Cheat Sheets/networking/smtp.md",
+    "Christian's Cheat Sheets/kubernetes/kubernetes-dns.md",
+    "Christian's Cheat Sheets/kubernetes/kubernetes.md",
+    "My Cheat Sheets/Devops.md",
+    "Christian's Cheat Sheets/networking/wireguard.md",
+    "Christian's Cheat Sheets/networking/vpn.md",
+    "Christian's Cheat Sheets/networking/udp.md",
+    "Christian's Cheat Sheets/networking/twisted-pair-cables.md",
+    "Christian's Cheat Sheets/networking/dnssec.md",
+    "Christian's Cheat Sheets/networking/dns-record-types.md",
+    "Christian's Cheat Sheets/networking/dns-record-mailserver.md",
     "My Cheat Sheets/K8s/Pods",
     "My Cheat Sheets/K3s",
     "My Cheat Sheets/Docker/Docker Security",
@@ -200,7 +200,6 @@
     "My Cheat Sheets/Home Lab Docs",
     "My Cheat Sheets/Docker/Installation",
     "My Cheat Sheets/Debian and Linux/Networking",
-    "Untitled 1",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",

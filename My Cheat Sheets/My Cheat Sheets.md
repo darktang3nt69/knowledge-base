@@ -17,6 +17,7 @@
 	- [[Sources List]]
 	- [[Ubuntu Orangepi]]
 	- [[Version Upgrade]]
+- [[Devops]]
 - **Docker**
 	- [[Docker Study Plan]]
 	- **Docker-networking**
@@ -56,6 +57,16 @@
 	- [[Kubernetes Objects Vs Resources Vs Custom Resource]]
 	- [[Kubernetes Pod Priority, PriorityClass, and Preemption Explained]]
 	- **Pods**
+		- **[[Deployments]]**
+			- [[Creating a Deployment]]
+			- [[Delete HPA (Horizontal Pod Autoscalar), VPA(Vertical Pod Autoscalar) and Cluster Autoscaler]]
+			- [[Deployment Status]]
+			- [[Deployments]]
+			- [[Pausing and Resuming a rollout of a Deployment]]
+			- [[Rolling back a Deployment]]
+			- [[Rollover and Label Selector]]
+			- [[Scaling a Deployment]]
+			- [[Updating a Deployment]]
 		- [[Ephemeral Containers]]
 		- [[Init Containers]]
 		- [[Pod Lifecycle]]
