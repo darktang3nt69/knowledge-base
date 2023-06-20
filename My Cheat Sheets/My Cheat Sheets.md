@@ -3,6 +3,7 @@
 	- [[Add user to sudo]]
 	- [[All About GUI in Debian]]
 	- [[Get CPU Temps]]
+	- [[Get Exit code of previously executed Command]]
 	- [[Install .deb files]]
 	- [[Installation of Debian 11]]
 	- [[Linux Cheatsheet]]

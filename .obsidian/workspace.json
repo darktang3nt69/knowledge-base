@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8748a165c0d659b3",
+        "id": "eb214218f9bd43ee",
         "type": "tabs",
         "children": [
           {
-            "id": "5a7f7444df9b89b1",
+            "id": "a80c744ac0af0ac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,10 +163,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7837429fd83126a",
+  "active": "a80c744ac0af0ac1",
   "lastOpenFiles": [
-    "My Cheat Sheets/K8s/Pods/Deployments/Pausing and Resuming a rollout of a Deployment.md",
+    "My Cheat Sheets/Debian and Linux/Get Exit code of previously executed Command.md",
     "My Cheat Sheets/K8s/Pods/Deployments/Deployment Status.md",
+    "My Cheat Sheets/My Cheat Sheets.md",
+    "My Cheat Sheets/K8s/Pods/Deployments/Pausing and Resuming a rollout of a Deployment.md",
     "My Cheat Sheets/K8s/Pods/Deployments/Delete HPA (Horizontal Pod Autoscalar), VPA(Vertical Pod Autoscalar) and Cluster Autoscaler.md",
     "My Cheat Sheets/K8s/Pods/Deployments/Scaling a Deployment.md",
     "My Cheat Sheets/K8s/Pods/Deployments/Rolling back a Deployment.md",
@@ -189,8 +192,6 @@
     "Christian's Cheat Sheets/networking/udp.md",
     "Christian's Cheat Sheets/networking/twisted-pair-cables.md",
     "Christian's Cheat Sheets/networking/dnssec.md",
-    "Christian's Cheat Sheets/networking/dns-record-types.md",
-    "Christian's Cheat Sheets/networking/dns-record-mailserver.md",
     "My Cheat Sheets/K8s/Pods",
     "My Cheat Sheets/K3s",
     "My Cheat Sheets/Docker/Docker Security",
