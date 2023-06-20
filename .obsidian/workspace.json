@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/K8s/Pods/Deployments/Deployment Status.md",
+                "file": "My Cheat Sheets/K8s/Pods/Replica Sets/Replica Sets.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/K8s/Pods/Deployments/Deployment Status.md",
+                "file": "My Cheat Sheets/K8s/Pods/Replica Sets/Replica Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/K8s/Pods/Deployments/Deployment Status.md",
+                "file": "My Cheat Sheets/K8s/Pods/Replica Sets/Replica Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/K8s/Pods/Deployments/Deployment Status.md"
+                "file": "My Cheat Sheets/K8s/Pods/Replica Sets/Replica Sets.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "a80c744ac0af0ac1",
   "lastOpenFiles": [
-    "My Cheat Sheets/Debian and Linux/Get Exit code of previously executed Command.md",
     "My Cheat Sheets/K8s/Pods/Deployments/Deployment Status.md",
+    "My Cheat Sheets/K8s/Pods/Replica Sets/Replica Sets.md",
+    "My Cheat Sheets/K8s/Pods/Replica Sets",
+    "My Cheat Sheets/Debian and Linux/Get Exit code of previously executed Command.md",
     "My Cheat Sheets/My Cheat Sheets.md",
     "My Cheat Sheets/K8s/Pods/Deployments/Pausing and Resuming a rollout of a Deployment.md",
     "My Cheat Sheets/K8s/Pods/Deployments/Delete HPA (Horizontal Pod Autoscalar), VPA(Vertical Pod Autoscalar) and Cluster Autoscaler.md",
@@ -191,7 +193,6 @@
     "Christian's Cheat Sheets/networking/vpn.md",
     "Christian's Cheat Sheets/networking/udp.md",
     "Christian's Cheat Sheets/networking/twisted-pair-cables.md",
-    "Christian's Cheat Sheets/networking/dnssec.md",
     "My Cheat Sheets/K8s/Pods",
     "My Cheat Sheets/K3s",
     "My Cheat Sheets/Docker/Docker Security",
@@ -200,7 +201,6 @@
     "My Cheat Sheets/Home Lab Docs/The arrs Stack",
     "My Cheat Sheets/Home Lab Docs",
     "My Cheat Sheets/Docker/Installation",
-    "My Cheat Sheets/Debian and Linux/Networking",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",

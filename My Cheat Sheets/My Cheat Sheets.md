@@ -71,6 +71,8 @@
 		- [[Ephemeral Containers]]
 		- [[Init Containers]]
 		- [[Pod Lifecycle]]
+		- **[[Replica Sets]]**
+			- [[Replica Sets]]
 	- [[Service Discovery]]
 - **Keychron**
 	- [[Keychron Custom firmware]]
