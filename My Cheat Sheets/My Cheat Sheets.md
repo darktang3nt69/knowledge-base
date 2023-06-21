@@ -75,6 +75,7 @@
 		- **[[Replica Sets]]**
 			- [[Replica Sets]]
 		- **StatefulSets**
+			- [[Components]]
 			- [[StatefulSet]]
 	- [[Service Discovery]]
 - **Keychron**
