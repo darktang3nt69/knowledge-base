@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
+- **Attachments**
 - **Debian and Linux**
 	- [[Add user to sudo]]
 	- [[All About GUI in Debian]]
@@ -73,6 +74,8 @@
 		- [[Pod Lifecycle]]
 		- **[[Replica Sets]]**
 			- [[Replica Sets]]
+		- **StatefulSets**
+			- [[StatefulSet]]
 	- [[Service Discovery]]
 - **Keychron**
 	- [[Keychron Custom firmware]]
