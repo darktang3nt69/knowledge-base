@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/K8s/Pods/StatefulSets/Components.md",
+                "file": "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/K8s/Pods/StatefulSets/Components.md",
+                "file": "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/K8s/Pods/StatefulSets/Components.md",
+                "file": "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/K8s/Pods/StatefulSets/Components.md"
+                "file": "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md"
               }
             }
           },
@@ -165,15 +165,16 @@
   },
   "active": "a80c744ac0af0ac1",
   "lastOpenFiles": [
-    "My Cheat Sheets/K8s/Pods/StatefulSets/StatefulSet.md",
+    "My Cheat Sheets/My Cheat Sheets.md",
+    "My Cheat Sheets/Devops.md",
     "My Cheat Sheets/K8s/Pods/StatefulSets/Components.md",
+    "My Cheat Sheets/K8s/Pods/StatefulSets/StatefulSet.md",
     "My Cheat Sheets/K8s/Pods/Replica Sets/Replica Sets.md",
     "My Cheat Sheets/K8s/Pods/StatefulSets",
     "My Cheat Sheets/Attachments",
     "My Cheat Sheets/K8s/Pods/Deployments/Deployment Status.md",
     "My Cheat Sheets/K8s/Pods/Replica Sets",
     "My Cheat Sheets/Debian and Linux/Get Exit code of previously executed Command.md",
-    "My Cheat Sheets/My Cheat Sheets.md",
     "My Cheat Sheets/K8s/Pods/Deployments/Pausing and Resuming a rollout of a Deployment.md",
     "My Cheat Sheets/K8s/Pods/Deployments/Delete HPA (Horizontal Pod Autoscalar), VPA(Vertical Pod Autoscalar) and Cluster Autoscaler.md",
     "My Cheat Sheets/K8s/Pods/Deployments/Scaling a Deployment.md",
@@ -192,7 +193,6 @@
     "Christian's Cheat Sheets/networking/smtp.md",
     "Christian's Cheat Sheets/kubernetes/kubernetes-dns.md",
     "Christian's Cheat Sheets/kubernetes/kubernetes.md",
-    "My Cheat Sheets/Devops.md",
     "Christian's Cheat Sheets/networking/wireguard.md",
     "Christian's Cheat Sheets/networking/vpn.md",
     "My Cheat Sheets/K8s/Pods",

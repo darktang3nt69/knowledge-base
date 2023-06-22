@@ -13,3 +13,8 @@
     1. **Ansible**
     2. **Terraform**
 9. Version Control: **GIT**
+
+
+Youtube Links:
+
+1. https://www.youtube.com/@DevOpsMadeEasy/playlists
