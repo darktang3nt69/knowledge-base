@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md",
+                "file": "My Cheat Sheets/K8s/Pods/Pods.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md",
+                "file": "My Cheat Sheets/K8s/Pods/Pods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md",
+                "file": "My Cheat Sheets/K8s/Pods/Pods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md"
+                "file": "My Cheat Sheets/K8s/Pods/Pods.md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,6 +165,8 @@
   },
   "active": "a80c744ac0af0ac1",
   "lastOpenFiles": [
+    "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md",
+    "My Cheat Sheets/K8s/Pods/Pods.md",
     "My Cheat Sheets/My Cheat Sheets.md",
     "My Cheat Sheets/Devops.md",
     "My Cheat Sheets/K8s/Pods/StatefulSets/Components.md",
@@ -192,8 +195,6 @@
     "Christian's Cheat Sheets/networking/smtp.md",
     "Christian's Cheat Sheets/kubernetes/kubernetes-dns.md",
     "Christian's Cheat Sheets/kubernetes/kubernetes.md",
-    "Christian's Cheat Sheets/networking/wireguard.md",
-    "Christian's Cheat Sheets/networking/vpn.md",
     "My Cheat Sheets/K8s/Pods",
     "My Cheat Sheets/K3s",
     "My Cheat Sheets/Docker/Docker Security",

@@ -58,7 +58,7 @@
 	- [[Kubernetes Architecture Explained]]
 	- [[Kubernetes Objects Vs Resources Vs Custom Resource]]
 	- [[Kubernetes Pod Priority, PriorityClass, and Preemption Explained]]
-	- **Pods**
+	- **[[Pods]]**
 		- **[[Deployments]]**
 			- [[Creating a Deployment]]
 			- [[Delete HPA (Horizontal Pod Autoscalar), VPA(Vertical Pod Autoscalar) and Cluster Autoscaler]]
@@ -72,6 +72,7 @@
 		- [[Ephemeral Containers]]
 		- [[Init Containers]]
 		- [[Pod Lifecycle]]
+		- [[Pods]]
 		- **[[Replica Sets]]**
 			- [[Replica Sets]]
 		- **StatefulSets**
