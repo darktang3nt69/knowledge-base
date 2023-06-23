@@ -3,17 +3,19 @@
 - **Debian and Linux**
 	- [[Add user to sudo]]
 	- [[All About GUI in Debian]]
+	- **Customizing Linux**
+		- [[Make ZSH default shell]]
+		- [[Nano Syntax Highlighting]]
+		- [[Oh My Zsh + PowerLevel10k = 😎 terminal]]
 	- [[Get CPU Temps]]
 	- [[Get Exit code of previously executed Command]]
 	- [[Install .deb files]]
 	- [[Installation of Debian 11]]
 	- [[Linux Cheatsheet]]
-	- [[Make ZSH default shell]]
 	- **Networking**
 		- [[Setting Static IP in Debian]]
 		- [[Setup Samba Share]]
 		- [[WiFi]]
-	- [[Oh My Zsh + PowerLevel10k = 😎 terminal]]
 	- [[Remote Desktop Client]]
 	- [[Setup Passwordless ssh login]]
 	- [[Sources List]]
