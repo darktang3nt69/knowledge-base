@@ -12,6 +12,7 @@
 	- [[Install .deb files]]
 	- [[Installation of Debian 11]]
 	- [[Linux Cheatsheet]]
+	- [[Linux Commands Cheatsheets]]
 	- **Networking**
 		- [[Setting Static IP in Debian]]
 		- [[Setup Samba Share]]
@@ -84,6 +85,8 @@
 	- [[Keychron Custom firmware]]
 - [[Mother of all Indices.]]
 - [[My Cheat Sheets]]
+- **Python**
+	- [[Python Cheat Sheets]]
 - [[Rough Notes]]
 
 %% End Waypoint %%

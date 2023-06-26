@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everything Devops/Devops Courses.md",
+                "file": "My Cheat Sheets/Debian and Linux/Linux Commands Cheatsheets.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything Devops/Devops Courses.md",
+                "file": "My Cheat Sheets/Debian and Linux/Linux Commands Cheatsheets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything Devops/Devops Courses.md",
+                "file": "My Cheat Sheets/Debian and Linux/Linux Commands Cheatsheets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything Devops/Devops Courses.md"
+                "file": "My Cheat Sheets/Debian and Linux/Linux Commands Cheatsheets.md"
               }
             }
           },
@@ -165,8 +165,14 @@
   },
   "active": "a80c744ac0af0ac1",
   "lastOpenFiles": [
-    "Everything Devops/Devops.md",
+    "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
+    "My Cheat Sheets/Debian and Linux/Linux Commands Cheatsheets.md",
+    "Christian's Cheat Sheets/tools/openssh.md",
+    "My Cheat Sheets/Mother of all Indices..md",
+    "My Cheat Sheets/Python/Python Cheat Sheets.md",
     "Everything Devops/Devops Courses.md",
+    "My Cheat Sheets/Python",
+    "Everything Devops/Devops.md",
     "Everything Devops/Untitled",
     "Everything Devops",
     "My Cheat Sheets/Debian and Linux/Customizing Linux/Nano Syntax Highlighting.md",
@@ -193,14 +199,8 @@
     "My Cheat Sheets/K8s/Pods/Deployments",
     "My Cheat Sheets/K8s/Service Discovery.md",
     "My Cheat Sheets/K8s/Checklist.md",
-    "Christian's Cheat Sheets/kubernetes/k3s.md",
-    "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
-    "Christian's Cheat Sheets/networking/tls.md",
-    "Christian's Cheat Sheets/networking/tcp.md",
-    "Christian's Cheat Sheets/networking/smtp.md",
     "My Cheat Sheets/K8s/Pods",
     "My Cheat Sheets/K3s",
-    "My Cheat Sheets/Docker/Docker Security",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",
