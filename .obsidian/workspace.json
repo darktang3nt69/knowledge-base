@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "My Cheat Sheets/Debian and Linux/Linux Commands Cheatsheets.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
