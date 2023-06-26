@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Customizing Linux/Nano Syntax Highlighting.md",
+                "file": "Everything Devops/Devops Courses.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Customizing Linux/Nano Syntax Highlighting.md",
+                "file": "Everything Devops/Devops Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Customizing Linux/Nano Syntax Highlighting.md",
+                "file": "Everything Devops/Devops Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Customizing Linux/Nano Syntax Highlighting.md"
+                "file": "Everything Devops/Devops Courses.md"
               }
             }
           },
@@ -165,12 +165,15 @@
   },
   "active": "a80c744ac0af0ac1",
   "lastOpenFiles": [
-    "My Cheat Sheets/K8s/Pods/Pods.md",
+    "Everything Devops/Devops.md",
+    "Everything Devops/Devops Courses.md",
+    "Everything Devops/Untitled",
+    "Everything Devops",
     "My Cheat Sheets/Debian and Linux/Customizing Linux/Nano Syntax Highlighting.md",
+    "My Cheat Sheets/K8s/Pods/Pods.md",
     "My Cheat Sheets/Debian and Linux/Customizing Linux",
     "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md",
     "My Cheat Sheets/My Cheat Sheets.md",
-    "My Cheat Sheets/Devops.md",
     "My Cheat Sheets/K8s/Pods/StatefulSets/Components.md",
     "My Cheat Sheets/K8s/Pods/StatefulSets/StatefulSet.md",
     "My Cheat Sheets/K8s/Pods/Replica Sets/Replica Sets.md",
@@ -195,12 +198,9 @@
     "Christian's Cheat Sheets/networking/tls.md",
     "Christian's Cheat Sheets/networking/tcp.md",
     "Christian's Cheat Sheets/networking/smtp.md",
-    "Christian's Cheat Sheets/kubernetes/kubernetes-dns.md",
     "My Cheat Sheets/K8s/Pods",
     "My Cheat Sheets/K3s",
     "My Cheat Sheets/Docker/Docker Security",
-    "My Cheat Sheets/Docker/Storage",
-    "My Cheat Sheets/K8s",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",

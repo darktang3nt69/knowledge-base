@@ -21,7 +21,6 @@
 	- [[Sources List]]
 	- [[Ubuntu Orangepi]]
 	- [[Version Upgrade]]
-- [[Devops]]
 - **Docker**
 	- [[Docker Study Plan]]
 	- **Docker-networking**
