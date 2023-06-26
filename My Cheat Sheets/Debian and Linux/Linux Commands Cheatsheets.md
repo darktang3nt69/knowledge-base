@@ -9,4 +9,3 @@ export MY_VAR="Hello, World"
 export ANOTHER_VAR="12345"
 ```
 
-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
