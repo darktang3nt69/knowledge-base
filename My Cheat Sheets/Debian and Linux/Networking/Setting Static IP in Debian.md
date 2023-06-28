@@ -59,8 +59,8 @@ auto lo
 iface lo inet loopback
 
 
-#allow-hotplug enp7s0
-#iface enp7s0 inet dhcp
+[[allow-hotplug]] enp7s0
+[[iface]] enp7s0 inet dhcp
 
 auto enp7s0
 iface enp7s0 inet static

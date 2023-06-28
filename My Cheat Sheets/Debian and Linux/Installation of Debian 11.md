@@ -35,9 +35,9 @@ sudo nano /etc/apt/sources.list
 
 2. Comment these lines like this:
 ```
-#deb cdrom:[Debian GNU/Linux 11.7.0 _Bullseye_ - Official amd64 DVD Binary-1 20230429-11:50]/ bullseye contrib main
+[[deb]] cdrom:[Debian GNU/Linux 11.7.0 _Bullseye_ - Official amd64 DVD Binary-1 20230429-11:50]/ bullseye contrib main
 
-#deb cdrom:[Debian GNU/Linux 11.7.0 _Bullseye_ - Official amd64 DVD Binary-1 20230429-11:50]/ bullseye contrib main
+[[deb]] cdrom:[Debian GNU/Linux 11.7.0 _Bullseye_ - Official amd64 DVD Binary-1 20230429-11:50]/ bullseye contrib main
 ```
 
 3. Update again

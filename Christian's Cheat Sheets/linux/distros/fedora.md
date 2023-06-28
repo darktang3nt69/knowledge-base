@@ -21,17 +21,17 @@ Add this lines add the end:
 ```shell
 # Added for speed:
 fastestmirror=True
-#change to 10 if you have fast internet speed
+[[change]] to 10 if you have fast internet speed
 max_parallel_downloads=5
-#when click enter the default is yes
+[[when]] click enter the default is yes
 defaultyes=True
-#Keeps downloaded packages in the cache
+[[Keeps]] downloaded packages in the cache
 keepcache=True
 ```
 To clean dnf cache periodically:
 ```shell
 sudo dnf clean dbcache
-#or
+[[or]]
 sudo dnf clean all
 ```
 for more configuration options: [DNF Configuration Reference](https://dnf.readthedocs.io/en/latest/conf_ref.html)
@@ -75,7 +75,7 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 
 Run the following command:
 ```shell
-sudo hostnamectl set-hostname #your-name
+sudo hostnamectl set-hostname [[your-name]]
 ```
 
 ## 6- Add Multimedia Codecs

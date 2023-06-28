@@ -741,7 +741,7 @@ dockerhost ~]$ docker run --name busybox \\
 / # netstat -ntlp
 Active Internet connections (only servers)
 Proto Recv-Q Send-Q Local Address	Foreign Address	State	PID/Program
-tcp6       0      0 :::3306       :::*          	LISTEN	-
+tcp6       0      0 ==:3306       :==*          	LISTEN	-
 
 / # ping 8.8.8.8
 64 bytes from 8.8.8.8: icmp_seq=1 ttl=54 time=17.4 ms

@@ -19,11 +19,11 @@ nano /etc/wireguard/wg0.conf
 Example server config:
 ```
 [Interface]
-Address = 192.168.8.1/0 #ip of the wireguard server
+Address = 192.168.8.1/0 [[ip]] of the wireguard server
 SaveConfig = true
 ListenPort = 51820 # default port you can change it
 FwMark = 0xca6c
-PrivateKey = #paste here your privatekey
+PrivateKey = [[paste]] here your privatekey
 
 PostUp = iptables -A FORWARD -i wg0 -j ACCEPT
 PostUp = iptables -t nat -A POSTROUTING -o ens2 -j MASQUERADE
@@ -32,12 +32,12 @@ PostDown= iptables -t nat -A POSTROUTING -o ens2 -j MASQUERADE
 
 # change here your peers conf
 [Peer]
-PublicKey = #paste here your pub key of your client
+PublicKey = [[paste]] here your pub key of your client
 AllowedIPs = 192.168.8.3/32 # change ip in your range
 PersistentKeepalive = 25
 
 [Peer]
-PublicKey = #paste here your pub key of your client
+PublicKey = [[paste]] here your pub key of your client
 AllowedIPs = 192.168.8.2/32 # change ip in your range
 PersistentKeepalive = 25
 ```

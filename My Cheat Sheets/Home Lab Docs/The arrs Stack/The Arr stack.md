@@ -7,9 +7,9 @@ networks:
     name: the-arrs
     external: true
 services:
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
 #     Sonarr - TV shows manager                                       #
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
   sonarr:
     container_name: sonarr
     image: cr.hotio.dev/hotio/sonarr:latest
@@ -30,9 +30,9 @@ services:
       - /home/lokesh/sambashare/data:/data
     ports:
       - '8989:8989'
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
 #     Radarr - Movies manager                                         #
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
   radarr:
     container_name: radarr
     image: cr.hotio.dev/hotio/radarr:latest
@@ -51,9 +51,9 @@ services:
     ports:
       - '7878:7878'
       
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
 #     Bazarr - Subs Manager for media library                         #
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
   bazarr:
     container_name: bazarr
     image: cr.hotio.dev/hotio/bazarr:latest
@@ -71,10 +71,10 @@ services:
     ports:
       - '6767:6767'
     
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
 #     Overseerr - is a request management and media discovery tool    #
 #                 built to work with your existing Plex ecosystem     #
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
   overseerr:
     container_name: overseerr
     image: cr.hotio.dev/hotio/overseerr
@@ -89,10 +89,10 @@ services:
     volumes:
       - /home/lokesh/sambashare/the-arrs-config/overseerr-config:/config
 
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
 #     Requestrr - is a chatbot used to simplify using services like   #
 #                 Sonarr/Radarr/Overseerr/Ombi via the use of chat!   #
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
 
   requestrr:
     image: lscr.io/linuxserver/requestrr:latest
@@ -107,10 +107,10 @@ services:
       - 4545:4545
     restart: unless-stopped
 
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
 #    Prowlarr -is an indexer manager/proxy built on the popular *arr  #
 #    .net/reactjs base stack to integrate with your various PVR apps  #
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
   prowlarr:
     image: lscr.io/linuxserver/prowlarr:latest
     container_name: prowlarr
@@ -124,9 +124,9 @@ services:
       - 9696:9696
     restart: unless-stopped
 
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
 #     Homarr - A simple, yet powerful dashboard for your server.      #
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
   homarr:
     container_name: homarr
     image: ghcr.io/ajnart/homarr:latest
@@ -137,9 +137,9 @@ services:
     ports:
       - '7575:7575'
 
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
 #     qbittorrent - Plain old torrent downloader.                     #
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
   qbittorrent:
     container_name: qbittorrent
     image: cr.hotio.dev/hotio/qbittorrent
@@ -155,10 +155,10 @@ services:
       - /home/lokesh/sambashare/the-arrs-config/qbitty-config:/config
       - /home/lokesh/sambashare/data/torrents:/data/torrents/
 
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
 #     FlareSolverr is a proxy server to bypass Cloudflare and         #
 #                          DDoS-GUARD protection.                     #
-#---------------------------------------------------------------------#
+[[---------------------------------------------------------------------]]#
 
   flaresolverr:
       container_name: flaresolverr

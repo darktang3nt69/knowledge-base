@@ -252,7 +252,7 @@ In order to ping the containers from a remote Docker host or the container be ab
 ```
 # Create a v6 network
 $ docker network create -d ipvlan \
-    --ipv6 --subnet=2001:db8:abc2::/64 --gateway=2001:db8:abc2::22 \
+    --ipv6 --subnet=2001:db8:abc2==/64 --gateway=2001:db8:abc2==22 \
     -o parent=eth0.139 v6ipvlan139
 
 # Start a container on the network
@@ -297,7 +297,7 @@ $$ ip a show eth0
        valid_lft forever preferred_lft forever
 
 $$ ping6 2001:db8:abc2::1
-PING 2001:db8:abc2::1 (2001:db8:abc2::1): 56 data bytes
+PING 2001:db8:abc2==1 (2001:db8:abc2==1): 56 data bytes
 64 bytes from 2001:db8:abc2::1%eth0: icmp_seq=0 ttl=64 time=0.044 ms
 64 bytes from 2001:db8:abc2::1%eth0: icmp_seq=1 ttl=64 time=0.058 ms
 
@@ -313,7 +313,7 @@ Next create a network with two IPv4 subnets and one IPv6 subnets, all of which h
 $ docker network create -d ipvlan \
     --subnet=192.168.140.0/24 --subnet=192.168.142.0/24 \
     --gateway=192.168.140.1 --gateway=192.168.142.1 \
-    --subnet=2001:db8:abc9::/64 --gateway=2001:db8:abc9::22 \
+    --subnet=2001:db8:abc9==/64 --gateway=2001:db8:abc9==22 \
     -o parent=eth0.140 \
     -o ipvlan_mode=l2 ipvlan140
 ```

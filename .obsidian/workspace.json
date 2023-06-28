@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
+                "file": "My Cheat Sheets/K8s/Workload Resources/Jobs/Writing a Job spec.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
+                "file": "My Cheat Sheets/K8s/Workload Resources/Jobs/Writing a Job spec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
+                "file": "My Cheat Sheets/K8s/Workload Resources/Jobs/Writing a Job spec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Get CPU Temps.md"
+                "file": "My Cheat Sheets/K8s/Workload Resources/Jobs/Writing a Job spec.md"
               }
             }
           },
@@ -147,11 +147,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,17 +163,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a80c744ac0af0ac1",
+  "active": "fdc608608ca3cf43",
   "lastOpenFiles": [
+    "My Cheat Sheets/K8s/Workload Resources/Jobs/Jobs.md",
+    "My Cheat Sheets/K8s/Workload Resources/Jobs/Writing a Job spec.md",
+    "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
+    "My Cheat Sheets/K8s/Workload Resources/Jobs",
+    "My Cheat Sheets/K8s/Workload Resources",
+    "My Cheat Sheets/Debian and Linux/Remote Desktop Client.md",
+    "My Cheat Sheets/Debian and Linux/Linux Commands Cheatsheets.md",
+    "My Cheat Sheets/Debian and Linux/Add user to sudo.md",
     "My Cheat Sheets/Debian and Linux/Get Exit code of previously executed Command.md",
+    "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
     "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md",
     "My Cheat Sheets/Debian and Linux/Installation of Debian 11.md",
-    "My Cheat Sheets/Debian and Linux/Linux Commands Cheatsheets.md",
-    "My Cheat Sheets/Debian and Linux/Remote Desktop Client.md",
     "My Cheat Sheets/Debian and Linux/Sources List.md",
     "My Cheat Sheets/Debian and Linux/Ubuntu Orangepi.md",
     "My Cheat Sheets/Debian and Linux/Version Upgrade.md",
-    "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
     "Christian's Cheat Sheets/tools/openssh.md",
     "My Cheat Sheets/Mother of all Indices..md",
     "My Cheat Sheets/Python/Python Cheat Sheets.md",
@@ -186,20 +193,14 @@
     "My Cheat Sheets/Debian and Linux/Customizing Linux",
     "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md",
     "My Cheat Sheets/My Cheat Sheets.md",
-    "My Cheat Sheets/K8s/Pods/StatefulSets/Components.md",
-    "My Cheat Sheets/K8s/Pods/StatefulSets/StatefulSet.md",
-    "My Cheat Sheets/K8s/Pods/Replica Sets/Replica Sets.md",
-    "My Cheat Sheets/K8s/Pods/StatefulSets",
+    "My Cheat Sheets/K8s/Workload Resources/StatefulSets/Components.md",
+    "My Cheat Sheets/K8s/Workload Resources/StatefulSets/StatefulSet.md",
+    "My Cheat Sheets/K8s/Workload Resources/Replica Sets/Replica Sets.md",
+    "My Cheat Sheets/K8s/Workload Resources/StatefulSets",
     "My Cheat Sheets/Attachments",
-    "My Cheat Sheets/K8s/Pods/Deployments/Deployment Status.md",
-    "My Cheat Sheets/K8s/Pods/Replica Sets",
-    "My Cheat Sheets/K8s/Pods/Deployments/Pausing and Resuming a rollout of a Deployment.md",
-    "My Cheat Sheets/K8s/Pods/Deployments/Delete HPA (Horizontal Pod Autoscalar), VPA(Vertical Pod Autoscalar) and Cluster Autoscaler.md",
-    "My Cheat Sheets/K8s/Pods/Deployments/Scaling a Deployment.md",
-    "My Cheat Sheets/K8s/Pods/Deployments/Rolling back a Deployment.md",
-    "My Cheat Sheets/K8s/Pods/Deployments",
-    "My Cheat Sheets/K8s/Pods",
-    "My Cheat Sheets/K3s",
+    "My Cheat Sheets/K8s/Workload Resources/Deployments/Deployment Status.md",
+    "My Cheat Sheets/K8s/Workload Resources/Replica Sets",
+    "My Cheat Sheets/K8s/Workload Resources/Deployments",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",

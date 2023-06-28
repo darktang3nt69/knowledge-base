@@ -61,6 +61,12 @@
 	- [[Kubernetes Objects Vs Resources Vs Custom Resource]]
 	- [[Kubernetes Pod Priority, PriorityClass, and Preemption Explained]]
 	- **[[Pods]]**
+		- [[Ephemeral Containers]]
+		- [[Init Containers]]
+		- [[Pod Lifecycle]]
+		- [[Pods]]
+	- [[Service Discovery]]
+	- **Workload Resources**
 		- **[[Deployments]]**
 			- [[Creating a Deployment]]
 			- [[Delete HPA (Horizontal Pod Autoscalar), VPA(Vertical Pod Autoscalar) and Cluster Autoscaler]]
@@ -71,16 +77,14 @@
 			- [[Rollover and Label Selector]]
 			- [[Scaling a Deployment]]
 			- [[Updating a Deployment]]
-		- [[Ephemeral Containers]]
-		- [[Init Containers]]
-		- [[Pod Lifecycle]]
-		- [[Pods]]
+		- **[[Jobs]]**
+			- [[Jobs]]
+			- [[Writing a Job spec]]
 		- **[[Replica Sets]]**
 			- [[Replica Sets]]
 		- **StatefulSets**
 			- [[Components]]
 			- [[StatefulSet]]
-	- [[Service Discovery]]
 - **Keychron**
 	- [[Keychron Custom firmware]]
 - [[Mother of all Indices.]]
