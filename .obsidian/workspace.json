@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/K8s/Workload Resources/Jobs/Writing a Job spec.md",
-                "mode": "preview",
+                "file": "My Cheat Sheets/Rough Notes.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/K8s/Workload Resources/Jobs/Writing a Job spec.md",
+                "file": "My Cheat Sheets/Rough Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/K8s/Workload Resources/Jobs/Writing a Job spec.md",
+                "file": "My Cheat Sheets/Rough Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/K8s/Workload Resources/Jobs/Writing a Job spec.md"
+                "file": "My Cheat Sheets/Rough Notes.md"
               }
             }
           },
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,10 +162,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fdc608608ca3cf43",
+  "active": "a80c744ac0af0ac1",
   "lastOpenFiles": [
-    "My Cheat Sheets/K8s/Workload Resources/Jobs/Jobs.md",
+    "My Cheat Sheets/My Cheat Sheets.md",
+    "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
+    "My Cheat Sheets/Rough Notes.md",
     "My Cheat Sheets/K8s/Workload Resources/Jobs/Writing a Job spec.md",
+    "My Cheat Sheets/K8s/Workload Resources/Jobs/Jobs.md",
     "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
     "My Cheat Sheets/K8s/Workload Resources/Jobs",
     "My Cheat Sheets/K8s/Workload Resources",
@@ -192,13 +194,10 @@
     "My Cheat Sheets/K8s/Pods/Pods.md",
     "My Cheat Sheets/Debian and Linux/Customizing Linux",
     "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md",
-    "My Cheat Sheets/My Cheat Sheets.md",
     "My Cheat Sheets/K8s/Workload Resources/StatefulSets/Components.md",
     "My Cheat Sheets/K8s/Workload Resources/StatefulSets/StatefulSet.md",
-    "My Cheat Sheets/K8s/Workload Resources/Replica Sets/Replica Sets.md",
     "My Cheat Sheets/K8s/Workload Resources/StatefulSets",
     "My Cheat Sheets/Attachments",
-    "My Cheat Sheets/K8s/Workload Resources/Deployments/Deployment Status.md",
     "My Cheat Sheets/K8s/Workload Resources/Replica Sets",
     "My Cheat Sheets/K8s/Workload Resources/Deployments",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
