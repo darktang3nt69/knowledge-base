@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Rough Notes.md",
-                "mode": "source",
+                "file": "Christian's Cheat Sheets/misc/ssl-certs.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ssl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,11 +66,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "388887a9d68de1d1",
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Rough Notes.md",
+                "file": "Christian's Cheat Sheets/misc/ssl-certs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Rough Notes.md",
+                "file": "Christian's Cheat Sheets/misc/ssl-certs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Rough Notes.md"
+                "file": "Christian's Cheat Sheets/misc/ssl-certs.md"
               }
             }
           },
@@ -151,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,9 +167,11 @@
   },
   "active": "a80c744ac0af0ac1",
   "lastOpenFiles": [
-    "My Cheat Sheets/My Cheat Sheets.md",
+    "My Cheat Sheets/Mother of all Indices..md",
+    "Christian's Cheat Sheets/apps/cert-manager.md",
     "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
     "My Cheat Sheets/Rough Notes.md",
+    "My Cheat Sheets/My Cheat Sheets.md",
     "My Cheat Sheets/K8s/Workload Resources/Jobs/Writing a Job spec.md",
     "My Cheat Sheets/K8s/Workload Resources/Jobs/Jobs.md",
     "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
@@ -183,7 +188,6 @@
     "My Cheat Sheets/Debian and Linux/Ubuntu Orangepi.md",
     "My Cheat Sheets/Debian and Linux/Version Upgrade.md",
     "Christian's Cheat Sheets/tools/openssh.md",
-    "My Cheat Sheets/Mother of all Indices..md",
     "My Cheat Sheets/Python/Python Cheat Sheets.md",
     "Everything Devops/Devops Courses.md",
     "My Cheat Sheets/Python",
@@ -195,7 +199,6 @@
     "My Cheat Sheets/Debian and Linux/Customizing Linux",
     "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md",
     "My Cheat Sheets/K8s/Workload Resources/StatefulSets/Components.md",
-    "My Cheat Sheets/K8s/Workload Resources/StatefulSets/StatefulSet.md",
     "My Cheat Sheets/K8s/Workload Resources/StatefulSets",
     "My Cheat Sheets/Attachments",
     "My Cheat Sheets/K8s/Workload Resources/Replica Sets",
