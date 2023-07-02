@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb214218f9bd43ee",
+        "id": "fdff4162330a90ed",
         "type": "tabs",
         "children": [
           {
-            "id": "a80c744ac0af0ac1",
+            "id": "934238043a61ae2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Christian's Cheat Sheets/misc/ssl-certs.md",
+                "file": "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Assign Pods to Nodes.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,13 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "388887a9d68de1d1",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Christian's Cheat Sheets/misc/ssl-certs.md",
+                "file": "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Assign Pods to Nodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Christian's Cheat Sheets/misc/ssl-certs.md",
+                "file": "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Assign Pods to Nodes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Christian's Cheat Sheets/misc/ssl-certs.md"
+                "file": "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Assign Pods to Nodes.md"
               }
             }
           },
@@ -165,44 +163,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a80c744ac0af0ac1",
+  "active": "934238043a61ae2e",
   "lastOpenFiles": [
-    "My Cheat Sheets/Mother of all Indices..md",
-    "Christian's Cheat Sheets/apps/cert-manager.md",
-    "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
-    "My Cheat Sheets/Rough Notes.md",
-    "My Cheat Sheets/My Cheat Sheets.md",
-    "My Cheat Sheets/K8s/Workload Resources/Jobs/Writing a Job spec.md",
-    "My Cheat Sheets/K8s/Workload Resources/Jobs/Jobs.md",
-    "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
+    "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Deploy a pod.md",
+    "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Assign Pods to Nodes.md",
+    "My Cheat Sheets/K8s/Workload Resources/Pods/Ephemeral Containers.md",
+    "My Cheat Sheets/K8s/Workload Resources/Pods/Init Containers.md",
+    "My Cheat Sheets/K8s/Workload Resources/Pods/Pod Lifecycle.md",
+    "My Cheat Sheets/K8s/Workload Resources/Pods/Pods.md",
+    "My Cheat Sheets/K3s/installation.md",
+    "My Cheat Sheets/K8s/Pods/Pods Handson/Deploy a pod",
+    "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson",
+    "My Cheat Sheets/K8s/Objects/Kubernetes Object definitions.md",
+    "My Cheat Sheets/K8s/Objects/Namespace",
+    "My Cheat Sheets/K8s/Objects",
+    "Everything Devops/Devops.md",
+    "Everything Devops/Devops Courses.md",
+    "Christian's Cheat Sheets/networking/smtp.md",
+    "Christian's Cheat Sheets/networking/twisted-pair-cables.md",
+    "Christian's Cheat Sheets/networking/wireguard.md",
+    "Christian's Cheat Sheets/networking/vpn.md",
+    "Christian's Cheat Sheets/networking/udp.md",
+    "Christian's Cheat Sheets/networking/tls.md",
+    "Christian's Cheat Sheets/networking/tcp.md",
+    "Christian's Cheat Sheets/networking/dnssec.md",
+    "Christian's Cheat Sheets/networking/dns.md",
+    "Christian's Cheat Sheets/networking/dns-record-types.md",
+    "Christian's Cheat Sheets/networking/dns-record-mailserver.md",
+    "My Cheat Sheets/Python/Python Cheat Sheets.md",
+    "Christian's Cheat Sheets/apps/nginx.md",
+    "Christian's Cheat Sheets/apps/tailscale.md",
+    "Christian's Cheat Sheets/apps/passbolt.md",
+    "Christian's Cheat Sheets/apps/traefik.md",
     "My Cheat Sheets/K8s/Workload Resources/Jobs",
     "My Cheat Sheets/K8s/Workload Resources",
-    "My Cheat Sheets/Debian and Linux/Remote Desktop Client.md",
-    "My Cheat Sheets/Debian and Linux/Linux Commands Cheatsheets.md",
-    "My Cheat Sheets/Debian and Linux/Add user to sudo.md",
-    "My Cheat Sheets/Debian and Linux/Get Exit code of previously executed Command.md",
-    "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
-    "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md",
-    "My Cheat Sheets/Debian and Linux/Installation of Debian 11.md",
-    "My Cheat Sheets/Debian and Linux/Sources List.md",
-    "My Cheat Sheets/Debian and Linux/Ubuntu Orangepi.md",
-    "My Cheat Sheets/Debian and Linux/Version Upgrade.md",
-    "Christian's Cheat Sheets/tools/openssh.md",
-    "My Cheat Sheets/Python/Python Cheat Sheets.md",
-    "Everything Devops/Devops Courses.md",
     "My Cheat Sheets/Python",
-    "Everything Devops/Devops.md",
     "Everything Devops/Untitled",
     "Everything Devops",
-    "My Cheat Sheets/Debian and Linux/Customizing Linux/Nano Syntax Highlighting.md",
-    "My Cheat Sheets/K8s/Pods/Pods.md",
     "My Cheat Sheets/Debian and Linux/Customizing Linux",
-    "My Cheat Sheets/K8s/Pods/Pod Lifecycle.md",
-    "My Cheat Sheets/K8s/Workload Resources/StatefulSets/Components.md",
-    "My Cheat Sheets/K8s/Workload Resources/StatefulSets",
-    "My Cheat Sheets/Attachments",
-    "My Cheat Sheets/K8s/Workload Resources/Replica Sets",
-    "My Cheat Sheets/K8s/Workload Resources/Deployments",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",

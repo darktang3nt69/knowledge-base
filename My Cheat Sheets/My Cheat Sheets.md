@@ -60,11 +60,9 @@
 	- [[Kubernetes Architecture Explained]]
 	- [[Kubernetes Objects Vs Resources Vs Custom Resource]]
 	- [[Kubernetes Pod Priority, PriorityClass, and Preemption Explained]]
-	- **[[Pods]]**
-		- [[Ephemeral Containers]]
-		- [[Init Containers]]
-		- [[Pod Lifecycle]]
-		- [[Pods]]
+	- **Objects**
+		- [[Kubernetes Object definitions]]
+		- **Namespace**
 	- [[Service Discovery]]
 	- **Workload Resources**
 		- **[[Deployments]]**
@@ -80,6 +78,14 @@
 		- **[[Jobs]]**
 			- [[Jobs]]
 			- [[Writing a Job spec]]
+		- **[[Pods]]**
+			- [[Ephemeral Containers]]
+			- [[Init Containers]]
+			- [[Pod Lifecycle]]
+			- **Pods Handson**
+				- [[Assign Pods to Nodes]]
+				- [[Deploy a pod]]
+			- [[Pods]]
 		- **[[Replica Sets]]**
 			- [[Replica Sets]]
 		- **StatefulSets**

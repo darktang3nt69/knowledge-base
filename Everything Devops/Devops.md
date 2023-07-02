@@ -18,3 +18,4 @@
 Youtube Links:
 
 1. https://www.youtube.com/@DevOpsMadeEasy/playlists
+2. https://www.youtube.com/watch?v=9q1DnI8MoIE&list=PLAdTNzDIZj_8BerYwx-rUjmVkj6A9vD9_&index=2

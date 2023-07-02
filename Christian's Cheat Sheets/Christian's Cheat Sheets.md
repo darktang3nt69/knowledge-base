@@ -89,8 +89,6 @@
 	- [[tcp]]
 	- [[tls]]
 	- [[twisted-pair-cables]]
-	- [[udp]]
-	- [[vpn]]
 	- [[wireguard]]
 - **tools**
 	- [[1password]]
