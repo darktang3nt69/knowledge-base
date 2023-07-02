@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Assign Pods to Nodes.md",
+                "file": "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Assign Pods to Nodes.md",
+                "file": "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Assign Pods to Nodes.md",
+                "file": "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Assign Pods to Nodes.md"
+                "file": "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md"
               }
             }
           },
@@ -165,8 +165,12 @@
   },
   "active": "934238043a61ae2e",
   "lastOpenFiles": [
-    "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Deploy a pod.md",
+    "My Cheat Sheets/Debian and Linux/Linux Commands Cheatsheets.md",
+    "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md",
+    "My Cheat Sheets/K8s/Services, Networking. etc/Cluster IP.md",
+    "My Cheat Sheets/K8s/Services, Networking. etc",
     "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Assign Pods to Nodes.md",
+    "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Deploy a pod.md",
     "My Cheat Sheets/K8s/Workload Resources/Pods/Ephemeral Containers.md",
     "My Cheat Sheets/K8s/Workload Resources/Pods/Init Containers.md",
     "My Cheat Sheets/K8s/Workload Resources/Pods/Pod Lifecycle.md",
@@ -192,15 +196,11 @@
     "Christian's Cheat Sheets/networking/dns-record-mailserver.md",
     "My Cheat Sheets/Python/Python Cheat Sheets.md",
     "Christian's Cheat Sheets/apps/nginx.md",
-    "Christian's Cheat Sheets/apps/tailscale.md",
-    "Christian's Cheat Sheets/apps/passbolt.md",
-    "Christian's Cheat Sheets/apps/traefik.md",
     "My Cheat Sheets/K8s/Workload Resources/Jobs",
     "My Cheat Sheets/K8s/Workload Resources",
     "My Cheat Sheets/Python",
     "Everything Devops/Untitled",
     "Everything Devops",
-    "My Cheat Sheets/Debian and Linux/Customizing Linux",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",

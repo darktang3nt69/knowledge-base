@@ -64,6 +64,8 @@
 		- [[Kubernetes Object definitions]]
 		- **Namespace**
 	- [[Service Discovery]]
+	- **Services, Networking. etc**
+		- [[Cluster IP]]
 	- **Workload Resources**
 		- **[[Deployments]]**
 			- [[Creating a Deployment]]
