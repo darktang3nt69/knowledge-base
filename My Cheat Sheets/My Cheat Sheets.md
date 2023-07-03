@@ -55,6 +55,9 @@
 - **K8s**
 	- [[Checklist]]
 	- [[How to Learn Kubernetes (Complete Roadmap & Resources)]]
+	- **K8s Yamls**
+		- **Pods**
+			- [[Deploy a pod]]
 	- [[Kubeconfig File Explained With Practical Examples]]
 	- [[Kubectl Cheat Sheet]]
 	- [[Kubernetes Architecture Explained]]

@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md",
+                "file": "My Cheat Sheets/Python/Python Cheat Sheets.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2f39bff669a5f925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Pods/Deploy a pod.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Pods/Deploy a pod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Pods/Deploy a pod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md"
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Pods/Deploy a pod.md"
               }
             }
           },
@@ -162,10 +176,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7837429fd83126a",
+  "active": "2f39bff669a5f925",
   "lastOpenFiles": [
-    "My Cheat Sheets/Debian and Linux/Linux Commands Cheatsheets.md",
+    "My Cheat Sheets/Python/Python Cheat Sheets.md",
+    "My Cheat Sheets/K8s/K8s Yamls/Pods/Deploy a pod.md",
     "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md",
+    "My Cheat Sheets/K8s/K8s Yamls/Pods",
+    "My Cheat Sheets/K8s/K8s Yamls",
+    "My Cheat Sheets/Debian and Linux/Linux Commands Cheatsheets.md",
     "My Cheat Sheets/K8s/Services, Networking. etc/Cluster IP.md",
     "My Cheat Sheets/K8s/Services, Networking. etc",
     "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Assign Pods to Nodes.md",
@@ -193,13 +211,9 @@
     "Christian's Cheat Sheets/networking/dns.md",
     "Christian's Cheat Sheets/networking/dns-record-types.md",
     "Christian's Cheat Sheets/networking/dns-record-mailserver.md",
-    "My Cheat Sheets/Python/Python Cheat Sheets.md",
-    "Christian's Cheat Sheets/apps/nginx.md",
     "My Cheat Sheets/K8s/Workload Resources/Jobs",
     "My Cheat Sheets/K8s/Workload Resources",
     "My Cheat Sheets/Python",
-    "Everything Devops/Untitled",
-    "Everything Devops",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",
