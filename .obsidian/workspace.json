@@ -147,12 +147,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +162,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "934238043a61ae2e",
+  "active": "a7837429fd83126a",
   "lastOpenFiles": [
     "My Cheat Sheets/Debian and Linux/Linux Commands Cheatsheets.md",
     "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md",
