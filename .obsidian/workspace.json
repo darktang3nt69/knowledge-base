@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/K8s/Service Discovery.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl CheatSheet.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/K8s/Service Discovery.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl CheatSheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/K8s/Service Discovery.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl CheatSheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/K8s/Service Discovery.md"
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl CheatSheet.md"
               }
             }
           },
@@ -162,10 +162,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7837429fd83126a",
+  "active": "2f39bff669a5f925",
   "lastOpenFiles": [
+    "My Cheat Sheets/My Cheat Sheets.md",
+    "My Cheat Sheets/K8s/Service Discovery.md",
     "My Cheat Sheets/K8s/K8s Yamls/Pods/Pod Example Yamls.md",
-    "My Cheat Sheets/K8s/K8s Yamls/CKA CheatSheet.md",
+    "My Cheat Sheets/K8s/K8s Yamls/Kubectl CheatSheet.md",
     "My Cheat Sheets/Python/Python Cheat Sheets.md",
     "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md",
     "My Cheat Sheets/K8s/K8s Yamls/Pods",
@@ -195,8 +197,6 @@
     "Christian's Cheat Sheets/networking/tls.md",
     "Christian's Cheat Sheets/networking/tcp.md",
     "Christian's Cheat Sheets/networking/dnssec.md",
-    "Christian's Cheat Sheets/networking/dns.md",
-    "Christian's Cheat Sheets/networking/dns-record-types.md",
     "My Cheat Sheets/K8s/Workload Resources/Jobs",
     "My Cheat Sheets/K8s/Workload Resources",
     "My Cheat Sheets/Python",
