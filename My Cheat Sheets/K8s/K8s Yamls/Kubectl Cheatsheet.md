@@ -128,7 +128,17 @@ You can then update the YAML file with the replicas or any other field before cr
         ```
 
 
+#### Static Pods
+Static pods have nodename append at the end of the pod name. They also have their ownerReferences set to kind `Node`.
 
+1. Place the static pod manifest in the directory that kubelet is watching:
+    1. `/etc/kubernetes/manifests/`
+    2. Look for `--config` or `--pod-manifest-path` parameter in kubelet service:
+        - If kubelet is running as a daemon:
+                        ```bash
+                            ps -ef | grep /usr/bin/kubelet
+                           ```
+    3. Place the pod manifests in the above directory.
 
 #### **Reference:**
 
