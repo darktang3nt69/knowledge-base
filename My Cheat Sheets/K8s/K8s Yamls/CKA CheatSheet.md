@@ -108,6 +108,28 @@ You can then update the YAML file with the replicas or any other field before cr
     k taint node node_name taint_name-
     ```
 
+#### Editing Pods and Deployments
+1. Remember, you CANNOT edit specifications of an existing POD other than the below.
+    - spec.containers[*].image
+    - spec.initContainers[*].image
+    - spec.activeDeadlineSeconds
+    - spec.tolerations
+
+2. Run the `kubectl edit pod <pod name>` command.  This will open the pod specification in an editor (vi editor). Then edit the required properties. When you try to save it, you will be denied. This is because you are attempting to edit a field on the pod that is not editable.A copy of the file with your changes is saved in a temporary location as shown above.
+
+    1. You can then delete the existing pod by running the command:
+        ```bash
+        k delete pod pod_name
+        ```
+
+   2.  Then create a new pod with your changes using the temporary file, or use `replace --force` instead of create if the resource is not deleted before applying:
+        ```bash
+        kubectl create -f /tmp/kubectl-edit-ccvrq.yaml
+        ```
+
+
+
+
 #### **Reference:**
 
  1. [https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)

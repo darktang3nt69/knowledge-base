@@ -66,7 +66,6 @@
 	- [[Kubernetes Pod Priority, PriorityClass, and Preemption Explained]]
 	- **Objects**
 		- [[Kubernetes Object definitions]]
-		- **Namespace**
 	- [[Service Discovery]]
 	- **Services, Networking. etc**
 		- [[Cluster IP]]
