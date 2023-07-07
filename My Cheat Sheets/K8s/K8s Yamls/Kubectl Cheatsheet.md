@@ -140,6 +140,41 @@ Static pods have nodename append at the end of the pod name. They also have thei
                            ```
     3. Place the pod manifests in the above directory.
 
+
+#### Logs
+
+1. Use the following command to stream the logs. If the pod contains multiple containers, container name has to be specified. use `-f` to view live logs.
+    ```bash
+    k logs pods pod_name -f
+    ```
+
+
+#### Rollouts and Updates
+
+1. `UPDATE`: 
+    - Using deployment file: 
+        ```bash
+        k apply -f deployment-file.yaml
+        ```
+    - Using kubectl( name of the container as defined in the pod spec):
+        ```bash
+        k set image deployment/deployment-name container_name=new_container_name
+        ```
+
+2. `Status`:
+    - Get the current rollout status:
+        ```bash
+        k rollout status deployment/deployment-name
+        ```
+    - Get the rollout history of the deployment:
+        ```bash
+        k rollout history deployment/deployment-name
+        ```
+
+3. `Rollback` rollback to the previous rollout :
+    ```bash
+    k rollout undo deployment/deployment-name
+    ```
 #### **Reference:**
 
  1. [https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
