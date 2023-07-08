@@ -176,6 +176,17 @@ Static pods have nodename append at the end of the pod name. They also have thei
     ```bash
     k rollout undo deployment/deployment-name
     ```
+
+
+#### Secrets:
+
+Also the way kubernetes handles secrets. Such as:
+- A secret is only sent to a node if a pod on that node requires it.
+- Kubelet stores the secret into a tmpfs so that the secret is not written to disk storage.
+- Once the Pod that depends on the secret is deleted, kubelet will delete its local copy of the secret data as well.
+    
+
+Read about the [protections](https://kubernetes.io/docs/concepts/configuration/secret/#protections) and [risks](https://kubernetes.io/docs/concepts/configuration/secret/#risks) of using secrets [here](https://kubernetes.io/docs/concepts/configuration/secret/#risks)
 #### **Reference:**
 
  1. [https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
