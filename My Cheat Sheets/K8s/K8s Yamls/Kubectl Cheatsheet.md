@@ -158,7 +158,7 @@ Static pods have nodename append at the end of the pod name. They also have thei
         ```
     - Using kubectl( name of the container as defined in the pod spec):
         ```bash
-        k set image deployment/deployment-name container_name=new_container_name
+        k set image deployment/deployment-name container_name=new_container_name    
         ```
 
 2. `Status`:
