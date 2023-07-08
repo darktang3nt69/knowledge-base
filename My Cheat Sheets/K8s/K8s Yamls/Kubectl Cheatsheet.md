@@ -113,7 +113,8 @@ You can then update the YAML file with the replicas or any other field before cr
     - spec.containers[*].image
     - spec.initContainers[*].image
     - spec.activeDeadlineSeconds
-    - spec.tolerations
+    - spec.tolerations `(only additions to existing tolerations)`
+    - spec.terminationGracePeriodSeconds` (allow it to be set to 1 if it was previously negative)`
 
 2. Run the `kubectl edit pod <pod name>` command.  This will open the pod specification in an editor (vi editor). Then edit the required properties. When you try to save it, you will be denied. This is because you are attempting to edit a field on the pod that is not editable.A copy of the file with your changes is saved in a temporary location as shown above.
 
