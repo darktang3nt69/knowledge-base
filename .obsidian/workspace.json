@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
-                "mode": "preview",
+                "file": "My Cheat Sheets/Rough Notes.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
+                "file": "My Cheat Sheets/Rough Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
+                "file": "My Cheat Sheets/Rough Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md"
+                "file": "My Cheat Sheets/Rough Notes.md"
               }
             }
           },
@@ -165,15 +165,16 @@
   },
   "active": "2f39bff669a5f925",
   "lastOpenFiles": [
+    "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
+    "My Cheat Sheets/K8s/Objects/Kubernetes Object definitions.md",
+    "My Cheat Sheets/K8s/K8s Yamls/Pods/Pod Example Yamls.md",
     "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
     "Everything Devops/Job Search.md",
     "Everything Devops/Devops Projects to add to resume.md",
     "Everything Devops/Devops Courses.md",
     "Everything Devops/Devops.md",
-    "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
     "My Cheat Sheets/My Cheat Sheets.md",
     "My Cheat Sheets/K8s/Service Discovery.md",
-    "My Cheat Sheets/K8s/K8s Yamls/Pods/Pod Example Yamls.md",
     "My Cheat Sheets/Python/Python Cheat Sheets.md",
     "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md",
     "My Cheat Sheets/K8s/K8s Yamls/Pods",
@@ -190,7 +191,6 @@
     "My Cheat Sheets/K3s/installation.md",
     "My Cheat Sheets/K8s/Pods/Pods Handson/Deploy a pod",
     "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson",
-    "My Cheat Sheets/K8s/Objects/Kubernetes Object definitions.md",
     "My Cheat Sheets/K8s/Objects/Namespace",
     "My Cheat Sheets/K8s/Objects",
     "Christian's Cheat Sheets/networking/smtp.md",
