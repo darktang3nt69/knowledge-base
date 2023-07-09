@@ -187,10 +187,22 @@ Also the way kubernetes handles secrets. Such as:
     
 
 Read about the [protections](https://kubernetes.io/docs/concepts/configuration/secret/#protections) and [risks](https://kubernetes.io/docs/concepts/configuration/secret/#risks) of using secrets [here](https://kubernetes.io/docs/concepts/configuration/secret/#risks)
-#### Switching namespace
-1. Use the below command to switch ns:
+#### Switching namespace and context:
+1. Switch Namespace within the current context:
     ```bash
     k config set-context  --current --namespace=new_namespace
+    ```
+2. View current context:
+    ```bash
+    k config current-context 
+    ```
+3. Switch Context(clusters):
+    ```bash
+    k config use-context cluster_name
+    ```
+4. View config:
+    ```bash
+    k config view
     ```
 
 #### Backing up etcd
@@ -204,6 +216,10 @@ Read about the [protections](https://kubernetes.io/docs/concepts/configuration/
     --key=/etc/kubernetes/pki/etcd/server.key \
      /opt/snapshot-pre-boot.db
     ```
+
+
+
+
 #### **Reference:**
 
  1. [https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
