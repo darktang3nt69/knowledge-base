@@ -11,3 +11,6 @@
   6. Deploy GitOps using ArgoCD: Deploy application using GitOps using ArgoCD and create a beautiful dashboard.  
   
 7. Create docker image or ansible role for real world use cases: Try creating docker images or ansible role for automating rollouts/ end-to-end application installation/Containerisation.  
+8. [DevOps Live Projects](https://www.youtube.com/playlist?list=PLlfy9GnSVerRqYJgVYO0UiExj5byjrW8u)
+9. [Linux for DevOps](https://www.youtube.com/playlist?list=PLlfy9GnSVerQr-Se9JRE_tZJk3OUoHCkh)
+10. 

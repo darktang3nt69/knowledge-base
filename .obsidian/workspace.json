@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Rough Notes.md",
-                "mode": "source",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Rough Notes.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Rough Notes.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Rough Notes.md"
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md"
               }
             }
           },
@@ -165,12 +165,13 @@
   },
   "active": "2f39bff669a5f925",
   "lastOpenFiles": [
+    "Everything Devops/Devops Projects to add to resume.md",
+    "My Cheat Sheets/Rough Notes.md",
     "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
     "My Cheat Sheets/K8s/Objects/Kubernetes Object definitions.md",
     "My Cheat Sheets/K8s/K8s Yamls/Pods/Pod Example Yamls.md",
     "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
     "Everything Devops/Job Search.md",
-    "Everything Devops/Devops Projects to add to resume.md",
     "Everything Devops/Devops Courses.md",
     "Everything Devops/Devops.md",
     "My Cheat Sheets/My Cheat Sheets.md",
@@ -197,7 +198,6 @@
     "Christian's Cheat Sheets/networking/twisted-pair-cables.md",
     "Christian's Cheat Sheets/networking/wireguard.md",
     "Christian's Cheat Sheets/networking/vpn.md",
-    "Christian's Cheat Sheets/networking/udp.md",
     "My Cheat Sheets/K8s/Workload Resources/Jobs",
     "My Cheat Sheets/K8s/Workload Resources",
     "My Cheat Sheets/Python",

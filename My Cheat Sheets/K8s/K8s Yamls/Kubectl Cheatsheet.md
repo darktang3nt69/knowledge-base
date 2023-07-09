@@ -193,7 +193,17 @@ Read about the [protections](https://kubernetes.io/docs/concepts/configuration/
     k config set-context  --current --namespace=new_namespace
     ```
 
+#### Backing up etcd
+1. Replace `cacert`, `cert`, `endpoints`, `key` with the value from etcd process or pod.
 
+    ```bash
+    etcdctl snapshot save \
+    --cacert=/etc/kubernetes/pki/etcd/ca.crt \
+    --cert=/etc/kubernetes/pki/etcd/server.crt \
+    --endpoints=https://127.0.0.1:2379 \
+    --key=/etc/kubernetes/pki/etcd/server.key \
+     /opt/snapshot-pre-boot.db
+    ```
 #### **Reference:**
 
  1. [https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
