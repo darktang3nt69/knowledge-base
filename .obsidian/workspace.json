@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +162,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f39bff669a5f925",
+  "active": "a7837429fd83126a",
   "lastOpenFiles": [
     "My Cheat Sheets/K8s/K8s Yamls/testing.md",
     "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",

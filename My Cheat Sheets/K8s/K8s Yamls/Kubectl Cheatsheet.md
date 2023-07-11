@@ -221,7 +221,7 @@ Read about the [protections](https://kubernetes.io/docs/concepts/configuration/
 
 
 
-#### Roles
+#### Roles and ClusterRoles
 1. Get Roles:
     ```bash
     k get roles
@@ -249,6 +249,14 @@ Read about the [protections](https://kubernetes.io/docs/concepts/configuration/
  7. Get verbose output instead of a simple yes or no to check if a user has a certain permissions, Use:
      ```bash
      kubectl --as user-name create deployment nginx --image=nginx
+    ```
+8. Create a `ClusterRole`, user has access to all nodes:
+    ```bash
+    kubectl create clusterrole michelle-clusterrole --verb=* --resource=nodes
+    ```
+9. Create a `ClusterRoleBinding` for the user michelle using the above created `ClusterRole`:
+    ```bash
+    kubectl create clusterrolebinding michelle-clusterrolebindings --clusterrole=michelle-clusterrole --user=michelle
     ```
 #### **Reference:**
 
