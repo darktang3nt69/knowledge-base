@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everything Devops/Devops Courses.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/testing.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything Devops/Devops Courses.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything Devops/Devops Courses.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything Devops/Devops Courses.md"
+                "file": "My Cheat Sheets/K8s/K8s Yamls/testing.md"
               }
             }
           },
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,15 +165,16 @@
   "active": "2f39bff669a5f925",
   "lastOpenFiles": [
     "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
+    "My Cheat Sheets/K8s/K8s Yamls/testing.md",
     "My Cheat Sheets/My Cheat Sheets.md",
-    "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
     "My Cheat Sheets/Mother of all Indices..md",
+    "Everything Devops/Devops Courses.md",
+    "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
     "My Cheat Sheets/Rough Notes.md",
     "Everything Devops/Devops Projects to add to resume.md",
     "My Cheat Sheets/K8s/Objects/Kubernetes Object definitions.md",
     "My Cheat Sheets/K8s/K8s Yamls/Pods/Pod Example Yamls.md",
     "Everything Devops/Job Search.md",
-    "Everything Devops/Devops Courses.md",
     "Everything Devops/Devops.md",
     "My Cheat Sheets/K8s/Service Discovery.md",
     "My Cheat Sheets/Python/Python Cheat Sheets.md",
@@ -197,7 +197,6 @@
     "My Cheat Sheets/K8s/Objects",
     "Christian's Cheat Sheets/networking/smtp.md",
     "Christian's Cheat Sheets/networking/twisted-pair-cables.md",
-    "Christian's Cheat Sheets/networking/wireguard.md",
     "My Cheat Sheets/K8s/Workload Resources/Jobs",
     "My Cheat Sheets/K8s/Workload Resources",
     "My Cheat Sheets/Python",

@@ -59,6 +59,7 @@
 		- [[Kubectl Cheatsheet]]
 		- **Pods**
 			- [[Pod Example Yamls]]
+		- [[testing]]
 	- [[Kubeconfig File Explained With Practical Examples]]
 	- [[Kubectl Cheat Sheet]]
 	- [[Kubernetes Architecture Explained]]
