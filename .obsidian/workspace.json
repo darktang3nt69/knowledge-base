@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/K8s/K8s Yamls/testing.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/K8s/K8s Yamls/testing.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/K8s/K8s Yamls/testing.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/K8s/K8s Yamls/testing.md"
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +165,8 @@
   },
   "active": "2f39bff669a5f925",
   "lastOpenFiles": [
-    "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
     "My Cheat Sheets/K8s/K8s Yamls/testing.md",
+    "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
     "My Cheat Sheets/My Cheat Sheets.md",
     "My Cheat Sheets/Mother of all Indices..md",
     "Everything Devops/Devops Courses.md",

@@ -220,6 +220,36 @@ Read about the [protections](https://kubernetes.io/docs/concepts/configuration/
 
 
 
+
+#### Roles
+1. Get Roles:
+    ```bash
+    k get roles
+    ```
+2. Inspect permissions given to another user, `--as` is used to perform the action as the specified user:
+    ```bash
+    k auth can-i get pods --as dev-user
+    ```
+3. Check to see if I can do everything in my current namespace (`*` means all):
+    ```bash
+    kubectl auth can-i '*' '*'
+    ```
+4. Check to see if I can get the job named "bar" in namespace "foo":
+    ```bash
+    kubectl auth can-i list jobs.batch/bar -n foo
+    ```
+5. Create a role named "pod-reader" that allows user to perform "get", "watch" and "list" on pods:
+    ```bash
+    kubectl create role pod-reader --verb=get --verb=list --verb=watch --resource=pods
+    ```
+6. Create a role binding for `dev-user` with role `dev-user`:
+    ```bash
+    kubectl create rolebinding dev-user-binding --role=dev-user --user=dev-user
+    ```
+ 7. Get verbose output instead of a simple yes or no to check if a user has a certain permissions, Use:
+     ```bash
+     kubectl --as user-name create deployment nginx --image=nginx
+    ```
 #### **Reference:**
 
  1. [https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
