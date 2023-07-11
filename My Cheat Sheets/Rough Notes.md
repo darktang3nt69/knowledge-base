@@ -6,6 +6,7 @@ docker run -d -p 9001:9001  --name portainer_agent  --restart=always  -v /var/ru
 wWI-3F-CPbBqQ-Qv2DLiWWunBlxJQjRRyVSI1LQe
 
 
-apt-mark unhold kubeadm && apt-get update && apt-get install -y kubeadm=1.26.6-00 && apt-mark hold kubeadm
+apt-mark unhold kubeadm && apt-get update && apt-get install -y kubeadm=1.27.0-00 && apt-mark hold kubeadm
 
-apt-mark unhold kubelet kubectl && apt-get update && apt-get install -y kubelet=1.26.6-00 kubectl=1.26.6-00 && apt-mark hold kubelet kubectl
+apt-mark unhold kubelet kubectl && apt-get update && apt-get install -y kubelet=1.27.0-00 kubectl=1.27.0-00 && apt-mark hold kubelet kubectl
+

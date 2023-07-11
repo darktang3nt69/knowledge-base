@@ -8,7 +8,8 @@
 3. [AWS Networking Masterclass - Amazon VPC & Hybrid Cloud 2023 | Udemy](https://www.udemy.com/course/aws-networking-amazon-vpc-aws-vpn-hybrid-cloud/)
 4. [DevOps Beginners to Advanced | Decoding DevOps with Projects | Udemy](https://www.udemy.com/course/decodingdevops/)
 5. [AWS EKS Kubernetes-Masterclass | DevOps, Microservices | Udemy](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/)
-
+### Links:
+1. [Kubernetes Networking](https://www.tkng.io/)
 ## Devops resources:
 1. [devops-exercises]([]https://github.com/bregman-arie/devops-exercises)
 2. ![Owner avatar](https://avatars.githubusercontent.com/u/57155954?s=48&v=4)**[academy](https://github.com/devopsacademyau/academy)**
