@@ -250,7 +250,10 @@ Read about the [protections](https://kubernetes.io/docs/concepts/configuration/
      ```bash
      kubectl --as user-name create deployment nginx --image=nginx
     ```
-8. Create a `ClusterRole`, user has access to all nodes:
+8. Create a `ClusterRole
+9. 
+10. 
+11. `, user has access to all nodes:
     ```bash
     kubectl create clusterrole michelle-clusterrole --verb=* --resource=nodes
     ```
@@ -258,7 +261,23 @@ Read about the [protections](https://kubernetes.io/docs/concepts/configuration/
     ```bash
     kubectl create clusterrolebinding michelle-clusterrolebindings --clusterrole=michelle-clusterrole --user=michelle
     ```
-#### **Reference:**
 
+#### ServiceAccounts and Token
+1. Create  a `ServiceAccount`:
+    ```bash
+    k create serviceaccount service_account_name
+    ```
+2. Generate a token for a `ServiceAccount`:
+    ```bash
+    kubectl create token service_account_name
+    ```
+
+#### Private repo(docker) secret
+1. Use the following command to create `docker-secret` type secret:
+    ```bash
+    k create secret docker-registry secret-name --docker-username=replace-me --docker-password=replace-me --docker-email=replace-me@myprivateregistry-name.com --docker-server=replace-me.com:5000
+    ```
+
+#### **Reference:**
  1. [https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
 2. [https://kubernetes.io/docs/reference/kubectl/conventions/](https://kubernetes.io/docs/reference/kubectl/conventions/)

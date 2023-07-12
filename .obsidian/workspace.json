@@ -19,6 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ac78c18ca734d715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -163,14 +176,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7837429fd83126a",
+  "active": "2f39bff669a5f925",
   "lastOpenFiles": [
-    "My Cheat Sheets/K8s/K8s Yamls/testing.md",
+    "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
     "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
+    "My Cheat Sheets/K8s/K8s Yamls/testing.md",
     "My Cheat Sheets/My Cheat Sheets.md",
     "My Cheat Sheets/Mother of all Indices..md",
     "Everything Devops/Devops Courses.md",
-    "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
     "My Cheat Sheets/Rough Notes.md",
     "Everything Devops/Devops Projects to add to resume.md",
     "My Cheat Sheets/K8s/Objects/Kubernetes Object definitions.md",
