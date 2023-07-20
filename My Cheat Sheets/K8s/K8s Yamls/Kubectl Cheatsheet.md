@@ -3,15 +3,19 @@
 
 #### POD
 1. Create an NGINX Pod:
-```bash
-kubectl run nginx --image=nginx
-```
+    ```bash
+    kubectl run nginx --image=nginx
+    ```
 
 2. Generate POD Manifest YAML file (-o yaml). Don't create it(--dry-run)
-```bash
-kubectl run nginx --image=nginx --dry-run=client -o yaml
-```
+    ```bash
+    kubectl run nginx --image=nginx --dry-run=client -o yaml
+    ```
 
+3. Set image of a pod:
+    ```bash
+    k set image resource/resource_name container_name=new_container
+    ```
 
 #### Deployment
 
