@@ -16,7 +16,11 @@
     ```bash
     k set image resource/resource_name container_name=new_container
     ```
-
+4. Assign a pod to Node, simplest way is to just add the following to .spec of pod :
+    ```yaml
+    nodeName: node-name
+    ```
+    
 #### Deployment
 
 1. Create a deployment
@@ -70,7 +74,10 @@ You can then update the YAML file with the replicas or any other field before cr
        kubectl create service nodeport nginx --tcp=80:80 --node-port=30080 --dry-run=client -o yaml
         ```
 
-
+3. Comm between pods in different namespace:
+    ```bash
+    service-name.namespace.svc.cluster.local
+    ```
 #### Selectors and Labels
 
 1. Filter resources using lables:
