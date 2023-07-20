@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Get CPU Temps.md"
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "2f39bff669a5f925",
   "lastOpenFiles": [
+    "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
     "Christian's Cheat Sheets/misc/ssl-certs.md",
     "My Cheat Sheets/Mother of all Indices..md",
     "Christian's Cheat Sheets/apps/kasm.md",
@@ -205,7 +206,6 @@
     "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Assign Pods to Nodes.md",
     "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Deploy a pod.md",
     "My Cheat Sheets/K8s/Workload Resources/Pods/Ephemeral Containers.md",
-    "My Cheat Sheets/K8s/Workload Resources/Pods/Init Containers.md",
     "My Cheat Sheets/K8s/Pods/Pods Handson/Deploy a pod",
     "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson",
     "My Cheat Sheets/K8s/Objects/Namespace",

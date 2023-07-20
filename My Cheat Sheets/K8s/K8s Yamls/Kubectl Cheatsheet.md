@@ -179,7 +179,6 @@ Static pods have nodename append at the end of the pod name. They also have thei
 
 
 #### Secrets
-
 Also the way kubernetes handles secrets. Such as:
 - A secret is only sent to a node if a pod on that node requires it.
 - Kubelet stores the secret into a tmpfs so that the secret is not written to disk storage.
