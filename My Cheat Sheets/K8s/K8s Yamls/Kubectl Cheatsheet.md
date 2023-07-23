@@ -197,7 +197,7 @@ Also the way kubernetes handles secrets. Such as:
     
 
 Read about the [protections](https://kubernetes.io/docs/concepts/configuration/secret/#protections) and [risks](https://kubernetes.io/docs/concepts/configuration/secret/#risks) of using secrets [here](https://kubernetes.io/docs/concepts/configuration/secret/#risks)
-#### Switching namespace and context:
+#### Switching namespace and context
 1. Switch Namespace within the current context:
     ```bash
     k config set-context  --current --namespace=new_namespace
