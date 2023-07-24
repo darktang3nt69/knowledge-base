@@ -288,6 +288,14 @@ Read about the [protections](https://kubernetes.io/docs/concepts/configuration/
     k create secret docker-registry secret-name --docker-username=replace-me --docker-password=replace-me --docker-email=replace-me@myprivateregistry-name.com --docker-server=replace-me.com:5000
     ```
 
+
+#### Security Context
+1. Check the user inside the container in a pod:
+    ```bash
+    kubectl exec pod-name -- whoami
+     ```
+ 2. 
+
 #### **Reference:**
  1. [https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
 2. [https://kubernetes.io/docs/reference/kubectl/conventions/](https://kubernetes.io/docs/reference/kubectl/conventions/)
