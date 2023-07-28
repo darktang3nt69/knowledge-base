@@ -48,4 +48,11 @@ We can imitate docker networking using the below commands:
     ```bash
     ip link set veth-red-br master v-net-0
     ```
-10. 
+10. To allow traffic to outside the bridge network `v-net-0`i.e host network in this case, we need add a IP table routing rule to route host network cidr via the `v-net-0` gateway:
+    ```bash
+    ip netns exec red ip route add 192.168.1.0/24 via 192.168.15.5
+    ```
+11. Enable NAT - IP Masquerade. It essentially replaces the IP of the pod before entering the `v-net-0` bridge:
+    ```bash
+    iptables -t nat -A POSTROUTING -s 192.168.15.0/24 -j MASQUERADE
+    ```
