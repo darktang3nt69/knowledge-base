@@ -10,3 +10,15 @@ apt-mark unhold kubeadm && apt-get update && apt-get install -y kubeadm=1.27.0-0
 
 apt-mark unhold kubelet kubectl && apt-get update && apt-get install -y kubelet=1.27.0-00 kubectl=1.27.0-00 && apt-mark hold kubelet kubectl
 
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+ name: pv-log
+spec:
+ persistentVolumeReclaimPolicy: Retain
+ accessModes:
+   - ReadWriteMany
+ capacity:
+   storage: 100Mi
+ hostPath:
+   path: /pv/log****

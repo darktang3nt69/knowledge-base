@@ -296,6 +296,77 @@ Read about the [protections](https://kubernetes.io/docs/concepts/configuration/
      ```
  2. 
 
+#### Persistent Volume
+1. Create a simple PV with Access Mode: `ReadWriteMany`, Storage: `100Mi`, Reclaim Policy:`Retain`, Host Path: `/pv/log`:
+     ```yaml
+    apiVersion: v1
+    kind: PersistentVolume
+    metadata:
+      name: pv-log
+    spec:
+      persistentVolumeReclaimPolicy: Retain
+      accessModes:
+        - ReadWriteMany
+      capacity:
+        storage: 100Mi
+      hostPath:
+        path: /pv/log
+       ```
+
+2. Create a Persistent Volume Claim with storage request: `50Mi` and Access Mode: `ReadWriteOnce`:
+    ```yaml
+    kind: PersistentVolumeClaim
+    apiVersion: v1
+    metadata:
+      name: claim-log-1
+    spec:
+      accessModes:
+        - ReadWriteOnce
+      resources:
+        requests:
+          storage: 50Mi
+    ```
+
+3. Attach a PVC to a pod:
+     ```yaml
+    apiVersion: v1
+    kind: Pod
+    metadata:
+      name: webapp
+    spec:
+      containers:
+      - name: event-simulator
+        image: kodekloud/event-simulator
+        env:
+        - name: LOG_HANDLERS
+          value: file
+        volumeMounts:
+        - mountPath: /log
+          name: log-volume
+    
+      volumes:
+      - name: log-volume
+        persistentVolumeClaim:
+          claimName: claim-log-1
+    ```
+
+4. Create a PVC with storageClassName: 
+     ```yaml
+    kind: PersistentVolumeClaim
+    apiVersion: v1
+    metadata:
+      name: local-pvc
+    spec:
+      accessModes:
+      - ReadWriteOnce
+      storageClassName: local-storage
+      resources:
+        requests:
+          storage: 500Mi
+    ```
+
+5. 
+
 #### **Reference:**
  1. [https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
 2. [https://kubernetes.io/docs/reference/kubectl/conventions/](https://kubernetes.io/docs/reference/kubectl/conventions/)
