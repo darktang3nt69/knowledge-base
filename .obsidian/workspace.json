@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
-                "mode": "preview",
+                "file": "Everything Devops/Untitled.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
+                "file": "Everything Devops/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
+                "file": "Everything Devops/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md"
+                "file": "Everything Devops/Untitled.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "2f39bff669a5f925",
   "lastOpenFiles": [
-    "My Cheat Sheets/Debian and Linux/Networking/How Docker Networking work.md",
     "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
+    "Everything Devops/Untitled.md",
+    "My Cheat Sheets/Debian and Linux/Networking/How Docker Networking work.md",
     "My Cheat Sheets/Rough Notes.md",
     "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
     "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
@@ -206,7 +207,6 @@
     "My Cheat Sheets/K8s/Services, Networking. etc/Cluster IP.md",
     "My Cheat Sheets/K8s/Services, Networking. etc",
     "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Assign Pods to Nodes.md",
-    "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Deploy a pod.md",
     "My Cheat Sheets/K8s/Pods/Pods Handson/Deploy a pod",
     "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson",
     "My Cheat Sheets/K8s/Objects/Namespace",
