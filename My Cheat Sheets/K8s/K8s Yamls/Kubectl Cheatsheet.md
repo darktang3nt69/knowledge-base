@@ -367,6 +367,13 @@ Read about the [protections](https://kubernetes.io/docs/concepts/configuration/
 
 5. 
 
+#### Ingress
+1. Create an ingress:
+    ```bash
+    kubectl create ingress <ingress-name> --rule="host/path=service:port"
+    ```
+
+
 #### **Reference:**
  1. [https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
 2. [https://kubernetes.io/docs/reference/kubectl/conventions/](https://kubernetes.io/docs/reference/kubectl/conventions/)

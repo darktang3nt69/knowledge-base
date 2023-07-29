@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Networking/How Docker Networking work.md",
-                "mode": "preview",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Networking/How Docker Networking work.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Networking/How Docker Networking work.md",
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Networking/How Docker Networking work.md"
+                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md"
               }
             }
           },
@@ -176,10 +176,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7837429fd83126a",
+  "active": "2f39bff669a5f925",
   "lastOpenFiles": [
-    "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
     "My Cheat Sheets/Debian and Linux/Networking/How Docker Networking work.md",
+    "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
     "My Cheat Sheets/Rough Notes.md",
     "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
     "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
