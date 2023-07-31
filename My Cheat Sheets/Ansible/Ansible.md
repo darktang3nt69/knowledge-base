@@ -6,13 +6,15 @@
 
 There are no additional servers, daemons, or databases required. Typically you'll work with your favorite terminal program, a text editor, and a version control system to keep track of changes to your content.
 
+Ansible Glossary: https://docs.ansible.com/ansible/latest/reference_appendices/glossary.html
+
 ## Ansible Architecture
 
 Both community Ansible and Ansible Automation Platform have the concept of a control node and a managed node. 
 1. `Control Node`: The control node is where Ansible is executed from, for example where a user runs the ansible-playbook command. 
 2. `Managed nodes`: are the devices being automated, for example a Microsoft Windows server.
 
-For automating Linux and Windows, Ansible works by connecting to managed nodes and pushing out small programs, called "Ansible modules," to them. These programs are written to be resource models of the desired state of the system. Ansible then executes these modules (over SSH by default), and removes them when finished. These modules are designed to be [idempotent](https://docs.ansible.com/ansible/latest/reference_appendices/glossary.html#term-Idempotency) when possible, so that they only make changes to a system when necessary.
+For automating Linux and Windows, Ansible works by connecting to managed nodes and pushing out small programs, called "Ansible modules," to them. These programs are written to be resource models of the desired state of the system. Ansible then executes these modules (over SSH by default), and removes them when finished. These modules are designed to be **idempotent**(`An operation is idempotent if the result of performing it once is exactly the same as the result of performing it repeatedly without any intervening actions.`) when possible, so that they only make changes to a system when necessary.
 
 ## Basic Concepts
 

@@ -2,8 +2,28 @@ docker run -d -p 22:22 -p 80:80 -p 443:443  --name gitlab --hostname gitlab.exam
 
 docker run -d -p 9001:9001  --name portainer_agent  --restart=always  -v /var/run/docker.sock:/var/run/docker.sock  -v /var/lib/docker/volumes:/var/lib/docker/volumes portainer/agent:2.18.3
 
+[In this lab exercise you will use below hosts. Please note down some details about these hosts as given below :
 
-wWI-3F-CPbBqQ-Qv2DLiWWunBlxJQjRRyVSI1LQe
+
+
+student-node :- This host will act as an Ansible master node where you will create playbooks, inventory, roles etc and you will be running your playbooks from this host itself.
+
+
+node01 :- This host will act as an Ansible client/remote host where you will setup/install some stuff using Ansible playbooks. Below are the SSH credentials for this host:
+
+
+User: bob
+Password: caleston123
+
+
+node02 :- This host will also act as an Ansible client/remote host where you will setup/install some stuff using Ansible playbooks. Below are the SSH credentials for this host:
+
+
+User: bob
+Password: caleston123
+
+
+Note: Please type exit or logout on the terminal or press CTRL + d to log out from a specific node.]
 
 
 apt-mark unhold kubeadm && apt-get update && apt-get install -y kubeadm=1.27.0-00 && apt-mark hold kubeadm
@@ -21,4 +41,4 @@ spec:
  capacity:
    storage: 100Mi
  hostPath:
-   path: /pv/log****
+   path: /pv/log
