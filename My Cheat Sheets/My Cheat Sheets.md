@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
 - **Ansible**
+	- [[Installing Ansible]]
 	- [[Intro to Ansible]]
 	- [[Inventory File]]
 - **Attachments**
