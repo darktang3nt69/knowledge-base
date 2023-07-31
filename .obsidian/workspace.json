@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fdff4162330a90ed",
+        "id": "f5ee7081c15fb6ab",
         "type": "tabs",
         "children": [
           {
-            "id": "2f39bff669a5f925",
+            "id": "faa59d1cfec7a03f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everything Devops/Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ac78c18ca734d715",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
+                "file": "My Cheat Sheets/Ansible/Ansible.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything Devops/Untitled.md",
+                "file": "My Cheat Sheets/Ansible/Ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything Devops/Untitled.md",
+                "file": "My Cheat Sheets/Ansible/Ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything Devops/Untitled.md"
+                "file": "My Cheat Sheets/Ansible/Ansible.md"
               }
             }
           },
@@ -164,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,20 +162,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f39bff669a5f925",
+  "active": "faa59d1cfec7a03f",
   "lastOpenFiles": [
-    "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
+    "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
+    "Christian's Cheat Sheets/docker/docker.md",
+    "My Cheat Sheets/Ansible/Ansible.md",
     "Everything Devops/Untitled.md",
+    "My Cheat Sheets/Ansible",
+    "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
     "My Cheat Sheets/Debian and Linux/Networking/How Docker Networking work.md",
     "My Cheat Sheets/Rough Notes.md",
-    "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
     "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
     "Christian's Cheat Sheets/misc/ssl-certs.md",
     "My Cheat Sheets/Mother of all Indices..md",
     "Christian's Cheat Sheets/apps/kasm.md",
     "Christian's Cheat Sheets/apps/cert-manager.md",
     "Christian's Cheat Sheets/tools/terraform.md",
-    "My Cheat Sheets/K3s/installation.md",
+    "My Cheat Sheets/K8s/K3s/installation.md",
     "My Cheat Sheets/K8s/K8s Yamls/testing.md",
     "My Cheat Sheets/My Cheat Sheets.md",
     "Everything Devops/Devops Courses.md",
@@ -204,16 +193,13 @@
     "My Cheat Sheets/K8s/K8s Yamls/Pods",
     "My Cheat Sheets/K8s/K8s Yamls",
     "My Cheat Sheets/Debian and Linux/Linux Commands Cheatsheets.md",
-    "My Cheat Sheets/K8s/Services, Networking. etc/Cluster IP.md",
     "My Cheat Sheets/K8s/Services, Networking. etc",
-    "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson/Assign Pods to Nodes.md",
     "My Cheat Sheets/K8s/Pods/Pods Handson/Deploy a pod",
     "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson",
     "My Cheat Sheets/K8s/Objects/Namespace",
     "My Cheat Sheets/K8s/Objects",
     "My Cheat Sheets/K8s/Workload Resources/Jobs",
     "My Cheat Sheets/K8s/Workload Resources",
-    "My Cheat Sheets/Python",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",

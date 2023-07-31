@@ -1,4 +1,6 @@
 %% Begin Waypoint %%
+- **[[Ansible]]**
+	- [[Ansible]]
 - **Attachments**
 - **Debian and Linux**
 	- [[Add user to sudo]]
@@ -50,12 +52,12 @@
 		- [[Hard Links and Folder Structure for arr stack]]
 		- [[qBittorrent - Basic Setup]]
 		- [[The Arr stack]]
-- **K3s**
-	- [[Certs]]
-	- [[installation]]
 - **K8s**
 	- [[Checklist]]
 	- [[How to Learn Kubernetes (Complete Roadmap & Resources)]]
+	- **K3s**
+		- [[Certs]]
+		- [[installation]]
 	- **K8s Yamls**
 		- [[Kubectl Cheatsheet]]
 		- **Pods**
