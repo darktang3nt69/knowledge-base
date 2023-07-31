@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
-- **[[Ansible]]**
-	- [[Ansible]]
+- **Ansible**
+	- [[Intro to Ansible]]
+	- [[Inventory File]]
 - **Attachments**
 - **Debian and Linux**
 	- [[Add user to sudo]]

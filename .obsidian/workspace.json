@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Ansible.md",
+                "file": "My Cheat Sheets/Ansible/Intro to Ansible.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Rough Notes.md",
+                "file": "My Cheat Sheets/Ansible/Inventory File.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Rough Notes.md",
+                "file": "My Cheat Sheets/Ansible/Inventory File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Rough Notes.md",
+                "file": "My Cheat Sheets/Ansible/Inventory File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Rough Notes.md"
+                "file": "My Cheat Sheets/Ansible/Inventory File.md"
               }
             }
           },
@@ -179,14 +179,15 @@
   },
   "active": "516c83e99c721dff",
   "lastOpenFiles": [
-    "My Cheat Sheets/Ansible/Ansible.md",
+    "My Cheat Sheets/Ansible/Intro to Ansible.md",
+    "My Cheat Sheets/Ansible/Inventory File.md",
+    "My Cheat Sheets/Rough Notes.md",
     "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
     "Christian's Cheat Sheets/docker/docker.md",
     "Everything Devops/Untitled.md",
     "My Cheat Sheets/Ansible",
     "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
     "My Cheat Sheets/Debian and Linux/Networking/How Docker Networking work.md",
-    "My Cheat Sheets/Rough Notes.md",
     "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
     "Christian's Cheat Sheets/misc/ssl-certs.md",
     "My Cheat Sheets/Mother of all Indices..md",
@@ -207,7 +208,6 @@
     "My Cheat Sheets/Debian and Linux/Linux Cheatsheet.md",
     "My Cheat Sheets/K8s/K8s Yamls/Pods",
     "My Cheat Sheets/K8s/K8s Yamls",
-    "My Cheat Sheets/Debian and Linux/Linux Commands Cheatsheets.md",
     "My Cheat Sheets/K8s/Services, Networking. etc",
     "My Cheat Sheets/K8s/Pods/Pods Handson/Deploy a pod",
     "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson",
