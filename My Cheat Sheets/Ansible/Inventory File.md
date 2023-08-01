@@ -11,7 +11,7 @@
 5. **Aliasing hosts**. Here ansible_host is a predefined variable:
     ```ini
     #Below is the format
-    alias ansible_host=<FQDN>
+    alias_name ansible_host=<FQDN>
     web1 ansible_host=server1.company.com
     web2 ansible_host=server2.company.com
     web3 ansible_host=server3.company.com

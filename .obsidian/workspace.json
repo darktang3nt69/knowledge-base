@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Inventory File.md",
+                "file": "My Cheat Sheets/Ansible/Modules.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Inventory File.md",
+                "file": "My Cheat Sheets/Ansible/Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Inventory File.md",
+                "file": "My Cheat Sheets/Ansible/Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Inventory File.md"
+                "file": "My Cheat Sheets/Ansible/Modules.md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,12 +165,18 @@
   },
   "active": "516c83e99c721dff",
   "lastOpenFiles": [
+    "My Cheat Sheets/Ansible/Inventory File.md",
+    "My Cheat Sheets/Ansible/Intro to Ansible.md",
+    "My Cheat Sheets/Ansible/Installing Ansible.md",
+    "My Cheat Sheets/Ansible/Modules.md",
+    "My Cheat Sheets/Ansible/Variables.md",
+    "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md",
+    "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
+    "My Cheat Sheets/Debian and Linux/Remote Desktop Client.md",
+    "Christian's Cheat Sheets/tools/openssh.md",
+    "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
     "My Cheat Sheets/Rough Notes.md",
     "My Cheat Sheets/My Cheat Sheets.md",
-    "My Cheat Sheets/Ansible/Ansible_Variables.md",
-    "My Cheat Sheets/Ansible/Intro to Ansible.md",
-    "My Cheat Sheets/Ansible/Inventory File.md",
-    "My Cheat Sheets/Ansible/Installing Ansible.md",
     "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
     "Christian's Cheat Sheets/docker/docker.md",
     "Everything Devops/Untitled.md",
@@ -185,12 +192,6 @@
     "My Cheat Sheets/K8s/K3s/installation.md",
     "My Cheat Sheets/K8s/K8s Yamls/testing.md",
     "Everything Devops/Devops Courses.md",
-    "Everything Devops/Devops Projects to add to resume.md",
-    "My Cheat Sheets/K8s/Objects/Kubernetes Object definitions.md",
-    "My Cheat Sheets/K8s/K8s Yamls/Pods/Pod Example Yamls.md",
-    "Everything Devops/Job Search.md",
-    "Everything Devops/Devops.md",
-    "My Cheat Sheets/K8s/Service Discovery.md",
     "My Cheat Sheets/K8s/K8s Yamls/Pods",
     "My Cheat Sheets/K8s/K8s Yamls",
     "My Cheat Sheets/K8s/Services, Networking. etc",
