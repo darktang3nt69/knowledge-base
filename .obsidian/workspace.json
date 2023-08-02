@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
+                "file": "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "passwordles",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
+                "file": "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
+                "file": "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md"
+                "file": "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md"
               }
             }
           },
@@ -152,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,6 +164,8 @@
   },
   "active": "516c83e99c721dff",
   "lastOpenFiles": [
+    "My Cheat Sheets/Ansible/Installing Ansible.md",
+    "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
     "Everything Devops/Devops Courses.md",
     "Everything Devops/Devops Projects to add to resume.md",
     "Everything Devops/Job Search.md",
@@ -173,10 +173,8 @@
     "My Cheat Sheets/Ansible/Modules.md",
     "My Cheat Sheets/Ansible/Inventory File.md",
     "My Cheat Sheets/Ansible/Intro to Ansible.md",
-    "My Cheat Sheets/Ansible/Installing Ansible.md",
     "My Cheat Sheets/Ansible/Variables.md",
     "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md",
-    "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
     "My Cheat Sheets/Debian and Linux/Remote Desktop Client.md",
     "Christian's Cheat Sheets/tools/openssh.md",
     "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
