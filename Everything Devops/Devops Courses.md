@@ -17,6 +17,7 @@
 4. [Devops Training](https://tkssharma-devops.gitbook.io/devops-training/)
 5. ![Owner avatar](https://avatars.githubusercontent.com/u/10358317?s=48&v=4)**[Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes)**
 6. ![Owner avatar](https://avatars.githubusercontent.com/u/1766965?s=48&v=4)**[awesome-terraform](https://github.com/shuaibiyy/awesome-terraform)**
+7. [100 days of devops](https://github.com/100daysofdevops/100daysofdevops)
 
 ## Remote Jobs
 1. FlexJobs  
