@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +163,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "516c83e99c721dff",
+  "active": "a7837429fd83126a",
   "lastOpenFiles": [
     "My Cheat Sheets/Ansible/Installing Ansible.md",
     "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
