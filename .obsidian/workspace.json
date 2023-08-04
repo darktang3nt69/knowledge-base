@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
+                "file": "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "passwordless ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
+                "file": "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
+                "file": "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md"
+                "file": "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md"
               }
             }
           },
@@ -165,13 +166,14 @@
   },
   "active": "516c83e99c721dff",
   "lastOpenFiles": [
-    "My Cheat Sheets/Ansible/Variables.md",
-    "My Cheat Sheets/Ansible/Modules.md",
     "My Cheat Sheets/Ansible/Inventory File.md",
     "My Cheat Sheets/Ansible/Intro to Ansible.md",
-    "My Cheat Sheets/Ansible/Installing Ansible.md",
     "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md",
     "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
+    "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
+    "My Cheat Sheets/Ansible/Variables.md",
+    "My Cheat Sheets/Ansible/Modules.md",
+    "My Cheat Sheets/Ansible/Installing Ansible.md",
     "Everything Devops/Devops Courses.md",
     "Everything Devops/Devops Projects to add to resume.md",
     "Everything Devops/Job Search.md",
@@ -184,7 +186,6 @@
     "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
     "Christian's Cheat Sheets/docker/docker.md",
     "My Cheat Sheets/Ansible",
-    "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
     "My Cheat Sheets/Debian and Linux/Networking/How Docker Networking work.md",
     "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
     "Christian's Cheat Sheets/misc/ssl-certs.md",
