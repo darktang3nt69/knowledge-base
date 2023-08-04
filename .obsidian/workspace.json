@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
-                "mode": "preview",
+                "file": "My Cheat Sheets/SSH.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
+                "file": "My Cheat Sheets/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
+                "file": "My Cheat Sheets/SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md"
+                "file": "My Cheat Sheets/SSH.md"
               }
             }
           },
@@ -166,10 +165,11 @@
   },
   "active": "516c83e99c721dff",
   "lastOpenFiles": [
+    "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
+    "My Cheat Sheets/SSH.md",
     "My Cheat Sheets/Ansible/Inventory File.md",
     "My Cheat Sheets/Ansible/Intro to Ansible.md",
     "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md",
-    "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
     "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
     "My Cheat Sheets/Ansible/Variables.md",
     "My Cheat Sheets/Ansible/Modules.md",
@@ -192,7 +192,6 @@
     "My Cheat Sheets/Mother of all Indices..md",
     "Christian's Cheat Sheets/apps/kasm.md",
     "Christian's Cheat Sheets/apps/cert-manager.md",
-    "Christian's Cheat Sheets/tools/terraform.md",
     "My Cheat Sheets/K8s/K8s Yamls/Pods",
     "My Cheat Sheets/K8s/K8s Yamls",
     "My Cheat Sheets/K8s/Services, Networking. etc",

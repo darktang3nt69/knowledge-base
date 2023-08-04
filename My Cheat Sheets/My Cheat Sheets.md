@@ -111,5 +111,6 @@
 - **Python**
 	- [[Python Cheat Sheets]]
 - [[Rough Notes]]
+- [[SSH]]
 
 %% End Waypoint %%
