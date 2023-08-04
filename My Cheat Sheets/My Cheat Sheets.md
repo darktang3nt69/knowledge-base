@@ -1,10 +1,13 @@
 %% Begin Waypoint %%
 - **Ansible**
+	- [[Ansible Advanced]]
 	- [[Built-in Ansible_Variables]]
 	- [[Installing Ansible]]
 	- [[Intro to Ansible]]
 	- [[Inventory File]]
 	- [[Modules]]
+	- [[Strategies]]
+	- [[Untitled]]
 	- [[Variables]]
 - **Debian and Linux**
 	- [[Add user to sudo]]
