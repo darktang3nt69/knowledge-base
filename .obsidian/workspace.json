@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Failure Handling.md",
-                "mode": "source",
+                "file": "My Cheat Sheets/Ansible/Lookups.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Failure Handling.md",
+                "file": "My Cheat Sheets/Ansible/Lookups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Failure Handling.md",
+                "file": "My Cheat Sheets/Ansible/Lookups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Failure Handling.md"
+                "file": "My Cheat Sheets/Ansible/Lookups.md"
               }
             }
           },
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,18 +164,22 @@
   },
   "active": "516c83e99c721dff",
   "lastOpenFiles": [
-    "My Cheat Sheets/Ansible/Strategies.md",
     "My Cheat Sheets/Ansible/Failure Handling.md",
+    "My Cheat Sheets/Ansible/Lookups.md",
+    "My Cheat Sheets/K8s/Workload Resources/Replica Sets/Replica Sets.md",
+    "My Cheat Sheets/My Cheat Sheets.md",
+    "My Cheat Sheets/Ansible/Blocks.md",
+    "My Cheat Sheets/K8s/Checklist.md",
+    "My Cheat Sheets/Ansible/Strategies.md",
     "My Cheat Sheets/Ansible/Ansible Advanced.md",
+    "My Cheat Sheets/Ansible/Modules.md",
     "My Cheat Sheets/Ansible/Intro to Ansible.md",
     "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md",
     "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
-    "My Cheat Sheets/Ansible/Untitled.md",
     "My Cheat Sheets/SSH.md",
     "My Cheat Sheets/Ansible/Inventory File.md",
     "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
     "My Cheat Sheets/Ansible/Variables.md",
-    "My Cheat Sheets/Ansible/Modules.md",
     "My Cheat Sheets/Ansible/Installing Ansible.md",
     "Everything Devops/Devops Courses.md",
     "Everything Devops/Devops Projects to add to resume.md",
@@ -186,12 +189,8 @@
     "Christian's Cheat Sheets/tools/openssh.md",
     "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
     "My Cheat Sheets/Rough Notes.md",
-    "My Cheat Sheets/My Cheat Sheets.md",
     "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
-    "Christian's Cheat Sheets/docker/docker.md",
     "My Cheat Sheets/Ansible",
-    "My Cheat Sheets/Debian and Linux/Networking/How Docker Networking work.md",
-    "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
     "My Cheat Sheets/K8s/K8s Yamls/Pods",
     "My Cheat Sheets/K8s/K8s Yamls",
     "My Cheat Sheets/K8s/Services, Networking. etc",

@@ -97,3 +97,9 @@
          - '"ERROR" in result.stderr'
          - result.rc == 2
     ```
+8. **Ensuring Success and Failure for shell and command**: The [command](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/command_module.html#command-module) and [shell](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/shell_module.html#shell-module) modules care about return codes, so if you have a command whose successful exit code is not zero, you can do this:
+    ```yaml
+    tasks:
+      - name: Run this command and ignore the result
+        ansible.builtin.shell: /usr/bin/somecommand || /bin/true
+    ```

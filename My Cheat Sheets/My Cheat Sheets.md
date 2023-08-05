@@ -1,14 +1,15 @@
 %% Begin Waypoint %%
 - **Ansible**
 	- [[Ansible Advanced]]
+	- [[Blocks]]
 	- [[Built-in Ansible_Variables]]
 	- [[Failure Handling]]
 	- [[Installing Ansible]]
 	- [[Intro to Ansible]]
 	- [[Inventory File]]
+	- [[Lookups]]
 	- [[Modules]]
 	- [[Strategies]]
-	- [[Untitled]]
 	- [[Variables]]
 - **Debian and Linux**
 	- [[Add user to sudo]]
@@ -61,7 +62,6 @@
 		- [[qBittorrent - Basic Setup]]
 		- [[The Arr stack]]
 - **K8s**
-	- [[Checklist]]
 	- [[How to Learn Kubernetes (Complete Roadmap & Resources)]]
 	- **K3s**
 		- [[Certs]]
