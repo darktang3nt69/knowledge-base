@@ -2,6 +2,7 @@
 - **Ansible**
 	- [[Ansible Advanced]]
 	- [[Built-in Ansible_Variables]]
+	- [[Failure Handling]]
 	- [[Installing Ansible]]
 	- [[Intro to Ansible]]
 	- [[Inventory File]]
