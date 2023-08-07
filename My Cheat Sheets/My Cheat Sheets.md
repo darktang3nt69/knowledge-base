@@ -116,5 +116,8 @@
 	- [[Python Cheat Sheets]]
 - [[Rough Notes]]
 - [[SSH]]
+- **Terraform**
+	- [[Terraform CLI]]
+- [[Terraform]]
 
 %% End Waypoint %%

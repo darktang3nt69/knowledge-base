@@ -92,7 +92,7 @@
 	- [[wireguard]]
 - **tools**
 	- [[1password]]
-	- [[Christian's Cheat Sheets/tools/ansible]]
+	- [[ansible]]
 	- [[bitwarden]]
 	- [[chocolatey]]
 	- [[datree]]
@@ -105,7 +105,6 @@
 	- [[openssl]]
 	- [[packer]]
 	- [[starship]]
-	- [[terraform]]
 	- [[vagrant]]
 	- [[vscode]]
 	- [[wsl]]

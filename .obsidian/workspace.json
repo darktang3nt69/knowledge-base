@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/K8s/Objects/Kubernetes Object definitions.md",
+                "file": "My Cheat Sheets/Terraform/Terraform CLI.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/K8s/Objects/Kubernetes Object definitions.md",
+                "file": "My Cheat Sheets/Terraform/Terraform CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/K8s/Objects/Kubernetes Object definitions.md",
+                "file": "My Cheat Sheets/Terraform/Terraform CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/K8s/Objects/Kubernetes Object definitions.md"
+                "file": "My Cheat Sheets/Terraform/Terraform CLI.md"
               }
             }
           },
@@ -165,6 +165,21 @@
   },
   "active": "516c83e99c721dff",
   "lastOpenFiles": [
+    "Christian's Cheat Sheets/windows/powershell-remote.md",
+    "My Cheat Sheets/Terraform/Terraform CLI.md",
+    "My Cheat Sheets/Terraform",
+    "Christian's Cheat Sheets/tools/starship.md",
+    "Christian's Cheat Sheets/networking/dnssec.md",
+    "Christian's Cheat Sheets/misc/ssl-security.md",
+    "Christian's Cheat Sheets/misc/ssl-certs.md",
+    "Christian's Cheat Sheets/kubernetes/kubernetes-dns.md",
+    "Christian's Cheat Sheets/kubernetes/kubernetes.md",
+    "Christian's Cheat Sheets/kubernetes/kubectl.md",
+    "Christian's Cheat Sheets/kubernetes/kind.md",
+    "Christian's Cheat Sheets/kubernetes/helm.md",
+    "Christian's Cheat Sheets/kubernetes/k3s.md",
+    "My Cheat Sheets/Terraform.md",
+    "My Cheat Sheets/K8s/Objects/Kubernetes Object definitions.md",
     "My Cheat Sheets/Ansible/Lookups.md",
     "My Cheat Sheets/Ansible/Failure Handling.md",
     "My Cheat Sheets/K8s/Workload Resources/Replica Sets/Replica Sets.md",
@@ -177,20 +192,6 @@
     "My Cheat Sheets/Ansible/Intro to Ansible.md",
     "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md",
     "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
-    "My Cheat Sheets/SSH.md",
-    "My Cheat Sheets/Ansible/Inventory File.md",
-    "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
-    "My Cheat Sheets/Ansible/Variables.md",
-    "My Cheat Sheets/Ansible/Installing Ansible.md",
-    "Everything Devops/Devops Courses.md",
-    "Everything Devops/Devops Projects to add to resume.md",
-    "Everything Devops/Job Search.md",
-    "Everything Devops/Untitled.md",
-    "My Cheat Sheets/Debian and Linux/Remote Desktop Client.md",
-    "Christian's Cheat Sheets/tools/openssh.md",
-    "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
-    "My Cheat Sheets/Rough Notes.md",
-    "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
     "My Cheat Sheets/Ansible",
     "My Cheat Sheets/K8s/K8s Yamls/Pods",
     "My Cheat Sheets/K8s/K8s Yamls",
@@ -200,7 +201,6 @@
     "My Cheat Sheets/K8s/Objects/Namespace",
     "My Cheat Sheets/K8s/Objects",
     "My Cheat Sheets/K8s/Workload Resources/Jobs",
-    "My Cheat Sheets/K8s/Workload Resources",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",
