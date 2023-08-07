@@ -115,9 +115,11 @@
 - **Python**
 	- [[Python Cheat Sheets]]
 - [[Rough Notes]]
-- [[SSH]]
-- **Terraform**
+- **[[Terraform]]**
+	- [[Hashicorp Configuration Language(Terraform Language)]]
+	- [[How-to Guides]]
 	- [[Terraform CLI]]
-- [[Terraform]]
+	- [[Terraform Workflow]]
+	- [[Terraform]]
 
 %% End Waypoint %%

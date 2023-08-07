@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "516c83e99c721dff",
+            "id": "0f1c475a70024594",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Terraform CLI.md",
-                "mode": "preview",
+                "file": "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Terraform CLI.md",
+                "file": "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Terraform CLI.md",
+                "file": "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Terraform CLI.md"
+                "file": "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md"
               }
             }
           },
@@ -163,10 +163,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "516c83e99c721dff",
+  "active": "0f1c475a70024594",
   "lastOpenFiles": [
-    "Christian's Cheat Sheets/windows/powershell-remote.md",
+    "My Cheat Sheets/Terraform/How-to Guides.md",
+    "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
+    "My Cheat Sheets/Terraform/Terraform Workflow.md",
     "My Cheat Sheets/Terraform/Terraform CLI.md",
+    "My Cheat Sheets/Terraform/Terraform.md",
+    "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
+    "My Cheat Sheets/My Cheat Sheets.md",
+    "My Cheat Sheets/Terraform.md",
+    "My Cheat Sheets/SSH.md",
+    "My Cheat Sheets/Rough Notes.md",
+    "My Cheat Sheets/Mother of all Indices..md",
+    "My Cheat Sheets/Keychron/Keychron Custom firmware.md",
+    "My Cheat Sheets/Docker/Docker Study Plan.md",
+    "My Cheat Sheets/Docker/Installation/Install Docker Compose.md",
+    "My Cheat Sheets/Python/Python Cheat Sheets.md",
+    "Christian's Cheat Sheets/windows/powershell-remote.md",
     "My Cheat Sheets/Terraform",
     "Christian's Cheat Sheets/tools/starship.md",
     "Christian's Cheat Sheets/networking/dnssec.md",
@@ -178,20 +192,6 @@
     "Christian's Cheat Sheets/kubernetes/kind.md",
     "Christian's Cheat Sheets/kubernetes/helm.md",
     "Christian's Cheat Sheets/kubernetes/k3s.md",
-    "My Cheat Sheets/Terraform.md",
-    "My Cheat Sheets/K8s/Objects/Kubernetes Object definitions.md",
-    "My Cheat Sheets/Ansible/Lookups.md",
-    "My Cheat Sheets/Ansible/Failure Handling.md",
-    "My Cheat Sheets/K8s/Workload Resources/Replica Sets/Replica Sets.md",
-    "My Cheat Sheets/My Cheat Sheets.md",
-    "My Cheat Sheets/Ansible/Blocks.md",
-    "My Cheat Sheets/K8s/Checklist.md",
-    "My Cheat Sheets/Ansible/Strategies.md",
-    "My Cheat Sheets/Ansible/Ansible Advanced.md",
-    "My Cheat Sheets/Ansible/Modules.md",
-    "My Cheat Sheets/Ansible/Intro to Ansible.md",
-    "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md",
-    "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
     "My Cheat Sheets/Ansible",
     "My Cheat Sheets/K8s/K8s Yamls/Pods",
     "My Cheat Sheets/K8s/K8s Yamls",
