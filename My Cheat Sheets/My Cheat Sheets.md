@@ -121,5 +121,6 @@
 	- [[Terraform CLI]]
 	- [[Terraform Workflow]]
 	- [[Terraform]]
+	- [[Using vars in terraform configuration files]]
 
 %% End Waypoint %%

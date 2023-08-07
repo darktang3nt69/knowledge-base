@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
-                "mode": "source",
+                "file": "My Cheat Sheets/Terraform/How-to Guides.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
+                "file": "My Cheat Sheets/Terraform/How-to Guides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
+                "file": "My Cheat Sheets/Terraform/How-to Guides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md"
+                "file": "My Cheat Sheets/Terraform/How-to Guides.md"
               }
             }
           },
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,10 +162,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f1c475a70024594",
+  "active": "a7837429fd83126a",
   "lastOpenFiles": [
-    "My Cheat Sheets/Terraform/How-to Guides.md",
+    "My Cheat Sheets/Terraform/Using vars in terraform configuration files.md",
+    "Christian's Cheat Sheets/docker/docker.md",
+    "Christian's Cheat Sheets/docker/docker-file.md",
+    "Christian's Cheat Sheets/docker/docker-compose.md",
+    "Christian's Cheat Sheets/databases/postgres.md",
+    "Christian's Cheat Sheets/databases/sqlite.md",
+    "Christian's Cheat Sheets/databases/mariadb.md",
+    "Christian's Cheat Sheets/databases/mysql.md",
     "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
+    "My Cheat Sheets/Terraform/How-to Guides.md",
     "My Cheat Sheets/Terraform/Terraform Workflow.md",
     "My Cheat Sheets/Terraform/Terraform CLI.md",
     "My Cheat Sheets/Terraform/Terraform.md",
@@ -184,14 +191,6 @@
     "My Cheat Sheets/Terraform",
     "Christian's Cheat Sheets/tools/starship.md",
     "Christian's Cheat Sheets/networking/dnssec.md",
-    "Christian's Cheat Sheets/misc/ssl-security.md",
-    "Christian's Cheat Sheets/misc/ssl-certs.md",
-    "Christian's Cheat Sheets/kubernetes/kubernetes-dns.md",
-    "Christian's Cheat Sheets/kubernetes/kubernetes.md",
-    "Christian's Cheat Sheets/kubernetes/kubectl.md",
-    "Christian's Cheat Sheets/kubernetes/kind.md",
-    "Christian's Cheat Sheets/kubernetes/helm.md",
-    "Christian's Cheat Sheets/kubernetes/k3s.md",
     "My Cheat Sheets/Ansible",
     "My Cheat Sheets/K8s/K8s Yamls/Pods",
     "My Cheat Sheets/K8s/K8s Yamls",

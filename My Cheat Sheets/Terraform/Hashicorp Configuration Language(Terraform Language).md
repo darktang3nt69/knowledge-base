@@ -42,6 +42,7 @@
     
 1. **Variable block**: This declares the variables.
     1. Can be declared in `variables.tf` file and can used in our script.
+    2. _Default_ field is optional. If not mentioned, terraform will prompt for values at runtime.
     ```ini
     #Template:
     variable "var_name" {
@@ -65,21 +66,76 @@
     
     ```
     2. **Types of vars**:
-        1. **int**:
+        1. **Int**:
             ```ini
-            # int
             # Usage -----> var.example
             variable "example"{ 
             default     = 0
             type        = int
             }
             ```
-        2. **string**:
+        2. **String**:
             ```ini
-            # int
             # Usage -----> var.example
             variable "example"{ 
-            default     = 0
-            type        = int
+            default     = "example"
+            type        = string
             }
             ```
+        3. **Lists**:
+            ```ini
+            # Usage -----> var.example[index] # Index starts at 0.
+            variable "example"{ 
+            default     = ["example", "example1", "example2"]
+            type        = list(string) # Strict Typechecking
+            }
+            ```
+        4. **Maps**:
+            ```ini
+            # Usage -----> var.example["key"]
+            variable "example"{ 
+            default     = {
+                "color" = "Brown"
+                "name"  =  "Charlie" }
+            type        = map(string) # Strict Typechecking
+            }
+            ```
+        5. **Sets**: Must contain unique elements.
+            ```ini
+            # Usage -----> var.example(index) # Index starts at 0.
+            variable "example"{ 
+            default     = [1, 2, 3 ]
+            type        = set(int) # Strict Typechecking
+            }
+            ```
+        6. **Objects**: used to create complex var using other var types.
+            ```ini
+            # Usage -----> var.example[key]
+            variable "custom"{ 
+            # Define the type of the object here.
+            type = object({
+                name    = string
+                color   = string
+                age     = int
+                food    = list(string)
+                fav_pet = bool
+            })
+            default = {
+                name    = "bella"
+                color   = "Blue"
+                age     = 3
+                food    = [ "Fried Chicken", "Biryani" ]
+                fav_pet = true
+            }
+            }
+            ```
+        7. **Tuple**: Heterogenous list of various datatypes. Type and order the of element and No of elements should match. This what differentiates list from tuple.
+            ```ini
+            # Usage -----> var.example[key]
+            variable "example"{ 
+            default     = [1, "Hello", true ]
+            type        = tuple([int, string, bool]) # Type and length should match
+            }
+            ```
+            
+5.
