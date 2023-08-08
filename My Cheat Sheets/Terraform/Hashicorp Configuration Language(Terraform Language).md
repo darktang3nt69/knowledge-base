@@ -138,4 +138,30 @@
             }
             ```
             
-5.
+5. **Output vars**: Terraform also supports output variables.
+    - Output variables are printed after `terraform apply`.
+    - All Output variables can be printed using `terraform output`.
+    - Individual variables can be printed using `terraform output variable_name`
+    ```ini
+    output 'var-name'{
+        value = "Mandatory argument. This usually is a reference expression"
+        description = "Optional"
+    }
+    ---
+    resource "random_pet" "my-pet" {
+      length    = var.length 
+    }
+    
+    output "pet-name" {
+        value = random_pet.my-pet.id
+        description = "Record the value of pet ID generated by the random_pet resource"
+    }
+    
+    resource "local_file" "welcome" {
+        filename = "/root/message.txt"
+        content = "Welcome to Kodekloud."
+    }
+    output "welcome_message" {
+      value = local_file.welcome.content
+    }
+    ```

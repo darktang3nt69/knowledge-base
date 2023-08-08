@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Terraform/How-to Guides.md",
+                "file": "My Cheat Sheets/Terraform/Terraform State.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Terraform/How-to Guides.md",
+                "file": "My Cheat Sheets/Terraform/Terraform State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Terraform/How-to Guides.md",
+                "file": "My Cheat Sheets/Terraform/Terraform State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Terraform/How-to Guides.md"
+                "file": "My Cheat Sheets/Terraform/Terraform State.md"
               }
             }
           },
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,6 +164,13 @@
   },
   "active": "a7837429fd83126a",
   "lastOpenFiles": [
+    "My Cheat Sheets/Home Lab Docs/The arrs Stack/The Arr stack.md",
+    "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
+    "My Cheat Sheets/Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
+    "My Cheat Sheets/Terraform/Terraform State.md",
+    "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
+    "My Cheat Sheets/Home Lab Docs/Install Pihole.md",
+    "My Cheat Sheets/Terraform/How-to Guides.md",
     "My Cheat Sheets/Terraform/Using vars in terraform configuration files.md",
     "Christian's Cheat Sheets/docker/docker.md",
     "Christian's Cheat Sheets/docker/docker-file.md",
@@ -173,8 +179,6 @@
     "Christian's Cheat Sheets/databases/sqlite.md",
     "Christian's Cheat Sheets/databases/mariadb.md",
     "Christian's Cheat Sheets/databases/mysql.md",
-    "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
-    "My Cheat Sheets/Terraform/How-to Guides.md",
     "My Cheat Sheets/Terraform/Terraform Workflow.md",
     "My Cheat Sheets/Terraform/Terraform CLI.md",
     "My Cheat Sheets/Terraform/Terraform.md",
@@ -186,12 +190,7 @@
     "My Cheat Sheets/Mother of all Indices..md",
     "My Cheat Sheets/Keychron/Keychron Custom firmware.md",
     "My Cheat Sheets/Docker/Docker Study Plan.md",
-    "My Cheat Sheets/Docker/Installation/Install Docker Compose.md",
-    "My Cheat Sheets/Python/Python Cheat Sheets.md",
-    "Christian's Cheat Sheets/windows/powershell-remote.md",
     "My Cheat Sheets/Terraform",
-    "Christian's Cheat Sheets/tools/starship.md",
-    "Christian's Cheat Sheets/networking/dnssec.md",
     "My Cheat Sheets/Ansible",
     "My Cheat Sheets/K8s/K8s Yamls/Pods",
     "My Cheat Sheets/K8s/K8s Yamls",
