@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Terraform State.md",
+                "file": "My Cheat Sheets/Terraform/Terraform CLI.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Terraform State.md",
+                "file": "My Cheat Sheets/Terraform/Terraform CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Terraform State.md",
+                "file": "My Cheat Sheets/Terraform/Terraform CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Terraform State.md"
+                "file": "My Cheat Sheets/Terraform/Terraform CLI.md"
               }
             }
           },
@@ -160,15 +160,18 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "a7837429fd83126a",
+  "active": "0f1c475a70024594",
   "lastOpenFiles": [
+    "Christian's Cheat Sheets/cloud/provider/civo.md",
+    "My Cheat Sheets/Terraform/Terraform CLI.md",
+    "My Cheat Sheets/Terraform/Terraform State.md",
     "My Cheat Sheets/Home Lab Docs/The arrs Stack/The Arr stack.md",
     "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
     "My Cheat Sheets/Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
-    "My Cheat Sheets/Terraform/Terraform State.md",
     "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
     "My Cheat Sheets/Home Lab Docs/Install Pihole.md",
     "My Cheat Sheets/Terraform/How-to Guides.md",
@@ -181,7 +184,6 @@
     "Christian's Cheat Sheets/databases/mariadb.md",
     "Christian's Cheat Sheets/databases/mysql.md",
     "My Cheat Sheets/Terraform/Terraform Workflow.md",
-    "My Cheat Sheets/Terraform/Terraform CLI.md",
     "My Cheat Sheets/Terraform/Terraform.md",
     "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
     "My Cheat Sheets/My Cheat Sheets.md",
@@ -190,7 +192,6 @@
     "My Cheat Sheets/Rough Notes.md",
     "My Cheat Sheets/Mother of all Indices..md",
     "My Cheat Sheets/Keychron/Keychron Custom firmware.md",
-    "My Cheat Sheets/Docker/Docker Study Plan.md",
     "My Cheat Sheets/Terraform",
     "My Cheat Sheets/Ansible",
     "My Cheat Sheets/K8s/K8s Yamls/Pods",
