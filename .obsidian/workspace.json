@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +164,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0f1c475a70024594",
+  "active": "a7837429fd83126a",
   "lastOpenFiles": [
     "My Cheat Sheets/Terraform/Meta Arguments.md",
     "My Cheat Sheets/Terraform/Using vars in terraform configuration files.md",
