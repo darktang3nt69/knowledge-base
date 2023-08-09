@@ -119,6 +119,7 @@
 	- [[Hashicorp Configuration Language(Terraform Language)]]
 	- [[How-to Guides]]
 	- [[Terraform CLI]]
+	- [[Terraform Lifecycle Meta Argument]]
 	- [[Terraform State]]
 	- [[Terraform Workflow]]
 	- [[Terraform]]

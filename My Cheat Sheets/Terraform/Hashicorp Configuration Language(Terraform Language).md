@@ -7,7 +7,7 @@
         3. Most of Terraform's features are controlled by top-level blocks in a configuration file.
     2.  _Arguments_: assign a value to a name. They appear within blocks.
     3.  _Expressions_ represent a value, either literally or by referencing and combining other values. They appear as values for arguments, or within other expressions.
-        ```ini
+        ```hcl
         resource "local_file" "pet" {
           filename = ~/pet.txt
           content  = 'I love cats!!'
@@ -20,7 +20,7 @@
         ```
         
 4. **Resource Block**: This block specifies the _resources_ that terraform manages.
-    ```ini
+    ```hcl
     # Template for Resource Block.
     <Resource> "<PROVIDER_RESOURCE>" "<RESOURCE_NAME>" {
           #body
@@ -43,7 +43,7 @@
 1. **Variable block**: This declares the variables.
     1. Can be declared in `variables.tf` file and can used in our script.
     2. _Default_ field is optional. If not mentioned, terraform will prompt for values at runtime.
-    ```ini
+    ```hcl
     #Template:
     variable "var_name" {
     default     = "something"
@@ -67,7 +67,7 @@
     ```
     2. **Types of vars**:
         1. **Int**:
-            ```ini
+            ```hcl
             # Usage -----> var.example
             variable "example"{ 
             default     = 0
@@ -75,7 +75,7 @@
             }
             ```
         2. **String**:
-            ```ini
+            ```hcl
             # Usage -----> var.example
             variable "example"{ 
             default     = "example"
@@ -83,7 +83,7 @@
             }
             ```
         3. **Lists**:
-            ```ini
+            ```hcl
             # Usage -----> var.example[index] # Index starts at 0.
             variable "example"{ 
             default     = ["example", "example1", "example2"]
@@ -91,7 +91,7 @@
             }
             ```
         4. **Maps**:
-            ```ini
+            ```hcl
             # Usage -----> var.example["key"]
             variable "example"{ 
             default     = {
@@ -101,7 +101,7 @@
             }
             ```
         5. **Sets**: Must contain unique elements.
-            ```ini
+            ```hcl
             # Usage -----> var.example(index) # Index starts at 0.
             variable "example"{ 
             default     = [1, 2, 3 ]
@@ -109,7 +109,7 @@
             }
             ```
         6. **Objects**: used to create complex var using other var types.
-            ```ini
+            ```hcl
             # Usage -----> var.example[key]
             variable "custom"{ 
             # Define the type of the object here.
@@ -130,7 +130,7 @@
             }
             ```
         7. **Tuple**: Heterogenous list of various datatypes. Type and order the of element and No of elements should match. This what differentiates list from tuple.
-            ```ini
+            ```hcl
             # Usage -----> var.example[key]
             variable "example"{ 
             default     = [1, "Hello", true ]
@@ -142,7 +142,7 @@
     - Output variables are printed after `terraform apply`.
     - All Output variables can be printed using `terraform output`.
     - Individual variables can be printed using `terraform output variable_name`
-    ```ini
+    ```hcl
     output 'var-name'{
         value = "Mandatory argument. This usually is a reference expression"
         description = "Optional"
