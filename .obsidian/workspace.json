@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Terraform/How-to Guides.md",
+                "file": "My Cheat Sheets/Debian and Linux/Networking/Setting Static IP in Debian.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Terraform/How-to Guides.md",
+                "file": "My Cheat Sheets/Debian and Linux/Networking/Setting Static IP in Debian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Terraform/How-to Guides.md",
+                "file": "My Cheat Sheets/Debian and Linux/Networking/Setting Static IP in Debian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Terraform/How-to Guides.md"
+                "file": "My Cheat Sheets/Debian and Linux/Networking/Setting Static IP in Debian.md"
               }
             }
           },
@@ -164,12 +164,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a7837429fd83126a",
+  "active": "0f1c475a70024594",
   "lastOpenFiles": [
+    "My Cheat Sheets/Debian and Linux/Networking/WiFi.md",
+    "My Cheat Sheets/Terraform/How-to Guides.md",
     "My Cheat Sheets/Terraform/Meta Arguments.md",
     "My Cheat Sheets/Terraform/Using vars in terraform configuration files.md",
     "My Cheat Sheets/Docker/Macvlan.md",
-    "My Cheat Sheets/Terraform/How-to Guides.md",
     "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
     "My Cheat Sheets/Terraform/Terraform Lifecycle Meta Argument.md",
     "My Cheat Sheets/Terraform/Datasources.md",
@@ -191,7 +192,6 @@
     "Christian's Cheat Sheets/databases/mysql.md",
     "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
     "My Cheat Sheets/My Cheat Sheets.md",
-    "My Cheat Sheets/Terraform.md",
     "My Cheat Sheets/Terraform",
     "My Cheat Sheets/Ansible",
     "My Cheat Sheets/K8s/K8s Yamls/Pods",
