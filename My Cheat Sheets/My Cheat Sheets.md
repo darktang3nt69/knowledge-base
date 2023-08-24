@@ -20,6 +20,7 @@
 		- [[Oh My Zsh + PowerLevel10k = 😎 terminal]]
 	- [[Get CPU Temps]]
 	- [[Get Exit code of previously executed Command]]
+	- [[Heredoc Syntax]]
 	- [[Install .deb files]]
 	- [[Installation of Debian 11]]
 	- [[Linux Cheatsheet]]

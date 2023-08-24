@@ -64,3 +64,49 @@ resource "local_sensitive_file" "name" {
     content = var.content
 }
 ```
+
+### **count**:
+`count` is a meta-argument defined by the Terraform language. It can be used with modules and with every resource type.
+
+The `count` meta-argument accepts a whole number, and creates that many instances of the resource or module. Each instance has a distinct infrastructure object associated with it, and each is separately created, updated, or destroyed when the configuration is applied.
+- [`count.index`](https://developer.hashicorp.com/terraform/language/meta-arguments/count#count-index) — The distinct index number (starting with `0`) corresponding to this instance.
+
+```hcl
+resource "aws_instance" "server" {
+  count = 4 # create four similar EC2 instances
+
+  ami           = "ami-a1b2c3d4"
+  instance_type = "t2.micro"
+
+  tags = {
+    Name = "Server ${count.index}"
+  }
+}
+```
+
+Ex:
+```hcl
+iam-user.tf
+---
+resource "aws_iam_user" "users" {
+  name  = var.project-sapphire-users[count.index]
+  count = length(var.project-sapphire-users)
+}
+```
+
+```hcl
+variable.tf
+---
+variable "project-sapphire-users" {
+  type    = list(string)
+  default = ["mary", "jack", "jill", "mack", "buzz", "mater"]
+}
+```
+
+### **Include a file in tf file.**:
+- Using, `file` function, we can include or reference external files in tf file. else we need to use heredoc syntax.
+    ```hcl
+    resource "example_file" "example"{
+        file_content = file(filename)
+    }
+    ```
