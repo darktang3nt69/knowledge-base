@@ -165,3 +165,9 @@
       value = local_file.welcome.content
     }
     ```
+6. **module**: This block is used to reference other terraform modules.
+    ```hcl
+    module "dev"{
+        source = PATH # Can be relative or absolute file path.
+    }
+    ```

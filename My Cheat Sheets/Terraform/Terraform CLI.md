@@ -28,7 +28,7 @@ COMMAND | DESCRIPTION
 `terraform apply refresh=false` | Do not reconcile state file with real-world resources
 `terraform apply --parallelism=5` | Number of simultaneous resource operations
 `terraform refresh` | Reconcile the state in Terraform state file with real-world resources
-`terraform providers` | Get informatino about providers used in the current configuration
+`terraform providers` | Get information about providers used in the current configuration
 ## Workspaces
 COMMAND | DESCRIPTION
 ---|---
@@ -43,11 +43,11 @@ COMMAND | DESCRIPTION
 `terraform state mv aws_iam_role.my_ssm_role module.mymodule` | Move a resource tracked via state to different module
 `terraform state replace-provider hashicorp/aws registry.custom.com/aws` | Replace an existing provider with another
 `terraform state list` | List all resources tracked in the Terraform state file
-`terraform state rm aws_instance.myinstance` | Unmanage a resource, delete it from the Terraform state file. Not removed from reallife infrastructure.
+`terraform state rm aws_instance.myinstance` | Unmanage a resource, delete it from the `tfstate` file. Not removed from real-life infrastructure.
 ## Import and Outputs
 COMMAND | DESCRIPTION
 ---|---
-`terraform import resourcetype.myresource <id>` | Import a Resource
+`terraform import <resourcetype>.<myresource> <id>` | Import a Resource into `tfstate` file but not the actual config file
 `terraform output` | List all outputs
 `terraform output <output>` | List a specific output
 `terraform output -json` | List all outputs in JSON format
@@ -55,7 +55,22 @@ COMMAND | DESCRIPTION
 COMMAND | DESCRIPTION
 ---|---
 `terraform login` | Login to Terraform Cloud with an API token
-`terraform logou` | Logout from Terraform Cloud
+`terraform logout` | Logout from Terraform Cloud
 
-## Import existing resources
+## Taint and Untainted
+COMMAND | DESCRIPTION
+---|---
+`terraform taint resource` | taint a resource to recreate it.
+`terraform untaint resource` | untainted to remove the taint.
 
+## Terraform env vars
+COMMAND | DESCRIPTION
+---|---
+`export TF_LOG=<log_level>`| taint a resource to recreate it.
+INFO | v
+WARNING | vv
+ERROR | vvv
+DEBUG | vvvv
+TRACE | Highest Log Level
+`export TF_LOG_PATH=/tmp/terraform.log` | Make logs persistent.
+`unset TF_LOG_PATH` | disable logging.
