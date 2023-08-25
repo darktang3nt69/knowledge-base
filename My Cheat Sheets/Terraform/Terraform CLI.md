@@ -38,12 +38,12 @@ COMMAND | DESCRIPTION
 ## State Manipulation
 COMMAND | DESCRIPTION
 ---|---
-`terraform state show aws_instance.myinstance` | Show details stored in the Terraform state file
+`terraform state show resource.myinstance` | Show details stored in the Terraform state file
 `terraform state pull > terraform.tfstate` | Output Terraform state to a file
 `terraform state mv aws_iam_role.my_ssm_role module.mymodule` | Move a resource tracked via state to different module
 `terraform state replace-provider hashicorp/aws registry.custom.com/aws` | Replace an existing provider with another
 `terraform state list` | List all resources tracked in the Terraform state file
-`terraform state rm aws_instance.myinstance` | Unmanage a resource, delete it from the Terraform state file
+`terraform state rm aws_instance.myinstance` | Unmanage a resource, delete it from the Terraform state file. Not removed from reallife infrastructure.
 ## Import and Outputs
 COMMAND | DESCRIPTION
 ---|---

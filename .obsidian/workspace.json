@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Terraform/How-to Guides.md",
+                "file": "My Cheat Sheets/Terraform/Terraform State.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4b13a28d97a0ae77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Cheat Sheets/Terraform/Terraform CLI.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Terraform/How-to Guides.md",
+                "file": "My Cheat Sheets/Terraform/Terraform CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Terraform/How-to Guides.md",
+                "file": "My Cheat Sheets/Terraform/Terraform CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Terraform/How-to Guides.md"
+                "file": "My Cheat Sheets/Terraform/Terraform CLI.md"
               }
             }
           },
@@ -164,22 +178,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0f1c475a70024594",
+  "active": "4b13a28d97a0ae77",
   "lastOpenFiles": [
+    "My Cheat Sheets/Terraform/Terraform State.md",
+    "My Cheat Sheets/Terraform/Using vars in terraform configuration files.md",
     "My Cheat Sheets/Terraform/Meta Arguments.md",
+    "My Cheat Sheets/Terraform/Terraform CLI.md",
     "My Cheat Sheets/Terraform/How-to Guides.md",
     "My Cheat Sheets/Debian and Linux/Heredoc Syntax.md",
     "My Cheat Sheets/Debian and Linux/Networking/Setting Static IP in Debian.md",
     "My Cheat Sheets/Debian and Linux/Networking/WiFi.md",
-    "My Cheat Sheets/Terraform/Using vars in terraform configuration files.md",
     "My Cheat Sheets/Docker/Macvlan.md",
     "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
     "My Cheat Sheets/Terraform/Terraform Lifecycle Meta Argument.md",
     "My Cheat Sheets/Terraform/Datasources.md",
     "My Cheat Sheets/Terraform/Terraform Workflow.md",
-    "My Cheat Sheets/Terraform/Terraform State.md",
     "My Cheat Sheets/Terraform/Terraform.md",
-    "My Cheat Sheets/Terraform/Terraform CLI.md",
     "Christian's Cheat Sheets/cloud/provider/civo.md",
     "My Cheat Sheets/Home Lab Docs/The arrs Stack/The Arr stack.md",
     "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",

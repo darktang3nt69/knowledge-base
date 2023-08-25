@@ -24,8 +24,27 @@ Terraform state is a fundamental concept in Terraform's design that helps manage
 
 6. **State Management Commands:**
    - `terraform state list`: Lists all the resources and their addresses present in the state.
+    ```bash
+    # returns all the resources in the state file
+    terraform state list [options] [address]
+
+    # returns the matching resources if present in the state file
+    terraform state list [resource_name]
+    ```
    - `terraform state show <resource_address>`: Shows detailed information about a specific resource in the state.
+    ```bash
+    # returns all the info about the matching resource if present
+    terraform state show [options] [address]
+    ```
    - `terraform state rm <resource_address>`: Removes a resource from the state (use with caution).
    - `terraform state mv <old_resource_address> <new_resource_address>`: Moves a resource to a new address in the state.
+    ```bash
+    # 1. renames the resource if the source and destination are in the same state file.
+    # 2. Can be used to move resources from one state file to another.
+    # 3. Have to manually rename/move the resources to the moved/renamed versions.
+    terraform state mv [options]  SOURCE DESTINATION
+    ```
+
+Please Refer to [[Terraform CLI#State Manipulation|State Management in terraform cli]].
 
 Understanding and managing Terraform state is crucial for successful infrastructure management. Using remote backends and implementing proper state locking mechanisms will help you work collaboratively and avoid potential conflicts when managing infrastructure changes.
