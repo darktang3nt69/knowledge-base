@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Add user to sudo.md",
+                "file": "My Cheat Sheets/Home Lab Docs/The arrs Stack/The Arr stack.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Add user to sudo.md",
+                "file": "My Cheat Sheets/Home Lab Docs/The arrs Stack/The Arr stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Add user to sudo.md",
+                "file": "My Cheat Sheets/Home Lab Docs/The arrs Stack/The Arr stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Add user to sudo.md"
+                "file": "My Cheat Sheets/Home Lab Docs/The arrs Stack/The Arr stack.md"
               }
             }
           },
@@ -180,6 +180,11 @@
   },
   "active": "4b13a28d97a0ae77",
   "lastOpenFiles": [
+    "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
+    "My Cheat Sheets/Home Lab Docs/The arrs Stack/The Arr stack.md",
+    "My Cheat Sheets/Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
+    "My Cheat Sheets/Home Lab Docs/Interesting Docker Containers.md",
+    "My Cheat Sheets/Debian and Linux/Add user to sudo.md",
     "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
     "My Cheat Sheets/Terraform/Terraform CLI.md",
     "My Cheat Sheets/Terraform/Terraform State.md",
@@ -195,17 +200,12 @@
     "My Cheat Sheets/Terraform/Terraform Workflow.md",
     "My Cheat Sheets/Terraform/Terraform.md",
     "Christian's Cheat Sheets/cloud/provider/civo.md",
-    "My Cheat Sheets/Home Lab Docs/The arrs Stack/The Arr stack.md",
-    "My Cheat Sheets/Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
-    "My Cheat Sheets/Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
     "My Cheat Sheets/Home Lab Docs/Install Pihole.md",
     "Christian's Cheat Sheets/docker/docker.md",
     "Christian's Cheat Sheets/docker/docker-file.md",
     "Christian's Cheat Sheets/docker/docker-compose.md",
     "Christian's Cheat Sheets/databases/postgres.md",
     "Christian's Cheat Sheets/databases/sqlite.md",
-    "Christian's Cheat Sheets/databases/mariadb.md",
-    "Christian's Cheat Sheets/databases/mysql.md",
     "My Cheat Sheets/Terraform",
     "My Cheat Sheets/Ansible",
     "My Cheat Sheets/K8s/K8s Yamls/Pods",
