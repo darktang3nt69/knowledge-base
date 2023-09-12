@@ -1,3 +1,6 @@
+---
+date: Today
+---
 ```bash
 declare -A osInfo;
 osInfo[/etc/redhat-release]=yum

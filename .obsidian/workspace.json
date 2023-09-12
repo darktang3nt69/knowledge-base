@@ -19,22 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "4b13a28d97a0ae77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Know the package manger in linux.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Know the package manger in linux.md",
+                "file": "My Cheat Sheets/Terraform/Terraform State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Know the package manger in linux.md",
+                "file": "My Cheat Sheets/Terraform/Terraform State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Know the package manger in linux.md"
+                "file": "My Cheat Sheets/Terraform/Terraform State.md"
               }
             }
           },
@@ -165,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,10 +163,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4b13a28d97a0ae77",
+  "active": "0f1c475a70024594",
   "lastOpenFiles": [
-    "My Cheat Sheets/Debian and Linux/Customizing Linux/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
     "My Cheat Sheets/Debian and Linux/Know the package manger in linux.md",
+    "My Cheat Sheets/Debian and Linux/Customizing Linux/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
     "My Cheat Sheets/Debian and Linux/Customizing Linux/Nano Syntax Highlighting.md",
     "My Cheat Sheets/Debian and Linux/Customizing Linux/Make ZSH default shell.md",
     "My Cheat Sheets/Debian and Linux/Untitled.md",
