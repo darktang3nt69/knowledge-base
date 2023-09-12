@@ -7,4 +7,5 @@
 7. [Plex](https://hotio.dev/containers/plex/): Media server/player
 8. [File Browser](https://i12bretro.github.io/tutorials/0694.html): it does exactly what it sounds like
 9. filerun: selfhosted Google Drive like
-10. 
+10. [diun]([https://crazymax.dev/diun/notif/discord/): **D**ocker **I**mage **U**pdate **N**otifier is a CLI application written in [Go](https://golang.org/) and delivered as a [single executable](https://github.com/crazy-max/diun/releases/latest) (and a [Docker image](https://crazymax.dev/diun/install/docker/)) to receive notifications when a Docker image is updated on a Docker registry.
+11. 

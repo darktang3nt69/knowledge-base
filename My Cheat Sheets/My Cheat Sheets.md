@@ -23,6 +23,7 @@
 	- [[Heredoc Syntax]]
 	- [[Install .deb files]]
 	- [[Installation of Debian 11]]
+	- [[Know the package manger in linux]]
 	- [[Linux Cheatsheet]]
 	- [[Linux Commands Cheatsheets]]
 	- **Networking**
@@ -34,6 +35,7 @@
 	- [[Setup Passwordless ssh login]]
 	- [[Sources List]]
 	- [[Ubuntu Orangepi]]
+	- [[Untitled]]
 	- [[Version Upgrade]]
 - **Docker**
 	- [[Docker Study Plan]]
