@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
-                "mode": "preview",
+                "file": "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
+                "file": "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
+                "file": "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md"
+                "file": "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "df90c3fd96f29a60",
   "lastOpenFiles": [
-    "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
     "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
+    "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
     "Christian's Cheat Sheets/databases/postgres.md",
     "Christian's Cheat Sheets/docker/docker.md",
     "My Cheat Sheets/Debian and Linux/Networking/WiFi.md",
