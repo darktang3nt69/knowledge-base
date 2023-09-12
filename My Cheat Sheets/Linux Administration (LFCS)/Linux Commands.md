@@ -1,0 +1,4 @@
+| Command | Description                                                                                                                                                        |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| apropos | _apropos_ command helps the user when they don’t remember the exact command but knows a few keywords related to the command that define its uses or functionality. |
+|         |                                                                                                                                                                    |

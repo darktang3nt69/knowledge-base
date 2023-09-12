@@ -7,7 +7,7 @@ Upgrading from Debian 11 (Bullseye) to Debian 12 (Bookworm) can be done by follo
 ```bash
     sudo apt update 
     sudo apt upgrade 
-    sudo apt dist-upgrade`
+    sudo apt dist-upgrade
 ```
     
 3. Update the `/etc/apt/sources.list` file: Open the `/etc/apt/sources.list` file in a text editor with administrative privileges (e.g., `sudo nano /etc/apt/sources.list`).
@@ -44,9 +44,7 @@ shellCopy code
 `sudo reboot`
 
 12. Verify the upgrade: After the system reboots, log in and confirm that you have successfully upgraded to Debian 12 (Bookworm) by running the following command:
-    
-    shellCopy code
-    
+
     `lsb_release -a`
     
 

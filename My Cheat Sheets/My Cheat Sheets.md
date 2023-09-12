@@ -21,11 +21,9 @@
 	- [[Get CPU Temps]]
 	- [[Get Exit code of previously executed Command]]
 	- [[Heredoc Syntax]]
-	- [[Install .deb files]]
 	- [[Installation of Debian 11]]
 	- [[Know the package manger in linux]]
-	- [[Linux Cheatsheet]]
-	- [[Linux Commands Cheatsheets]]
+	- [[Mother of all Linux Cheatsheets]]
 	- **Networking**
 		- [[How Docker Networking work]]
 		- [[Setting Static IP in Debian]]
@@ -35,7 +33,6 @@
 	- [[Setup Passwordless ssh login]]
 	- [[Sources List]]
 	- [[Ubuntu Orangepi]]
-	- [[Untitled]]
 	- [[Version Upgrade]]
 - **Docker**
 	- [[Docker Study Plan]]
@@ -114,6 +111,8 @@
 			- [[StatefulSet]]
 - **Keychron**
 	- [[Keychron Custom firmware]]
+- **Linux Administration (LFCS)**
+	- [[Linux Commands]]
 - [[Mother of all Indices.]]
 - [[My Cheat Sheets]]
 - **Python**
