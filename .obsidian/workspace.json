@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +178,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6edfa82429844aa3",
+  "active": "a7837429fd83126a",
   "lastOpenFiles": [
     "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
     "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
