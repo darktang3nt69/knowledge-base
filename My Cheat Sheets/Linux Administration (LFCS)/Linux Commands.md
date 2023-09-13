@@ -28,4 +28,6 @@
 | `chmod o=g path/to/file`             | Give [o]thers (not in the file owner's group) the same rights as the [g]roup      |
 | `chmod o= path/to/file`              | Remove all rights from [o]thers                                                   |
 | `chmod -R g+w,o+w path/to/directory` | Change permissions recursively giving [g]roup and [o]thers the ability to [w]rite |
-|                                      |                                                                                   |
+| `chmod `                                     |                                                                                   |
+
+
