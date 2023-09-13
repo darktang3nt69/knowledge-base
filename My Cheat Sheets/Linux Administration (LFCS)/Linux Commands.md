@@ -31,3 +31,21 @@
 | `chmod `                                     |                                                                                   |
 
 
+#### 4. shutdown
+| Command              | Description                           |
+| -------------------- | ------------------------------------- |
+| `sudo shutdown +120` | Schedule a shutdown after 120 minutes |
+| `sudo shutdown -c`   | Cancels the shutdown                  |
+|                      |                                       |
+
+#### 5. systemctl
+| Command                                             | Description                                                                                                                                                     |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `systemctl [VERB] [SERVICE]`                        | Start, stop, or restart a given service(s).                                                                                                                     |
+| `systemctl is-active ufw`                           | Check if a given service(s) is active or failed. If it is, 'active' will display else, 'failed' will display.                                                   |
+| `systemctl start/restart/stop/enable foo.service`   | To start or restart or stop or enable a service                                                                                                                          |
+| `systemctl --user start/restart/stop emacs.service` | To start or restart or stop per-user service                                                                                                                          |
+| `systemctl list-units -at service`                  | To see all service units                                                                                                                                        |
+| `systemctl list-dependencies foo.service`           | To list the dependencies of a service. when no service name is specified, lists the dependencies of default.target. add -all to expand dependencies recursively |
+| `systemctl mask/unmask unit`                        | Mask/Unmask a unit to prevent enablement and manual activation                                                                                                  |
+| `systemctl enable/disable --now foo.service`        | enable or disable a service right away                                                                                                                          |
