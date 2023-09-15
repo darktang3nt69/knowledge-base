@@ -43,9 +43,30 @@
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `systemctl [VERB] [SERVICE]`                        | Start, stop, or restart a given service(s).                                                                                                                     |
 | `systemctl is-active ufw`                           | Check if a given service(s) is active or failed. If it is, 'active' will display else, 'failed' will display.                                                   |
-| `systemctl start/restart/stop/enable foo.service`   | To start or restart or stop or enable a service                                                                                                                          |
-| `systemctl --user start/restart/stop emacs.service` | To start or restart or stop per-user service                                                                                                                          |
+| `systemctl start/restart/stop/enable foo.service`   | To start or restart or stop or enable a service                                                                                                                 |
+| `systemctl --user start/restart/stop emacs.service` | To start or restart or stop per-user service                                                                                                                    |
 | `systemctl list-units -at service`                  | To see all service units                                                                                                                                        |
 | `systemctl list-dependencies foo.service`           | To list the dependencies of a service. when no service name is specified, lists the dependencies of default.target. add -all to expand dependencies recursively |
 | `systemctl mask/unmask unit`                        | Mask/Unmask a unit to prevent enablement and manual activation                                                                                                  |
 | `systemctl enable/disable --now foo.service`        | enable or disable a service right away                                                                                                                          |
+
+
+#### 6. journalctl
+| Command                                                | Description                                               |
+| ------------------------------------------------------ | --------------------------------------------------------- |
+| `sudo journalctl --unit=sshd.service -n 20 --no-pager` | Get logs of the unit=sshd.service, 20 lines with no pager |
+| `sudo journalctl -p err`                               | Get error logs using priority.                            |
+| `sudo journalctl -p info -g '^c'`                      | Get the `info` priority logs that begin with letter `c`   |
+|                                                        |                                                           |
+
+#### 7. ps
+| Command  | Description                  |
+| -------- | ---------------------------- |
+| `ps u 1` | get process info about pid 1 |
+|          |                              |
+
+#### 8. df
+| Command | Description                                    |
+| ------- | ---------------------------------------------- |
+| `df -h` | Disk free and show it in human readable format |
+|         |                                                |
