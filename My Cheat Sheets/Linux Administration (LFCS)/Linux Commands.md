@@ -70,3 +70,17 @@
 | ------- | ---------------------------------------------- |
 | `df -h` | Disk free and show it in human readable format |
 |         |                                                |
+
+#### 9. du
+| Command       | Description                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| `du -sh path` | Shows the disk space used by that dirs. s = summarize, h = human readable |
+|               |                                                                           |
+|               |                                                                           |
+
+#### 10. chcon, setenforce
+| Command                                             | Description                                                           |
+| --------------------------------------------------- | --------------------------------------------------------------------- |
+| `sudo chcon -t httpd_sys_content_t /var/index.html` | Change SElinux context to `httpd_sys_content_t`                       |
+| `sudo setenforce 0`                                 | Temporarily change the SELinux status to `Permissive` on this system. |
+| `sudo semanage user -l`                             | Get SElinux user Info.                                                                      |

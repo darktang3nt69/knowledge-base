@@ -59,5 +59,5 @@ sudo systemctl set-default graphical.target
         ```
     6. use `fg` command to bring a `bg` task to foreground:
         ```bash
-        
+        fg 1 # Replace with job number
         ```

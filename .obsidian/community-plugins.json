@@ -4,5 +4,7 @@
   "waypoint",
   "url-into-selection",
   "obsidian-plugin-toc",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-style-settings",
+  "code-styler"
 ]
