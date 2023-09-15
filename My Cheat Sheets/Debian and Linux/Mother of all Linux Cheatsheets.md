@@ -39,3 +39,25 @@ sudo systemctl set-default graphical.target
     ```bash
     cat /proc/version
     ```
+
+9. **[Niceness](https://www.tecmint.com/set-linux-process-priority-using-nice-and-renice-commands/)**: Niceness in Linux means how 'nice' it is to other processes.  Process Priority in user space. Negative values can only be set by the root user.
+
+10. **Process State Management:**
+    1. Use `ctrl + c` -----> sends `SIGINT` signal to immediately **quit** the process.
+    2. Use `ctrl + z` -----> sends `SIGTSTP` signal to immediately **pause** the process. It is entirely frozen, no progress is made.
+    3. Return to the **paused app** using `fg` which is to bring the paused to **foreground**.
+    4. To make a command run in the **background** use `&`. Example: 
+        ```bash
+        sleep 3000000000000000000 &
+        [1] 2151131 # [1] is the job number. which can later be used to
+                    # bring the background app to foreground
+        ```
+    5. Use `jobs` command to see a list of commands running **bg**:
+        ```bash
+        ❯ jobs
+        [1]  + running    sleep 3000000000000000000
+        ```
+    6. use `fg` command to bring a `bg` task to foreground:
+        ```bash
+        
+        ```
