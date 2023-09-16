@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "aa6e3088d296709b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9d87d9d238d6a3cc",
+  "active": "aa6e3088d296709b",
   "lastOpenFiles": [
     "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
     "My Cheat Sheets/Debian and Linux/Networking/How Docker Networking work.md",
