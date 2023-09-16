@@ -15,7 +15,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "readableLineLength": true,
+  "readableLineLength": false,
   "useTab": false,
   "attachmentFolderPath": "My Cheat Sheets/Attachments"
 }
