@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
+                "file": "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
+                "file": "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md"
+                "file": "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md"
               }
             }
           },
@@ -176,15 +177,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a7837429fd83126a",
+  "active": "866757104bc995f7",
   "lastOpenFiles": [
+    "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
     "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
     "My Cheat Sheets/Debian and Linux/Get Exit code of previously executed Command.md",
     "My Cheat Sheets/Debian and Linux/Heredoc Syntax.md",
     "My Cheat Sheets/Debian and Linux/Installation of Debian 11.md",
     "My Cheat Sheets/Debian and Linux/Know the package manger in linux.md",
     "My Cheat Sheets/Debian and Linux/Remote Desktop Client.md",
-    "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
     "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
     "My Cheat Sheets/Debian and Linux/Customizing Linux/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
     "My Cheat Sheets/Debian and Linux/Networking/How Docker Networking work.md",

@@ -61,3 +61,11 @@ sudo systemctl set-default graphical.target
         ```bash
         fg 1 # Replace with job number
         ```
+11. Set user limits:
+    ```bash
+    sudo nano /etc/security/limits.conf
+    ```
+12. Manage sudo rights:
+    ```bash
+    sudo visudo
+    ```
