@@ -14,24 +14,26 @@
               "type": "markdown",
               "state": {
                 "file": "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           },
           {
-            "id": "aa6e3088d296709b",
+            "id": "866757104bc995f7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,21 +176,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aa6e3088d296709b",
+  "active": "9d87d9d238d6a3cc",
   "lastOpenFiles": [
+    "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
+    "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
+    "My Cheat Sheets/Debian and Linux/Customizing Linux/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
     "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
     "My Cheat Sheets/Debian and Linux/Networking/How Docker Networking work.md",
-    "My Cheat Sheets/Debian and Linux/Customizing Linux/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
     "My Cheat Sheets/Debian and Linux/Customizing Linux/Nano Syntax Highlighting.md",
     "My Cheat Sheets/Debian and Linux/Customizing Linux/Make ZSH default shell.md",
     "My Cheat Sheets/Debian and Linux/Installation of Debian 11.md",
     "My Cheat Sheets/Debian and Linux/Heredoc Syntax.md",
-    "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
     "My Cheat Sheets/Debian and Linux/Know the package manger in linux.md",
     "My Cheat Sheets/Debian and Linux/Remote Desktop Client.md",
     "My Cheat Sheets/Debian and Linux/Sources List.md",
     "My Cheat Sheets/Mother of all Indices..md",
-    "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
     "My Cheat Sheets/Debian and Linux/Add user to sudo.md",
     "My Cheat Sheets/Debian and Linux/All About GUI in Debian.md",
     "My Cheat Sheets/My Cheat Sheets.md",
