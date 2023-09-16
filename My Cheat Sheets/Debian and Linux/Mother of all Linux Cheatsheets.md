@@ -69,3 +69,12 @@ sudo systemctl set-default graphical.target
     ```bash
     sudo visudo
     ```
+13. Restrict root access to SSH service via `PAM`:
+    ```bash
+    sudo vi /etc/pam.d/sshd
+
+    # Add this  line at the EOF of `/etc/pam.d/sshd`
+    auth    required       pam_listfile.so onerr=succeed  item=user  sense=deny  file=/etc/ssh/deniedusers
+    
+    sudo vi /etc/ssh/deniedusers # Add `root` to this file.
+    ```
