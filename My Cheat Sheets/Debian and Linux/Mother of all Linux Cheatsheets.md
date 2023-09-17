@@ -78,4 +78,15 @@ sudo systemctl set-default graphical.target
     
     sudo vi /etc/ssh/deniedusers # Add `root` to this file.
     ```
-14. Apply DNS globally edit: `/etc/systemd/resolved.conf` and restart `sudo systemctl restart systemd-resolved.service`
+14. Apply DNS globally edit:
+    ```bash
+    /etc/systemd/resolved.conf # edit this file
+
+    sudo systemctl restart systemd-resolved.service # restart the daemon
+    ```
+15. Know your default gateway:
+    ```bash
+    ip route # Look for default route.
+    ```
+16. Find out what `process` is listening for incoming connections on port `22`, and identify its `PID`: `sudo ss -tlnup | grep :22`
+17. 

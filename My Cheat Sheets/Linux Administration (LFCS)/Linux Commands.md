@@ -133,3 +133,18 @@
 |                                              |                                                        |
 
 
+#### 15. nmcli, hostnamectl
+| Command                                                                                                              | Description                            |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| `nmcli d wifi connect <ssid> password <pass> iface <wiface>`                                                         | Connect to a wireless access point     |
+| `nmcli d wifi disconnect iface <wiface>`                                                                             | Disconnect from WIFI                   |
+| `nmcli con`                                                                                                          | Show all available connections         |
+| `nmcli radio wifi <on or off>`                                                                                       | Enable / Disable WIFI                  |
+| `sudo nmcli connection modify <iface> autoconnect yes`                                                               | Auto connect to that iface.            |
+| `sudo nmcli device reapply eth`                                                                                      | Reapply conn settings to that iface.   |
+| `hostnamectl`                                                                                                        | Get the hostname of the computer       |
+| `sudo hostnamectl set-hostname "hostname"`                                                                           | Set the hostname of the computer       |
+| `sudo hostnamectl set-hostname --static "hostname.example.com" && sudo hostnamectl set-hostname --pretty "hostname"` | Set a pretty hostname for the computer |
+| `sudo hostnamectl set-hostname --pretty ""`                                                                          | Reset hostname to its default value    |
+|                                                                                                                      |                                        |
+
