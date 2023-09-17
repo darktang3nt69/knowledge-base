@@ -114,7 +114,7 @@
 - **Linux Administration (LFCS)**
 	- [[Linux Commands]]
 	- **Networking**
-		- [[IP Routes]]
+		- [[IP Routes and Network Interfaces]]
 		- [[Networking Commands]]
 - [[Mother of all Indices.]]
 - [[My Cheat Sheets]]

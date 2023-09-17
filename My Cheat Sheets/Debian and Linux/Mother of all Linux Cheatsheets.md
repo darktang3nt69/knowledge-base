@@ -78,3 +78,4 @@ sudo systemctl set-default graphical.target
     
     sudo vi /etc/ssh/deniedusers # Add `root` to this file.
     ```
+14. Apply DNS globally edit: `/etc/systemd/resolved.conf` and restart `sudo systemctl restart systemd-resolved.service`
