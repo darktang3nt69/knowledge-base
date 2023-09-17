@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
-                "mode": "preview",
+                "file": "My Cheat Sheets/Linux Administration (LFCS)/Networking/IP Routes.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
+                "file": "My Cheat Sheets/Linux Administration (LFCS)/Networking/IP Routes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
+                "file": "My Cheat Sheets/Linux Administration (LFCS)/Networking/IP Routes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md"
+                "file": "My Cheat Sheets/Linux Administration (LFCS)/Networking/IP Routes.md"
               }
             }
           },
@@ -178,11 +178,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a7837429fd83126a",
+  "active": "1b9e50e4d5e5c32b",
   "lastOpenFiles": [
+    "My Cheat Sheets/Linux Administration (LFCS)/Networking/Networking Commands.md",
+    "My Cheat Sheets/Linux Administration (LFCS)/Networking/IP Routes.md",
+    "My Cheat Sheets/Linux Administration (LFCS)/Networking",
+    "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
     "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
     "My Cheat Sheets/Mother of all Indices..md",
-    "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
     "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
     "My Cheat Sheets/Debian and Linux/Get Exit code of previously executed Command.md",
     "My Cheat Sheets/Debian and Linux/Heredoc Syntax.md",
@@ -205,8 +208,6 @@
     "Christian's Cheat Sheets/docker/docker.md",
     "My Cheat Sheets/Debian and Linux/Networking/WiFi.md",
     "My Cheat Sheets/Linux Administration (LFCS)",
-    "My Cheat Sheets/Debian and Linux/Networking/Setup Samba Share.md",
-    "My Cheat Sheets/Debian and Linux/Networking/Setting Static IP in Debian.md",
     "My Cheat Sheets/Terraform",
     "My Cheat Sheets/Ansible",
     "My Cheat Sheets/K8s/K8s Yamls/Pods",
@@ -215,7 +216,6 @@
     "My Cheat Sheets/K8s/Pods/Pods Handson/Deploy a pod",
     "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson",
     "My Cheat Sheets/K8s/Objects/Namespace",
-    "My Cheat Sheets/K8s/Objects",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",
