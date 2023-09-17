@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +164,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "26f4a06a5595e272",
+  "active": "a7837429fd83126a",
   "lastOpenFiles": [
     "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
     "My Cheat Sheets/Docker/Docker Study Plan.md",
