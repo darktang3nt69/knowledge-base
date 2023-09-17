@@ -134,17 +134,37 @@
 
 
 #### 15. nmcli, hostnamectl
-| Command                                                                                                              | Description                            |
-| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| `nmcli d wifi connect <ssid> password <pass> iface <wiface>`                                                         | Connect to a wireless access point     |
-| `nmcli d wifi disconnect iface <wiface>`                                                                             | Disconnect from WIFI                   |
-| `nmcli con`                                                                                                          | Show all available connections         |
-| `nmcli radio wifi <on or off>`                                                                                       | Enable / Disable WIFI                  |
-| `sudo nmcli connection modify <iface> autoconnect yes`                                                               | Auto connect to that iface.            |
-| `sudo nmcli device reapply eth`                                                                                      | Reapply conn settings to that iface.   |
-| `hostnamectl`                                                                                                        | Get the hostname of the computer       |
-| `sudo hostnamectl set-hostname "hostname"`                                                                           | Set the hostname of the computer       |
-| `sudo hostnamectl set-hostname --static "hostname.example.com" && sudo hostnamectl set-hostname --pretty "hostname"` | Set a pretty hostname for the computer |
-| `sudo hostnamectl set-hostname --pretty ""`                                                                          | Reset hostname to its default value    |
-|                                                                                                                      |                                        |
+| Command                                                                                                              | Description                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| `nmcli d wifi connect <ssid> password <pass> iface <wiface>`                                                         | Connect to a wireless access point                                                                                          |
+| `nmcli d wifi disconnect iface <wiface>`                                                                             | Disconnect from WIFI                                                                                                        |
+| `nmcli con`                                                                                                          | Show all available connections                                                                                              |
+| `nmcli radio wifi <on or off>`                                                                                       | Enable / Disable WIFI                                                                                                       |
+| `sudo nmcli connection modify <iface> autoconnect yes`                                                               | Auto connect to that iface.                                                                                                 |
+| `sudo nmcli device reapply eth`                                                                                      | Reapply conn settings to that iface.                                                                                        |
+| `hostnamectl`                                                                                                        | Get the hostname of the computer                                                                                            |
+| `sudo hostnamectl set-hostname "hostname"`                                                                           | Set the hostname of the computer                                                                                            |
+| `sudo hostnamectl set-hostname --static "hostname.example.com" && sudo hostnamectl set-hostname --pretty "hostname"` | Set a pretty hostname for the computer                                                                                      |
+| `sudo hostnamectl set-hostname --pretty ""`                                                                          | Reset hostname to its default value                                                                                         |
+| `sudo nmcli connection modify eth1 +ipv4.routes "192.168.0.0/24 172.28.128.100"`                                     | Permanently route all traffic that must reach the `192.168.0.*` network through the device that has the IP `172.28.128.100` |
+| `sudo nmcli connection modify eth1 -ipv4.routes "192.168.0.0/24  172.28.128.100"`                                    | Remove the above rule.                                                                                                      |
+|                                                                                                                      |                                                                                                                             |
 
+#### 16. firewall-cmd:
+| Command                                                                   | Description                                                                                                                                                                                           |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `sudo firewall-cmd --add-port=7869/tcp --permanent`                       | Allow `Permanent` TCP incoming connections to port `7869`                                                                                                                                             |
+| `sudo firewall-cmd --permanent --zone=public --add-service=https`         | Allow `Permanent` https connection through firewall                                                                                                                                                   |
+| `sudo firewall-cmd  --list-all`                                           | List all runtime rules.                                                                                                                                                                               |
+| `sudo firewall-cmd --remove-port=53/udp`                                  | Remove port `53`.                                                                                                                                                                                     |
+| `sudo firewall-cmd --add-source=10.11.12.0/24 --zone=trusted --permanent` | Allow all traffic that is coming from any IP in this network range: `10.11.12.0` to `10.11.12.255` (i.e `10.11.12.0/24`), add the required rule in the `trusted zone` and the rule must be permanent. |
+| `sudo firewall-cmd --runtime-to-permanent`                                | Make Runtime rules permanent.                                                                                                                                                                         |
+| `sudo firewall-cmd --list-all --permanent`                                | List all Permanent Rules.                                                                                                                                                                                                      |
+
+
+#### 17. ip
+| Command                                               | Description                                                                                                                 |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| `sudo ip route add 192.168.0.0/24 via 172.28.128.100` | Temporarily route all traffic that must reach the `192.168.0.*` network through the device that has the IP `172.28.128.100` |
+| `sudo ip a add 10.0.0.50/24 dev eth1`                 | Add an extra IP to `eth1` interface on this system: `10.0.0.50/24`                                                          |
+|                                                       |                                                                                                                             |

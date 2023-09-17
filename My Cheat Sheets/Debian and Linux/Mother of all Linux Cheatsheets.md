@@ -89,4 +89,12 @@ sudo systemctl set-default graphical.target
     ip route # Look for default route.
     ```
 16. Find out what `process` is listening for incoming connections on port `22`, and identify its `PID`: `sudo ss -tlnup | grep :22`
-17. 
+17. Set Timezone:
+    ```bash
+    sudo timedatectl set-timezone Asia/Kolkata
+    ```
+18. Using `timedatectl` configure RTC (real-time clock) to maintain the RTC in local time.  RTC is a battery-powered computer clock that keeps track of the time even when the system is turned off.
+    ```bash
+    sudo timedatectl set-local-rtc 1
+    ```
+19. 
