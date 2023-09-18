@@ -121,6 +121,8 @@
 - **Python**
 	- [[Python Cheat Sheets]]
 - [[Rough Notes]]
+- **Shell Scripting**
+	- [[Basics]]
 - **[[Terraform]]**
 	- [[Datasources]]
 	- [[Hashicorp Configuration Language(Terraform Language)]]

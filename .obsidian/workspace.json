@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
-                "mode": "preview",
+                "file": "My Cheat Sheets/Shell Scripting/Basics.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
+                "file": "My Cheat Sheets/Shell Scripting/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
+                "file": "My Cheat Sheets/Shell Scripting/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md"
+                "file": "My Cheat Sheets/Shell Scripting/Basics.md"
               }
             }
           },
@@ -164,11 +164,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a7837429fd83126a",
+  "active": "26f4a06a5595e272",
   "lastOpenFiles": [
+    "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
+    "My Cheat Sheets/Shell Scripting/Basics.md",
+    "My Cheat Sheets/Shell Scripting",
+    "My Cheat Sheets/Untitled.md",
     "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
     "My Cheat Sheets/Docker/Docker Study Plan.md",
-    "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
     "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking/Networking Commands.md",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking/IP Routes and Network Interfaces.md",
@@ -191,8 +194,6 @@
     "My Cheat Sheets/Debian and Linux/All About GUI in Debian.md",
     "My Cheat Sheets/Keychron/Keychron Custom firmware.md",
     "My Cheat Sheets/Debian and Linux/Version Upgrade.md",
-    "My Cheat Sheets/Debian and Linux/Get CPU Temps.md",
-    "Christian's Cheat Sheets/databases/postgres.md",
     "My Cheat Sheets/Linux Administration (LFCS)",
     "My Cheat Sheets/Terraform",
     "My Cheat Sheets/Ansible",
@@ -201,7 +202,6 @@
     "My Cheat Sheets/K8s/Services, Networking. etc",
     "My Cheat Sheets/K8s/Pods/Pods Handson/Deploy a pod",
     "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson",
-    "My Cheat Sheets/K8s/Objects/Namespace",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",
