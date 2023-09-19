@@ -266,4 +266,83 @@
                         echo 'Special Chars.' ;;
         esac
         ```
+    6. **Test Conditions**:
+        ```bash
+        1. $a -lt $b       # less then
+        2. $a -gt $b       # Greater then
+        3. $a -le $b       # less then equal to
+        4. $a -ge $b       # greater than equal to
+        5. $a -ne $b       # not equal to
+        6. -e $FILE        # $FILE exists
+        7. -d $FILE        # $FILE exists and is a directory
+        8. -f $FILE        # $FILE exists and is a regualar file
+        9. -L $FILE        # $FILE exists and is a symbolic link
+        10. $str = $str1   # Eqaul to
+        11. $str1 != $str1 # not eqaul to
+        12. -z $str        # $str is empty
+        ```
+
+
+14. **Loops:**
+    1. **c-style loops:**
+        ```bash
+        for ((init; condition; increment)) do
+            [commands]
+        done
+        -----------------------------------
+        ex:
+        #!/bin/bash
+        for ((i=0; i<10; i++)) do
+                echo "Hello Friend!!"
+        done
+        ```
+    2. **List/Range style for loop**:
+        ```bash
+        for i in {LIST}; do
+            [code]
+        done
+        -----------------------------------
+        ex 1:
+        for i in {0..9}; do
+            echo "Hello, $i"
+        done
+
+        ex 2:
+        for i in /var/* ; do
+            echo $i
+        done
+        ```
+    3. **while:** Runs till the condition is true.
+        ```bash
+        while [ condition ]; do
+            code
+        done
+        -------------------------------------
+        ex:
+        num=1
+        while [ $num -le 10 ]; do # Runs till 10.
+            echo $(($num*3))
+            $num=$(($num+1))
+        done
+        ```
+    4. **until or do-while in c** Run till the condition is `false`.
+        ```bash
+        until [ condition ]; do
+            [ Commands ]
+        done
+        -----------------------------------
+        ex:
+        num=1
+        until [ $num -ge 10 ]; do # Runs till 9 only. Greater then  eqaul is used.
+            echo $((#num * 3))
+            $num=$(($num+1))
+        done
+        ```
+    5. **Traversing an Array:**
+        ```bash
+        prime=(1 2 3 4 5 6 7 8)
+        for i in "${prime[@]}"; do
+            echo $i
+        done
+        ```
     6. 
