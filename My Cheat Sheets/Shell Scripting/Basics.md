@@ -123,3 +123,147 @@
         ```bash
         echo "scale=2; $celsius * (9/5) + 32" | bc -l 
         ```
+
+
+12. **String Manipulation:**
+    1. **String Length:** Pattern: `${#var_name}`
+        ```bash
+         distro='kali'
+         echo ${#distro}
+         > 4   
+        ```
+    2. **String Concatenation:** Pattern: `str3=$string1$string2`
+        ```bash
+        str1="Mr. "
+        str2="Robot"
+        str3=$str1$str2
+        echo $str3
+        > Mr. Robot
+        ```
+    3. **Substring:** Pattern: `expr index "$supertring" "$searchstring"`
+        ```bash
+        str="Bash is cool."
+        expr index "$str" "cool" # expr index "$supertring" "$searchstring"
+        > 9
+        ```
+    4. **Extracting Substrings:** Pattern: `${var:start_index:stop_index}`
+        ```bash
+        foss="Fedora is a free operating system."
+        echo ${foss:0:6} # get string from 0th(including) until 6th position(excluding).
+        > Fedora
+        echo ${foss:12} # get remaining string from 12th(including) position. 
+        > free operating system.
+        ```
+     5. **Replacing Substring:** Pattern: `${string/replace/new}`
+         ```bash
+         foss="Fedora is a free operating system."
+         echo ${foss/Fedora/Kali} # Does not modify the original string.
+         > Kali is a free operating system.
+         foss=${foss/Fedora/Kali} # Persist the changes. Store the changes in a var.
+         ```
+     6. **Deleting Strings:** Pattern: `${string/substr}`
+         ```bash
+         fact="Sun is a big star."
+         echo ${fact/big}  -------->  # Remove 'big'
+         > Sun is a  star.
+         echo ${fact/ big} -------->  # Remove 'big '
+         > Sun is a star.
+         num=112-234535-456456-343
+         echo ${num/-}    -------->   # Remove 1st occurence of '-'
+         > 112234535-456456-343
+         echo ${num//-}  -------->    # Remove all occurences of '-'
+         > 112234535456456343
+         num=${num//-} -------->      # Persist the changes
+         echo $num
+         > 112234535456456343
+         ```
+    7. **Uppercase/Lowercase**:
+        ```bash
+        legend='taylor swift'
+        actor='EMMA STONE'
+        echo ${legend^^} -----> # Make all characters caps.
+        > TAYLOR SWIFT
+        echo ${actor,,} ------> # Make all characters small.
+        > emma stone
+        echo ${legend^} ------> # Make 1st char caps.
+        > Taylor swift
+        echo ${actor,} ------->  # Make 1st char small.
+        > eMMA STONE
+        echo ${legend^^[ts]} ----> # Make all occurences of `t` and `s` caps.
+        > Taylor SwifT
+        echo ${actor,,[ES]} -----> # Make all occurences of `E` and `S` small.
+        eMMA sTONe 
+        ```
+
+13. **Decision Statements**:
+    1. **if:**
+        ```bash
+        if [ condition ]; then
+            your code
+        fi
+        # ex:
+        if [ $(whoami) = 'root' ]; then
+            echo 'You are root.'
+        fi
+        ```
+    2. **if-else:**
+        ```bash
+        if [ condition ]; then
+            your code
+        else 
+            echo 'You are not root'
+        fi
+        # ex:
+        if [ $(whoami) = 'root' ]; then
+            echo 'You are root.'
+        else
+            echo 'You are not root'
+        fi
+        ```
+    3. **elif:**
+        ```bash
+        #!/bin/bash
+        age=69
+        if [ $age -lt 13 ]; then
+                echo 'You are a kid.'
+        elif [ $age -lt 20 ]; then
+                echo 'You are a teen.'
+        elif [ $age  -lt 65 ]; then
+                echo 'You are an adult.'
+        else
+                echo 'You are a senior citizen.'
+        fi
+        ```
+    4. **Nested if:**
+        ```bash
+        #!/bin/bash
+        temp=$1
+        
+        if [ $temp -gt 5 ]; then
+                if [ $temp -lt 15 ]; then
+                        echo 'Weather is cold'
+                elif [ $temp -lt 25 ]; then
+                        echo 'Weather is Nice'
+                else
+                        echo 'Weather is hot'
+                fi
+        else
+                echo 'It is COLD!!!!'
+        fi
+        ```
+    5. **case:**
+        ```bash
+        #!/bin/bash
+        char=$1
+        case $char in
+                [a-z])
+                        echo 'Small Alphabets.' ;;
+                [A-Z])
+                        echo 'Caps.' ;;
+                [0-9])
+                        echo 'Numbers.' ;;
+                *)
+                        echo 'Special Chars.' ;;
+        esac
+        ```
+    6. 
