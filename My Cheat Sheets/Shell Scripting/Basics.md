@@ -345,4 +345,72 @@
             echo $i
         done
         ```
-    6. 
+    6. **Loop Control:**
+        1. **break**
+            ```bash
+            for i in {1..100}; do
+                echo $i
+                if [ $i -eq 3 ]; then
+                    break
+                fi
+            done
+            ```
+        2. **continue:**
+            ```bash
+            echo "Prime number in 1 to 10 are:"
+            for i in {1..10}; do
+                if [ $i/2 -eq 0 ]; then
+                    continue
+                fi
+                echo $i
+            done
+            ```
+
+
+15. **Functions**:
+    ```bash
+    function_name(){
+        commands
+    }
+    --------------------------------
+    Ex:
+    hello(){
+        echo "Holla!!!"
+    }
+    hello
+    hello
+    -----------------------------------
+    # Returning Function values: Bash functions only return exit status code. if no return statement is specified, then exit code of the previously ran command is returned. Return statement overrides the return code.
+    error(){
+        blabla
+        return 0
+    }
+    error # It should have returned an exit code between: 1-255 but since a return statement is used, 0 exit code is returned.
+    -------------------------------------
+    #  Passing args to a bash function is same as passing args to bash script
+    #!/bin/bash
+
+    function funcargs() {
+        echo "$1 ----> first function arg."
+        echo "$2 ----> second function arg."
+    }
+    
+    echo "$1 ----> First script arg."
+    echo "$2 ----> Second script arg."
+    
+    funcargs hello function!!!
+    -------------output-----------------
+    hello ----> First script arg.
+    Script ----> Second script arg.
+    hello ----> first function arg.
+    function!!! ----> second function arg.
+    ```
+
+
+16. **Local and Global vars:**
+    ```bash
+    
+    ```
+
+
+
