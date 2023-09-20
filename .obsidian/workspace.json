@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "My Cheat Sheets/Shell Scripting/Basics.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +164,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a7837429fd83126a",
+  "active": "26f4a06a5595e272",
   "lastOpenFiles": [
     "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
     "My Cheat Sheets/Shell Scripting/Basics.md",
