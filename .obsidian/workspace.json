@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Shell Scripting/Basics.md",
-                "mode": "source",
+                "file": "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Shell Scripting/Basics.md",
+                "file": "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Shell Scripting/Basics.md",
+                "file": "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Shell Scripting/Basics.md"
+                "file": "My Cheat Sheets/Docker/Installation/Installation of Docker.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "26f4a06a5595e272",
   "lastOpenFiles": [
-    "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
+    "My Cheat Sheets/Docker/Installation/Install Docker Compose.md",
     "My Cheat Sheets/Shell Scripting/Basics.md",
+    "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
     "My Cheat Sheets/Shell Scripting",
     "My Cheat Sheets/Untitled.md",
     "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
@@ -193,7 +194,6 @@
     "My Cheat Sheets/Debian and Linux/Add user to sudo.md",
     "My Cheat Sheets/Debian and Linux/All About GUI in Debian.md",
     "My Cheat Sheets/Keychron/Keychron Custom firmware.md",
-    "My Cheat Sheets/Debian and Linux/Version Upgrade.md",
     "My Cheat Sheets/Linux Administration (LFCS)",
     "My Cheat Sheets/Terraform",
     "My Cheat Sheets/Ansible",
