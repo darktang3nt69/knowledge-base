@@ -32,3 +32,6 @@
 31. https://www.welcome-to-nl.n/jobsalent  
 32. [https://www.werk.nl/werkzoekenden/vacatures/](https://www.werk.nl/werkzoekenden/vacatures/)  
 33. [https://ec.europa.eu/eures/](https://ec.europa.eu/eures/)
+34. https://wellfound.com/candidates/remote
+35. https://www.toptal.com/freelance-jobs
+36. https://thecodedose.com/blog/websites-to-find-remote-tech-jobs/

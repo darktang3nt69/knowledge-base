@@ -62,6 +62,9 @@
 		- [[Hard Links and Folder Structure for arr stack]]
 		- [[qBittorrent - Basic Setup]]
 		- [[The Arr stack]]
+- **Jenkins**
+	- [[Basics]]
+	- [[Pipelines Examples]]
 - **K8s**
 	- [[How to Learn Kubernetes (Complete Roadmap & Resources)]]
 	- **K3s**

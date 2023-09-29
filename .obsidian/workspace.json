@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26f4a06a5595e272",
+            "id": "950b236174ea6a9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
+                "file": "My Cheat Sheets/Jenkins/Basics.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -21,12 +21,15 @@
             }
           },
           {
-            "id": "8aad820968ec093c",
+            "id": "7d9a766bb20faa81",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "My Cheat Sheets/Jenkins/Pipelines Examples.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
+                "file": "My Cheat Sheets/Jenkins/Pipelines Examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
+                "file": "My Cheat Sheets/Jenkins/Pipelines Examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Docker/Installation/Installation of Docker.md"
+                "file": "My Cheat Sheets/Jenkins/Pipelines Examples.md"
               }
             }
           },
@@ -162,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +177,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8aad820968ec093c",
+  "active": "a7837429fd83126a",
   "lastOpenFiles": [
+    "My Cheat Sheets/Jenkins/Basics.md",
+    "My Cheat Sheets/Jenkins/Pipelines Examples.md",
+    "Everything Devops/Job Search.md",
+    "My Cheat Sheets/Jenkins",
+    "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
     "My Cheat Sheets/Docker/Installation/Install Docker Compose.md",
     "My Cheat Sheets/Shell Scripting/Basics.md",
     "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
@@ -201,10 +208,6 @@
     "My Cheat Sheets/Debian and Linux/Networking/How Docker Networking work.md",
     "My Cheat Sheets/Debian and Linux/Customizing Linux/Nano Syntax Highlighting.md",
     "My Cheat Sheets/Debian and Linux/Customizing Linux/Make ZSH default shell.md",
-    "My Cheat Sheets/Debian and Linux/Sources List.md",
-    "My Cheat Sheets/Debian and Linux/Add user to sudo.md",
-    "My Cheat Sheets/Debian and Linux/All About GUI in Debian.md",
-    "My Cheat Sheets/Keychron/Keychron Custom firmware.md",
     "My Cheat Sheets/Linux Administration (LFCS)",
     "My Cheat Sheets/Terraform",
     "My Cheat Sheets/Ansible",
@@ -212,7 +215,6 @@
     "My Cheat Sheets/K8s/K8s Yamls",
     "My Cheat Sheets/K8s/Services, Networking. etc",
     "My Cheat Sheets/K8s/Pods/Pods Handson/Deploy a pod",
-    "My Cheat Sheets/K8s/Workload Resources/Pods/Pods Handson",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",
