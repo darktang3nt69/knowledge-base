@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8aad820968ec093c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "26f4a06a5595e272",
+  "active": "8aad820968ec093c",
   "lastOpenFiles": [
     "My Cheat Sheets/Docker/Installation/Install Docker Compose.md",
     "My Cheat Sheets/Shell Scripting/Basics.md",
