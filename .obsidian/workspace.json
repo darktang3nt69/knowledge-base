@@ -180,8 +180,9 @@
   },
   "active": "7d9a766bb20faa81",
   "lastOpenFiles": [
-    "My Cheat Sheets/Jenkins/Basics.md",
+    "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
     "My Cheat Sheets/Jenkins/Pipelines Examples.md",
+    "My Cheat Sheets/Jenkins/Basics.md",
     "Everything Devops/Job Search.md",
     "My Cheat Sheets/Jenkins",
     "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
@@ -208,7 +209,6 @@
     "My Cheat Sheets/Debian and Linux/Customizing Linux/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
     "My Cheat Sheets/Debian and Linux/Networking/How Docker Networking work.md",
     "My Cheat Sheets/Debian and Linux/Customizing Linux/Nano Syntax Highlighting.md",
-    "My Cheat Sheets/Debian and Linux/Customizing Linux/Make ZSH default shell.md",
     "My Cheat Sheets/Linux Administration (LFCS)",
     "My Cheat Sheets/Terraform",
     "My Cheat Sheets/Ansible",

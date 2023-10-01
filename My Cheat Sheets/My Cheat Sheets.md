@@ -64,6 +64,7 @@
 		- [[The Arr stack]]
 - **Jenkins**
 	- [[Basics]]
+	- [[Jenkins End to End Projects]]
 	- [[Pipelines Examples]]
 - **K8s**
 	- [[How to Learn Kubernetes (Complete Roadmap & Resources)]]
