@@ -62,10 +62,12 @@
 		- [[Hard Links and Folder Structure for arr stack]]
 		- [[qBittorrent - Basic Setup]]
 		- [[The Arr stack]]
-- **Jenkins**
+- **[[Jenkins]]**
 	- [[Basics]]
 	- [[Jenkins End to End Projects]]
+	- [[Jenkins]]
 	- [[Pipelines Examples]]
+	- [[sonarqube]]
 - **K8s**
 	- [[How to Learn Kubernetes (Complete Roadmap & Resources)]]
 	- **K3s**
