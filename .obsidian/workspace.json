@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
+                "file": "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
+                "file": "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
+                "file": "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Docker/Installation/Installation of Docker.md"
+                "file": "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md"
               }
             }
           },
@@ -180,15 +180,21 @@
   },
   "active": "7d9a766bb20faa81",
   "lastOpenFiles": [
-    "My Cheat Sheets/Docker/Installation/Install Docker Compose.md",
-    "My Cheat Sheets/Jenkins/Jenkins.md",
-    "My Cheat Sheets/Jenkins/sonarqube.md",
     "My Cheat Sheets/Jenkins/Pipelines Examples.md",
+    "My Cheat Sheets/Jenkins/sonarqube.md",
     "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
     "My Cheat Sheets/Jenkins/Basics.md",
+    "My Cheat Sheets/Jenkins/Jenkins.md",
+    "My Cheat Sheets/K8s/K3s/Certs.md",
+    "My Cheat Sheets/K8s/K3s/installation.md",
+    "Christian's Cheat Sheets/kubernetes/k9s.md",
+    "Christian's Cheat Sheets/kubernetes/k3s.md",
+    "Christian's Cheat Sheets/kubernetes/helm.md",
+    "Christian's Cheat Sheets/kubernetes/kubernetes.md",
+    "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
+    "My Cheat Sheets/Docker/Installation/Install Docker Compose.md",
     "Everything Devops/Job Search.md",
     "My Cheat Sheets/Jenkins",
-    "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
     "My Cheat Sheets/Shell Scripting/Basics.md",
     "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
     "My Cheat Sheets/Shell Scripting",
@@ -203,12 +209,6 @@
     "My Cheat Sheets/Linux Administration (LFCS)/Networking",
     "My Cheat Sheets/Mother of all Indices..md",
     "My Cheat Sheets/Debian and Linux/Setup Passwordless ssh login.md",
-    "My Cheat Sheets/Debian and Linux/Get Exit code of previously executed Command.md",
-    "My Cheat Sheets/Debian and Linux/Heredoc Syntax.md",
-    "My Cheat Sheets/Debian and Linux/Installation of Debian 11.md",
-    "My Cheat Sheets/Debian and Linux/Know the package manger in linux.md",
-    "My Cheat Sheets/Debian and Linux/Remote Desktop Client.md",
-    "My Cheat Sheets/Debian and Linux/Customizing Linux/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
     "My Cheat Sheets/Linux Administration (LFCS)",
     "My Cheat Sheets/Terraform",
     "My Cheat Sheets/Ansible",
