@@ -127,6 +127,7 @@
 - **Python**
 	- [[Python Cheat Sheets]]
 - [[Rough Notes]]
+- [[Security Tools in devops]]
 - **Shell Scripting**
 	- [[Basics]]
 - **[[Terraform]]**
