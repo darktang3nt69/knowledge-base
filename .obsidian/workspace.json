@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everything Devops/Yet to learn.md",
-                "mode": "source",
+                "file": "My Cheat Sheets/Packer/Packer.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything Devops/Yet to learn.md",
+                "file": "My Cheat Sheets/Packer/Packer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything Devops/Yet to learn.md",
+                "file": "My Cheat Sheets/Packer/Packer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything Devops/Yet to learn.md"
+                "file": "My Cheat Sheets/Packer/Packer.md"
               }
             }
           },
@@ -180,8 +180,10 @@
   },
   "active": "7d9a766bb20faa81",
   "lastOpenFiles": [
-    "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
     "Everything Devops/Yet to learn.md",
+    "My Cheat Sheets/Packer/Packer.md",
+    "My Cheat Sheets/Packer",
+    "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
     "Everything Devops/Job Search.md",
     "My Cheat Sheets/Security Tools in devops.md",
     "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
@@ -208,14 +210,12 @@
     "My Cheat Sheets/My Cheat Sheets.md",
     "My Cheat Sheets/Debian and Linux/Ubuntu Orangepi.md",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking",
-    "My Cheat Sheets/Mother of all Indices..md",
     "My Cheat Sheets/Linux Administration (LFCS)",
     "My Cheat Sheets/Terraform",
     "My Cheat Sheets/Ansible",
     "My Cheat Sheets/K8s/K8s Yamls/Pods",
     "My Cheat Sheets/K8s/K8s Yamls",
     "My Cheat Sheets/K8s/Services, Networking. etc",
-    "My Cheat Sheets/K8s/Pods/Pods Handson/Deploy a pod",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",

@@ -1,5 +1,7 @@
 1.  Hashicorp Vault
 2.  Hashicorp Packer
+    1. [DevOps CICD Project: Build Golden Image (AMI) using Packer for Apache Webserver with GitHub Action using Terraform](https://medium.com/@rahulsharan512/devops-cicd-project-build-golden-image-ami-using-packer-for-apache-webserver-with-github-action-f5eae52b2f39)
+    2. [Automate Your Infrastructure with Packer](https://www.linkedin.com/pulse/automate-your-infrastructure-packer-nadir-riyani/)
 3.  PowerShell scripting
 4.  Azure DevOps
 5.  EKS and AKS
