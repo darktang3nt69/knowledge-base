@@ -8,4 +8,5 @@
 8.  DataDog
 9.  Prometheus
 10. Loki/Grafana
-11. 
+11. Istio
+12. 
