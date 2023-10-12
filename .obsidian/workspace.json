@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Packer/Packer.md",
-                "mode": "preview",
+                "file": "Everything Devops/Devops Projects to add to resume.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Packer/Packer.md",
+                "file": "Everything Devops/Devops Projects to add to resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Packer/Packer.md",
+                "file": "Everything Devops/Devops Projects to add to resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Packer/Packer.md"
+                "file": "Everything Devops/Devops Projects to add to resume.md"
               }
             }
           },
@@ -180,8 +180,8 @@
   },
   "active": "7d9a766bb20faa81",
   "lastOpenFiles": [
-    "Everything Devops/Yet to learn.md",
     "My Cheat Sheets/Packer/Packer.md",
+    "Everything Devops/Yet to learn.md",
     "My Cheat Sheets/Packer",
     "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
     "Everything Devops/Job Search.md",

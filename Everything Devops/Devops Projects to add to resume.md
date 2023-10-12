@@ -13,4 +13,7 @@
 7. Create docker image or ansible role for real world use cases: Try creating docker images or ansible role for automating rollouts/ end-to-end application installation/Containerisation.  
 8. [DevOps Live Projects](https://www.youtube.com/playlist?list=PLlfy9GnSVerRqYJgVYO0UiExj5byjrW8u)
 9. [Linux for DevOps](https://www.youtube.com/playlist?list=PLlfy9GnSVerQr-Se9JRE_tZJk3OUoHCkh)
-10. 
+10. https://www.youtube.com/watch?v=TzH_FhaxmF0
+11. https://www.youtube.com/watch?v=SRHvKBYAwtQ
+12. https://www.youtube.com/watch?v=OdMPEryPhm0
+13. 
