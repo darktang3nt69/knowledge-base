@@ -11,6 +11,9 @@
 	- [[Modules]]
 	- [[Strategies]]
 	- [[Variables]]
+- **AWS**
+	- **AWS CLI**
+		- [[EC2]]
 - **Debian and Linux**
 	- [[Add user to sudo]]
 	- [[All About GUI in Debian]]

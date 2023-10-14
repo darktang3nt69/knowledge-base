@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4707796711ca4700",
+        "id": "2eed414943d830da",
         "type": "tabs",
         "children": [
           {
-            "id": "950b236174ea6a9f",
+            "id": "d59a6c4d7c63821f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Jenkins/Basics.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7d9a766bb20faa81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Cheat Sheets/My Cheat Sheets.md",
-                "mode": "preview",
+                "file": "My Cheat Sheets/AWS/AWS CLI/EC2.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/My Cheat Sheets.md",
+                "file": "My Cheat Sheets/AWS/AWS CLI/EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/My Cheat Sheets.md",
+                "file": "My Cheat Sheets/AWS/AWS CLI/EC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/My Cheat Sheets.md"
+                "file": "My Cheat Sheets/AWS/AWS CLI/EC2.md"
               }
             }
           },
@@ -178,10 +164,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7d9a766bb20faa81",
+  "active": "d59a6c4d7c63821f",
   "lastOpenFiles": [
-    "Everything Devops/Devops Projects to add to resume.md",
+    "Christian's Cheat Sheets/tools/vagrant.md",
+    "My Cheat Sheets/AWS/AWS CLI/EC2.md",
     "My Cheat Sheets/Packer/Packer.md",
+    "My Cheat Sheets/My Cheat Sheets.md",
+    "My Cheat Sheets/Mother of all Indices..md",
+    "My Cheat Sheets/Terraform/Terraform CLI.md",
+    "Christian's Cheat Sheets/tools/packer.md",
+    "Christian's Cheat Sheets/tools/direnv.md",
+    "My Cheat Sheets/AWS/AWS CLI",
+    "My Cheat Sheets/AWS",
+    "Everything Devops/Devops Projects to add to resume.md",
     "Everything Devops/Yet to learn.md",
     "My Cheat Sheets/Packer",
     "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
@@ -201,21 +196,12 @@
     "My Cheat Sheets/Docker/Installation/Install Docker Compose.md",
     "My Cheat Sheets/Jenkins",
     "My Cheat Sheets/Shell Scripting/Basics.md",
-    "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
     "My Cheat Sheets/Shell Scripting",
-    "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
-    "My Cheat Sheets/Docker/Docker Study Plan.md",
-    "My Cheat Sheets/Debian and Linux/Mother of all Linux Cheatsheets.md",
-    "My Cheat Sheets/Linux Administration (LFCS)/Networking/Networking Commands.md",
-    "My Cheat Sheets/Linux Administration (LFCS)/Networking/IP Routes and Network Interfaces.md",
-    "My Cheat Sheets/My Cheat Sheets.md",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking",
     "My Cheat Sheets/Linux Administration (LFCS)",
     "My Cheat Sheets/Terraform",
     "My Cheat Sheets/Ansible",
     "My Cheat Sheets/K8s/K8s Yamls/Pods",
-    "My Cheat Sheets/K8s/K8s Yamls",
-    "My Cheat Sheets/K8s/Services, Networking. etc",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",
