@@ -13,7 +13,10 @@
 	- [[Variables]]
 - **AWS**
 	- **AWS CLI**
-		- [[EC2]]
+		- [[Basic EC2 Management]]
+		- [[IAM]]
+		- [[IP address (Elastic IP)]]
+		- [[S3]]
 - **Debian and Linux**
 	- [[Add user to sudo]]
 	- [[All About GUI in Debian]]

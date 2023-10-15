@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/AWS/AWS CLI/EC2.md",
+                "file": "My Cheat Sheets/AWS/AWS CLI/IAM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/AWS/AWS CLI/EC2.md",
+                "file": "My Cheat Sheets/AWS/AWS CLI/IAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/AWS/AWS CLI/EC2.md",
+                "file": "My Cheat Sheets/AWS/AWS CLI/IAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/AWS/AWS CLI/EC2.md"
+                "file": "My Cheat Sheets/AWS/AWS CLI/IAM.md"
               }
             }
           },
@@ -166,8 +166,11 @@
   },
   "active": "d59a6c4d7c63821f",
   "lastOpenFiles": [
+    "My Cheat Sheets/AWS/AWS CLI/IP address (Elastic IP).md",
+    "My Cheat Sheets/AWS/AWS CLI/IAM.md",
+    "My Cheat Sheets/AWS/AWS CLI/S3.md",
+    "My Cheat Sheets/AWS/AWS CLI/Basic EC2 Management.md",
     "Christian's Cheat Sheets/tools/vagrant.md",
-    "My Cheat Sheets/AWS/AWS CLI/EC2.md",
     "My Cheat Sheets/Packer/Packer.md",
     "My Cheat Sheets/My Cheat Sheets.md",
     "My Cheat Sheets/Mother of all Indices..md",
@@ -192,10 +195,7 @@
     "Christian's Cheat Sheets/kubernetes/k9s.md",
     "Christian's Cheat Sheets/kubernetes/k3s.md",
     "Christian's Cheat Sheets/kubernetes/helm.md",
-    "Christian's Cheat Sheets/kubernetes/kubernetes.md",
-    "My Cheat Sheets/Docker/Installation/Install Docker Compose.md",
     "My Cheat Sheets/Jenkins",
-    "My Cheat Sheets/Shell Scripting/Basics.md",
     "My Cheat Sheets/Shell Scripting",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking",
     "My Cheat Sheets/Linux Administration (LFCS)",
