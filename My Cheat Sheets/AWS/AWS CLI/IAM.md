@@ -1,5 +1,4 @@
 - Create a new IAM user with programmatic access.
-- 
 - Attach an inline policy to the IAM user.
 - Create a new IAM role.
 - Attach an S3 policy to the IAM role.
