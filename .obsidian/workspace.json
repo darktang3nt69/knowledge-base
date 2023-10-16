@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/AWS/AWS CLI/IAM.md",
-                "mode": "source",
+                "file": "Everything Devops/What I learned and what want to learn.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/AWS/AWS CLI/IAM.md",
+                "file": "Everything Devops/What I learned and what want to learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/AWS/AWS CLI/IAM.md",
+                "file": "Everything Devops/What I learned and what want to learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/AWS/AWS CLI/IAM.md"
+                "file": "Everything Devops/What I learned and what want to learn.md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +166,12 @@
   },
   "active": "d59a6c4d7c63821f",
   "lastOpenFiles": [
-    "My Cheat Sheets/AWS/AWS CLI/IP address (Elastic IP).md",
+    "My Cheat Sheets/Python/Python Cheat Sheets.md",
+    "Everything Devops/What I learned and what want to learn.md",
+    "Everything Devops/Job Search.md",
+    "My Cheat Sheets/AWS/CloudFormation Templates.md",
     "My Cheat Sheets/AWS/AWS CLI/IAM.md",
+    "My Cheat Sheets/AWS/AWS CLI/IP address (Elastic IP).md",
     "My Cheat Sheets/AWS/AWS CLI/S3.md",
     "My Cheat Sheets/AWS/AWS CLI/Basic EC2 Management.md",
     "Christian's Cheat Sheets/tools/vagrant.md",
@@ -179,10 +184,8 @@
     "My Cheat Sheets/AWS/AWS CLI",
     "My Cheat Sheets/AWS",
     "Everything Devops/Devops Projects to add to resume.md",
-    "Everything Devops/Yet to learn.md",
     "My Cheat Sheets/Packer",
     "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
-    "Everything Devops/Job Search.md",
     "My Cheat Sheets/Security Tools in devops.md",
     "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
     "My Cheat Sheets/Jenkins/Pipelines Examples.md",
@@ -192,8 +195,6 @@
     "My Cheat Sheets/K8s/K3s/Certs.md",
     "My Cheat Sheets/K8s/K3s/installation.md",
     "Christian's Cheat Sheets/kubernetes/k9s.md",
-    "Christian's Cheat Sheets/kubernetes/k3s.md",
-    "Christian's Cheat Sheets/kubernetes/helm.md",
     "My Cheat Sheets/Jenkins",
     "My Cheat Sheets/Shell Scripting",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking",

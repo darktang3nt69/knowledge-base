@@ -17,6 +17,7 @@
 		- [[IAM]]
 		- [[IP address (Elastic IP)]]
 		- [[S3]]
+	- [[CloudFormation Templates]]
 - **Debian and Linux**
 	- [[Add user to sudo]]
 	- [[All About GUI in Debian]]
