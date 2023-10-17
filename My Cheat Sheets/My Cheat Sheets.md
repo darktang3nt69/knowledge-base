@@ -61,14 +61,7 @@
 	- **Storage**
 		- [[Overview]]
 		- [[Volumes]]
-- **Home Lab Docs**
-	- [[Install Pihole]]
-	- [[Install Portainer]]
-	- [[Interesting Docker Containers]]
-	- **The arrs Stack**
-		- [[Hard Links and Folder Structure for arr stack]]
-		- [[qBittorrent - Basic Setup]]
-		- [[The Arr stack]]
+	- [[When to `exec` and when to 'attach']]
 - **[[Jenkins]]**
 	- [[Basics]]
 	- [[Jenkins End to End Projects]]

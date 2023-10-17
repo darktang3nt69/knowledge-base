@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everything Devops/What I learned and what want to learn.md",
+                "file": "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything Devops/What I learned and what want to learn.md",
+                "file": "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything Devops/What I learned and what want to learn.md",
+                "file": "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything Devops/What I learned and what want to learn.md"
+                "file": "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md"
               }
             }
           },
@@ -166,8 +166,10 @@
   },
   "active": "d59a6c4d7c63821f",
   "lastOpenFiles": [
-    "My Cheat Sheets/Python/Python Cheat Sheets.md",
+    "Home Lab Docs/The arrs Stack/Recyclarr.md",
+    "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
     "Everything Devops/What I learned and what want to learn.md",
+    "My Cheat Sheets/Python/Python Cheat Sheets.md",
     "Everything Devops/Job Search.md",
     "My Cheat Sheets/AWS/CloudFormation Templates.md",
     "My Cheat Sheets/AWS/AWS CLI/IAM.md",
@@ -193,8 +195,6 @@
     "My Cheat Sheets/Jenkins/Basics.md",
     "My Cheat Sheets/Jenkins/Jenkins.md",
     "My Cheat Sheets/K8s/K3s/Certs.md",
-    "My Cheat Sheets/K8s/K3s/installation.md",
-    "Christian's Cheat Sheets/kubernetes/k9s.md",
     "My Cheat Sheets/Jenkins",
     "My Cheat Sheets/Shell Scripting",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking",
