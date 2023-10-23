@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
+                "file": "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "f51e5ff28a6d5146",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
+                "file": "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
+                "file": "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md"
+                "file": "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md"
               }
             }
           },
@@ -164,10 +175,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d59a6c4d7c63821f",
+  "active": "f51e5ff28a6d5146",
   "lastOpenFiles": [
-    "Home Lab Docs/The arrs Stack/Recyclarr.md",
     "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
+    "Home Lab Docs/The arrs Stack/Recyclarr.md",
     "Everything Devops/What I learned and what want to learn.md",
     "My Cheat Sheets/Python/Python Cheat Sheets.md",
     "Everything Devops/Job Search.md",

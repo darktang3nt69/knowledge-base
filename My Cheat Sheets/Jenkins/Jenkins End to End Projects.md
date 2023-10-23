@@ -5,3 +5,4 @@
 5. [ ] [Complete Real-time DevOps CI/CD Project | Jenkins Shared Lib | DevSecOps | Advanced Pro | HandsOn](https://www.youtube.com/watch?v=g-v9AsubOqY&list=PLLu1bCv5AByHFz0yycjbp_I5G9NTGF2Cw&index=1)
 6. [ ] [Grand Real-time End to End DevOps CI/CD Project | Git | Jenkins | Docker | K8's | ArgoCD | HandsOn](https://www.youtube.com/watch?v=kuSdi8bDztk)
 7. [ ] [Ultra Real Time End to End CI/CD Project | Docker | Jenkins | Nexus | SonarQube | datree | Helm | K8s](https://www.youtube.com/watch?v=8KZi7KBpk0I)
+8. [ ] https://www.youtube.com/watch?v=OCZriuQe08U
