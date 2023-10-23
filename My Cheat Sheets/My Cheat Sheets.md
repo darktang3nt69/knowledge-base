@@ -41,6 +41,8 @@
 	- [[Sources List]]
 	- [[Ubuntu Orangepi]]
 	- [[Version Upgrade]]
+- **Deployment Stratagies**
+	- [[Canary Release]]
 - **Docker**
 	- [[Docker Study Plan]]
 	- **Docker-networking**

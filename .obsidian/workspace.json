@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
+                "file": "My Cheat Sheets/Deployment Stratagies/Canary Release.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "f51e5ff28a6d5146",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
+                "file": "My Cheat Sheets/Deployment Stratagies/Canary Release.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
+                "file": "My Cheat Sheets/Deployment Stratagies/Canary Release.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md"
+                "file": "My Cheat Sheets/Deployment Stratagies/Canary Release.md"
               }
             }
           },
@@ -175,8 +164,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f51e5ff28a6d5146",
+  "active": "d59a6c4d7c63821f",
   "lastOpenFiles": [
+    "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
+    "My Cheat Sheets/Deployment Stratagies/Canary Release.md",
+    "My Cheat Sheets/Deployment Stratagies",
     "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
     "Home Lab Docs/The arrs Stack/Recyclarr.md",
     "Everything Devops/What I learned and what want to learn.md",
@@ -198,21 +190,18 @@
     "My Cheat Sheets/AWS",
     "Everything Devops/Devops Projects to add to resume.md",
     "My Cheat Sheets/Packer",
-    "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
     "My Cheat Sheets/Security Tools in devops.md",
     "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
     "My Cheat Sheets/Jenkins/Pipelines Examples.md",
     "My Cheat Sheets/Jenkins/sonarqube.md",
     "My Cheat Sheets/Jenkins/Basics.md",
     "My Cheat Sheets/Jenkins/Jenkins.md",
-    "My Cheat Sheets/K8s/K3s/Certs.md",
     "My Cheat Sheets/Jenkins",
     "My Cheat Sheets/Shell Scripting",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking",
     "My Cheat Sheets/Linux Administration (LFCS)",
     "My Cheat Sheets/Terraform",
     "My Cheat Sheets/Ansible",
-    "My Cheat Sheets/K8s/K8s Yamls/Pods",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",
