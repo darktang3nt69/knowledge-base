@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Deployment Stratagies/Canary Release.md",
-                "mode": "preview",
+                "file": "Home Lab Docs/Authentik.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Deployment Stratagies/Canary Release.md",
+                "file": "Home Lab Docs/Authentik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Deployment Stratagies/Canary Release.md",
+                "file": "Home Lab Docs/Authentik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Deployment Stratagies/Canary Release.md"
+                "file": "Home Lab Docs/Authentik.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "d59a6c4d7c63821f",
   "lastOpenFiles": [
-    "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
     "My Cheat Sheets/Deployment Stratagies/Canary Release.md",
+    "Home Lab Docs/Authentik.md",
+    "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
     "My Cheat Sheets/Deployment Stratagies",
     "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
     "Home Lab Docs/The arrs Stack/Recyclarr.md",
@@ -195,7 +196,6 @@
     "My Cheat Sheets/Jenkins/Pipelines Examples.md",
     "My Cheat Sheets/Jenkins/sonarqube.md",
     "My Cheat Sheets/Jenkins/Basics.md",
-    "My Cheat Sheets/Jenkins/Jenkins.md",
     "My Cheat Sheets/Jenkins",
     "My Cheat Sheets/Shell Scripting",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking",
