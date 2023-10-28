@@ -6,3 +6,5 @@ Follow this guide to add apps to authentik: https://geekscircuit.com/set-up-auth
 and 
 
 https://docs.ibracorp.io/authentik/authentik/unraid/npm-forward-auth-single-applications/example-npm-advanced-config
+
+
