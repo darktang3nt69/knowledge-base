@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/opensense.md",
+                "file": "Everything Devops/Job Search.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/opensense.md",
+                "file": "Everything Devops/Job Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/opensense.md",
+                "file": "Everything Devops/Job Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab Docs/opensense.md"
+                "file": "Everything Devops/Job Search.md"
               }
             }
           },
@@ -164,10 +164,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a7837429fd83126a",
+  "active": "d59a6c4d7c63821f",
   "lastOpenFiles": [
-    "Home Lab Docs/Authentik.md",
+    "Everything Devops/Resume.md",
+    "Everything Devops/Devops Courses.md",
     "Home Lab Docs/opensense.md",
+    "Home Lab Docs/Authentik.md",
     "My Cheat Sheets/Deployment Stratagies/Canary Release.md",
     "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
     "My Cheat Sheets/Deployment Stratagies",
@@ -194,8 +196,6 @@
     "My Cheat Sheets/Packer",
     "My Cheat Sheets/Security Tools in devops.md",
     "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
-    "My Cheat Sheets/Jenkins/Pipelines Examples.md",
-    "My Cheat Sheets/Jenkins/sonarqube.md",
     "My Cheat Sheets/Jenkins",
     "My Cheat Sheets/Shell Scripting",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking",
