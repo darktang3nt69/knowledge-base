@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +163,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d59a6c4d7c63821f",
+  "active": "a7837429fd83126a",
   "lastOpenFiles": [
     "Home Lab Docs/Authentik.md",
     "Home Lab Docs/opensense.md",
