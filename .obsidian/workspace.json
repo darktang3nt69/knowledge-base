@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everything Devops/Job Search.md",
-                "mode": "source",
+                "file": "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything Devops/Job Search.md",
+                "file": "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything Devops/Job Search.md",
+                "file": "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything Devops/Job Search.md"
+                "file": "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md"
               }
             }
           },
@@ -166,6 +166,9 @@
   },
   "active": "d59a6c4d7c63821f",
   "lastOpenFiles": [
+    "My Cheat Sheets/Linux Administration (LFCS)/Networking/Networking Commands.md",
+    "Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
+    "Everything Devops/Job Search.md",
     "Everything Devops/Resume.md",
     "Everything Devops/Devops Courses.md",
     "Home Lab Docs/opensense.md",
@@ -177,7 +180,6 @@
     "Home Lab Docs/The arrs Stack/Recyclarr.md",
     "Everything Devops/What I learned and what want to learn.md",
     "My Cheat Sheets/Python/Python Cheat Sheets.md",
-    "Everything Devops/Job Search.md",
     "My Cheat Sheets/AWS/CloudFormation Templates.md",
     "My Cheat Sheets/AWS/AWS CLI/IAM.md",
     "My Cheat Sheets/AWS/AWS CLI/IP address (Elastic IP).md",
@@ -194,8 +196,6 @@
     "My Cheat Sheets/AWS",
     "Everything Devops/Devops Projects to add to resume.md",
     "My Cheat Sheets/Packer",
-    "My Cheat Sheets/Security Tools in devops.md",
-    "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
     "My Cheat Sheets/Jenkins",
     "My Cheat Sheets/Shell Scripting",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking",
