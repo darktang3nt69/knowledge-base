@@ -7,7 +7,7 @@
 [https://www.copy.ai](https://www.copy.ai/)  
   
 [3] enhancv: 1000+ cvs  
-[https://lnkd.in/dznSfcab](https://lnkd.in/dznSfcab)  
+[[https://lnkd.in/dznSfcab](https://enhancv.com/uk/cv-examples/)](https://lnkd.in/dznSfcab)  
   
 [4] HyreSnap – AI driven  
 [https://lnkd.in/dGNqQt-r](https://lnkd.in/dGNqQt-r)  

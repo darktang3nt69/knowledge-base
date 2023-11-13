@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
+                "file": "Everything Devops/Resume.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
+                "file": "Everything Devops/Resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
+                "file": "Everything Devops/Resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md"
+                "file": "Everything Devops/Resume.md"
               }
             }
           },
@@ -166,6 +166,9 @@
   },
   "active": "d59a6c4d7c63821f",
   "lastOpenFiles": [
+    "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
+    "My Cheat Sheets/Jenkins/Jenkins.md",
+    "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking/Networking Commands.md",
     "Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
     "Everything Devops/Job Search.md",
@@ -174,7 +177,6 @@
     "Home Lab Docs/opensense.md",
     "Home Lab Docs/Authentik.md",
     "My Cheat Sheets/Deployment Stratagies/Canary Release.md",
-    "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
     "My Cheat Sheets/Deployment Stratagies",
     "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
     "Home Lab Docs/The arrs Stack/Recyclarr.md",
@@ -191,10 +193,8 @@
     "My Cheat Sheets/Mother of all Indices..md",
     "My Cheat Sheets/Terraform/Terraform CLI.md",
     "Christian's Cheat Sheets/tools/packer.md",
-    "Christian's Cheat Sheets/tools/direnv.md",
     "My Cheat Sheets/AWS/AWS CLI",
     "My Cheat Sheets/AWS",
-    "Everything Devops/Devops Projects to add to resume.md",
     "My Cheat Sheets/Packer",
     "My Cheat Sheets/Jenkins",
     "My Cheat Sheets/Shell Scripting",
