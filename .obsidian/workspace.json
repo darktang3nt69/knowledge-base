@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everything Devops/Resume.md",
+                "file": "My Cheat Sheets/Shell Scripting/Basics.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything Devops/Resume.md",
+                "file": "My Cheat Sheets/Shell Scripting/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything Devops/Resume.md",
+                "file": "My Cheat Sheets/Shell Scripting/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything Devops/Resume.md"
+                "file": "My Cheat Sheets/Shell Scripting/Basics.md"
               }
             }
           },
@@ -166,20 +166,21 @@
   },
   "active": "d59a6c4d7c63821f",
   "lastOpenFiles": [
-    "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
-    "My Cheat Sheets/Jenkins/Jenkins.md",
-    "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking/Networking Commands.md",
+    "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
+    "My Cheat Sheets/Jenkins/Basics.md",
+    "My Cheat Sheets/Jenkins/Jenkins.md",
+    "Home Lab Docs/The arrs Stack/Recyclarr.md",
+    "Everything Devops/Resume.md",
+    "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
     "Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
     "Everything Devops/Job Search.md",
-    "Everything Devops/Resume.md",
     "Everything Devops/Devops Courses.md",
     "Home Lab Docs/opensense.md",
     "Home Lab Docs/Authentik.md",
     "My Cheat Sheets/Deployment Stratagies/Canary Release.md",
     "My Cheat Sheets/Deployment Stratagies",
     "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
-    "Home Lab Docs/The arrs Stack/Recyclarr.md",
     "Everything Devops/What I learned and what want to learn.md",
     "My Cheat Sheets/Python/Python Cheat Sheets.md",
     "My Cheat Sheets/AWS/CloudFormation Templates.md",
@@ -192,7 +193,6 @@
     "My Cheat Sheets/My Cheat Sheets.md",
     "My Cheat Sheets/Mother of all Indices..md",
     "My Cheat Sheets/Terraform/Terraform CLI.md",
-    "Christian's Cheat Sheets/tools/packer.md",
     "My Cheat Sheets/AWS/AWS CLI",
     "My Cheat Sheets/AWS",
     "My Cheat Sheets/Packer",
