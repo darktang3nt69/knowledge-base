@@ -72,9 +72,6 @@
 	- [[sonarqube]]
 - **K8s**
 	- [[How to Learn Kubernetes (Complete Roadmap & Resources)]]
-	- **K3s**
-		- [[Certs]]
-		- [[installation]]
 	- **K8s Yamls**
 		- [[Kubectl Cheatsheet]]
 		- **Pods**

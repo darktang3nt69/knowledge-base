@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Shell Scripting/Basics.md",
+                "file": "Home Lab Docs/K3s/installation.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Shell Scripting/Basics.md",
+                "file": "Home Lab Docs/K3s/installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Shell Scripting/Basics.md",
+                "file": "Home Lab Docs/K3s/installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Shell Scripting/Basics.md"
+                "file": "Home Lab Docs/K3s/installation.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "d59a6c4d7c63821f",
   "lastOpenFiles": [
+    "My Cheat Sheets/Shell Scripting/Basics.md",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking/Networking Commands.md",
     "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
     "My Cheat Sheets/Jenkins/Basics.md",
@@ -192,7 +193,6 @@
     "My Cheat Sheets/Packer/Packer.md",
     "My Cheat Sheets/My Cheat Sheets.md",
     "My Cheat Sheets/Mother of all Indices..md",
-    "My Cheat Sheets/Terraform/Terraform CLI.md",
     "My Cheat Sheets/AWS/AWS CLI",
     "My Cheat Sheets/AWS",
     "My Cheat Sheets/Packer",
