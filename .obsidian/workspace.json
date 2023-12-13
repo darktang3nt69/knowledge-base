@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2eed414943d830da",
+        "id": "5e86bc88d7432514",
         "type": "tabs",
         "children": [
           {
-            "id": "d59a6c4d7c63821f",
+            "id": "6c453de7f2e58b5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Lab Docs/K3s/installation.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/K3s/installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/K3s/installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home Lab Docs/K3s/installation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +155,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d59a6c4d7c63821f",
+  "active": "6c453de7f2e58b5d",
   "lastOpenFiles": [
+    "Home Lab Docs/K3s/Untitled.md",
+    "Home Lab Docs/K3s/installation.md",
     "My Cheat Sheets/Shell Scripting/Basics.md",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking/Networking Commands.md",
     "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
@@ -191,8 +184,6 @@
     "My Cheat Sheets/AWS/AWS CLI/Basic EC2 Management.md",
     "Christian's Cheat Sheets/tools/vagrant.md",
     "My Cheat Sheets/Packer/Packer.md",
-    "My Cheat Sheets/My Cheat Sheets.md",
-    "My Cheat Sheets/Mother of all Indices..md",
     "My Cheat Sheets/AWS/AWS CLI",
     "My Cheat Sheets/AWS",
     "My Cheat Sheets/Packer",
