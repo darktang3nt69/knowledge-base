@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/Networking/Iperf3.md",
+                "file": "My Cheat Sheets/Debian and Linux/Networking/Setup Samba Share.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/Networking/Iperf3.md",
+                "file": "My Cheat Sheets/Debian and Linux/Networking/Setup Samba Share.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/Networking/Iperf3.md",
+                "file": "My Cheat Sheets/Debian and Linux/Networking/Setup Samba Share.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab Docs/Networking/Iperf3.md"
+                "file": "My Cheat Sheets/Debian and Linux/Networking/Setup Samba Share.md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +164,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a7837429fd83126a",
+  "active": "6c453de7f2e58b5d",
   "lastOpenFiles": [
     "Home Lab Docs/Networking/Iperf3.md",
     "Home Lab Docs/Networking",
