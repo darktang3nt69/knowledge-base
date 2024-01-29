@@ -6,9 +6,9 @@
 ```yaml
 ###################################################################################################
 
-# Recyclarr Configuration Template: HD Bluray + WEB                                               #
+# Recyclarr Configuration Template: UHD Bluray + WEB                                              #
 
-# Updated: 2023-08-13                                                                             #
+# Updated: 2023-12-30                                                                             #
 
 # Documentation: https://recyclarr.dev                                                            #
 
@@ -22,19 +22,11 @@
 
   
 
-# yaml-language-server: $schema=https://raw.githubusercontent.com/recyclarr/recyclarr/master/schemas/config-schema.json
-
-  
-
-# Instance Definition
-
-# This section defines your instance type, name, and authentication
-
-# Documentation: https://recyclarr.dev/wiki/yaml/config-reference/#basic
+# Instance Definition: https://recyclarr.dev/wiki/yaml/config-reference/basic/
 
 radarr:
 
-  hd-bluray-web:
+  merged:
 
     base_url: http://radarr:7878
 
@@ -42,137 +34,226 @@ radarr:
 
   
 
-# Quality Definition
+    include:
 
-# This section defines the Quality Definitions that will be used in your Radarr instance
+      # Comment out any of the following includes to disable them
 
-# Only one set of Quality Definitions can be used per instance
+      - template: radarr-quality-definition-movie
 
-# Documentation: https://recyclarr.dev/wiki/yaml/config-reference/#quality-def-settings
+      - template: radarr-quality-profile-uhd-bluray-web
 
-    quality_definition:
+      - template: radarr-custom-formats-uhd-bluray-web
 
-      type: movie
+      - template: radarr-quality-definition-movie
 
-  
+      - template: radarr-quality-profile-hd-bluray-web
 
-# Quality Profiles
+      - template: radarr-custom-formats-hd-bluray-web
 
-# This section creates and/or updates Quality Profile(s) in your Radarr instance
+      - template: radarr-quality-definition-movie
 
-# Documentation: https://recyclarr.dev/wiki/yaml/config-reference/#quality-profiles
+      - template: radarr-quality-profile-anime
 
-    quality_profiles:
-
-      - name: HD Bluray + WEB
-
-        reset_unmatched_scores:
-
-          enabled: true
-
-        # upgrade:
-
-        #   allowed: true
-
-        #   until_quality: Bluray-1080p
-
-        #   until_score: 10000
-
-        min_format_score: 0
-
-        quality_sort: top
-
-        qualities:
-
-          - name: Bluray-1080p
-
-          - name: WEB 1080p
-
-            qualities:
-
-              - WEBDL-1080p
-
-              - WEBRip-1080p
+      - template: radarr-custom-formats-anime
 
   
 
-# Custom Formats
-
-# This section creates and/or updates Custom Formats in your Radarr instance,
-
-# and applies them and their scores to Quality Profiles
-
-# Documentation: https://recyclarr.dev/wiki/yaml/config-reference/#custom-format-settings
+# Custom Formats: https://recyclarr.dev/wiki/yaml/config-reference/custom-formats/
 
     custom_formats:
 
-      # Scores from TRaSH json
+      # Audio
 
       - trash_ids:
 
-          # Movie Versions
+          # Uncomment the next section to enable Advanced Audio Formats
 
-          - 570bc9ebecd92723d2d21500f4be314c  # Remaster
+          # - 496f355514737f7d83bf7aa4d24f8169 # TrueHD Atmos
 
-          - eca37840c13c6ef2dd0262b141a5482f  # 4K Remaster
+          # - 2f22d89048b01681dde8afe203bf2e95 # DTS X
 
-          - e0c07d59beb37348e975a930d5e50319  # Criterion Collection
+          # - 417804f7f2c4308c1f4c5d380d4c4475 # ATMOS (undefined)
 
-          - 9d27d9d2181838f76dee150882bdc58c  # Masters of Cinema
+          - 1af239278386be2919e1bcee0bde047e # DD+ ATMOS
 
-          - db9b4c4b53d312a3ca5f1378f6440fc9  # Vinegar Syndrome
+          - 3cafb66171b47f226146a0770576870f # TrueHD
 
-          - 957d0f44b592285f26449575e8b1167e  # Special Edition
+          # - dcf3ec6938fa32445f590a4da84256cd # DTS-HD MA
 
-          - eecf3a857724171f968a66cb5719e152  # IMAX
+          # - a570d4a0e56a2874b64e5bfa55202a1b # FLAC
 
-          - 9f6cbff8cfe4ebbc1bde14c7b7bec0de  # IMAX Enhanced
+          # - e7c2fcae07cbada050a0af3357491d7b # PCM
 
-  
+          # - 8e109e50e0a0b83a5098b056e13bf6db # DTS-HD HRA
 
-          # HQ Release Groups
+          - 185f1dd7264c4562b9022d963ac37424 # DD+
 
-          - ed27ebfef2f323e964fb1f61391bcb35  # HD Bluray Tier 01
+          # - f9f847ac70a0af62ea4a08280b859636 # DTS-ES
 
-          - c20c8647f2746a1f4c4262b0fbbeeeae  # HD Bluray Tier 02
+          # - 1c1a4c5e823891c75bc50380a6866f73 # DTS
 
-          - 5608c71bcebba0a5e666223bae8c9227  # HD Bluray Tier 03
+          # - 240770601cc226190c367ef59aba7463 # AAC
 
-          - c20f169ef63c5f40c2def54abaf4438e  # WEB Tier 01
+          # - c2998bd0d90ed5621d8df281e839436e # DD
 
-          - 403816d65392c79236dcb6dd591aeda4  # WEB Tier 02
+        quality_profiles:
 
-          - af94e0fe497124d1f9ce732069ec8c3b  # WEB Tier 03
-
-  
-
-          # Misc
-
-          - e7718d7a3ce595f289bfee26adc178f5  # Repack/Proper
-
-          - ae43b294509409a6a13919dedd4764c4  # Repack2
+          - name: UHD Bluray + WEB
 
   
 
-          # Unwanted
+      # Movie Versions
 
-          - ed38b889b31be83fda192888e2286d83  # BR-DISK
+      - trash_ids:
 
-          - 90a6f9a284dff5103f6346090e6280c8  # LQ
+          - 9f6cbff8cfe4ebbc1bde14c7b7bec0de # IMAX Enhanced
 
-          - dc98083864ea246d05a42df0d05f81cc  # x265 (HD)
+        quality_profiles:
 
-          - b8cd450cbfa689c0259a01d9e29ba3d6  # 3D
+          - name: UHD Bluray + WEB
+
+            score: 0 # Uncomment this line to disable prioritised IMAX Enhanced releases
 
   
 
-          # Streaming Services
+      # Optional
 
-          - cc5e51a9e85a6296ceefe097a77f12f4  # BCORE
+      - trash_ids:
 
-          - 2a6039655313bf5dab1e43523b62c374  # MA
+          # - b6832f586342ef70d9c128d40c07b872 # Bad Dual Groups
 
-          - 16622a6911d1ab5d5b8b713d5b0036d4  # CRiT
+          # - 90cedc1fea7ea5d11298bebd3d1d3223 # EVO (no WEBDL)
+
+          # - ae9b7c9ebde1f3bd336a8cbd1ec4c5e5 # No-RlsGroup
+
+          # - 7357cf5161efbf8c4d5d0c30b4815ee2 # Obfuscated
+
+          # - 5c44f52a8714fdd79bb4d98e2673be1f # Retags
+
+          # - f537cf427b64c38c8e36298f657e4828 # Scene
+
+        quality_profiles:
+
+          - name: UHD Bluray + WEB
+
+  
+
+      - trash_ids:
+
+          # Uncomment the next six lines to allow x265 HD releases with HDR/DV
+
+          # - dc98083864ea246d05a42df0d05f81cc # x265 (HD)
+
+        # quality_profiles:
+
+          # - name: UHD Bluray + WEB
+
+            # score: 0
+
+      # - trash_ids:
+
+          # - 839bea857ed2c0a8e084f3cbdbd65ecb # x265 (no HDR/DV)
+
+        quality_profiles:
+
+          - name: UHD Bluray + WEB
+
+  
+
+      - trash_ids:
+
+          # Comment out the next line if you and all of your users' setups are fully DV compatible
+
+          - 923b6abef9b17f937fab56cfcf89e1f1 # DV (WEBDL)
+
+          # HDR10Plus Boost - Uncomment the next line if any of your devices DO support HDR10+
+
+          # - b17886cb4158d9fea189859409975758 # HDR10Plus Boost
+
+        quality_profiles:
+
+          - name: UHD Bluray + WEB
+
+      ##### ANIME ########
+
+      - trash_ids:
+
+          - 064af5f084a0a24458cc8ecd3220f93f # Uncensored
+
+        quality_profiles:
+
+          - name: Remux-1080p - Anime
+
+            score: 0 # Adjust scoring as desired
+
+  
+
+      - trash_ids:
+
+          - a5d148168c4506b55cf53984107c396e # 10bit
+
+        quality_profiles:
+
+          - name: Remux-1080p - Anime
+
+            score: 0 # Adjust scoring as desired
+
+  
+
+      - trash_ids:
+
+          - 4a3b087eea2ce012fcc1ce319259a3be # Anime Dual Audio
+
+        quality_profiles:
+
+          - name: Remux-1080p - Anime
+
+            score: 0 # Adjust scoring as desired
+
+  
+  
+
+##################### HD Bluray + WEB #################################################################
+
+  
+
+      - trash_ids:
+
+          - 9c38ebb7384dada637be8899efa68e6f # SDR
+
+        quality_profiles:
+
+          - name: UHD Bluray + WEB
+
+            # score: 0 # Uncomment this line to allow SDR releases
+
+      - trash_ids:
+
+          - 9f6cbff8cfe4ebbc1bde14c7b7bec0de # IMAX Enhanced
+
+        quality_profiles:
+
+          - name: HD Bluray + WEB
+
+            score: 0 # Uncomment this line to disable prioritised IMAX Enhanced releases
+
+  
+
+      # Optional
+
+      - trash_ids:
+
+          # - b6832f586342ef70d9c128d40c07b872 # Bad Dual Groups
+
+          # - 90cedc1fea7ea5d11298bebd3d1d3223 # EVO (no WEBDL)
+
+          # - ae9b7c9ebde1f3bd336a8cbd1ec4c5e5 # No-RlsGroup
+
+          # - 7357cf5161efbf8c4d5d0c30b4815ee2 # Obfuscated
+
+          # - 5c44f52a8714fdd79bb4d98e2673be1f # Retags
+
+          # - f537cf427b64c38c8e36298f657e4828 # Scene
 
         quality_profiles:
 
@@ -180,43 +261,200 @@ radarr:
 
   
 
-      # Custom Scoring
-
       - trash_ids:
 
-          # Streaming Services
+          # Uncomment the next six lines to allow x265 HD releases with HDR/DV
 
-          - b3b3a6ac74ecbd56bcdbefa4799fb9df  # AMZN
+          # - dc98083864ea246d05a42df0d05f81cc # x265 (HD)
 
-          - 40e9380490e748672c2522eaaeb692f7  # ATVP
+        # quality_profiles:
 
-          - f6ff65b3f4b464a79dcc75950fe20382  # CRAV
+          # - name: HD Bluray + WEB
 
-          - 84272245b2988854bfb76a16e60baea5  # DSNP
+            # score: 0
 
-          - 509e5f41146e278f9eab1ddaceb34515  # HBO
+      # - trash_ids:
 
-          - 5763d1b0ce84aff3b21038eea8e9b8ad  # HMAX
-
-          - 526d445d4c16214309f0fd2b3be18a89  # Hulu
-
-          - 6a061313d22e51e0f25b7cd4dc065233  # MAX
-
-          - 170b1d363bd8516fbf3a3eb05d4faff6  # NF
-
-          - fbca986396c5e695ef7b2def3c755d01  # OViD
-
-          - bf7e73dd1d85b12cc527dc619761c840  # Pathe
-
-          - c9fd353f8f5f1baf56dc601c4cb29920  # PCOK
-
-          - e36a0ba1bc902b26ee40818a1d59b8bd  # PMTP
-
-          - c2863d2a50c9acad1fb50e53ece60817  # STAN
+          # - 839bea857ed2c0a8e084f3cbdbd65ecb # x265 (no HDR/DV)
 
         quality_profiles:
 
           - name: HD Bluray + WEB
 
-            score: 0
+  
+
+#########################################################    SONARR ####################################
+
+  
+  
+
+sonarr:
+
+  merged-sonarr:
+
+    base_url: http://sonarr:8989
+
+    api_key: 4cdc87da9b114dc4b2e5b1b28acc5dd2
+
+  
+
+    include:
+
+      # Comment out any of the following includes to disable them
+
+      - template: sonarr-quality-definition-series
+
+      - template: sonarr-v4-quality-profile-web-1080p
+
+      - template: sonarr-v4-custom-formats-web-1080p
+
+      - template: sonarr-quality-definition-series
+
+      - template: sonarr-v4-quality-profile-web-2160p
+
+      - template: sonarr-v4-custom-formats-web-2160p
+
+      - template: sonarr-quality-definition-anime
+
+      - template: sonarr-v4-quality-profile-anime
+
+      - template: sonarr-v4-custom-formats-anime
+
+  
+
+# Custom Formats: https://recyclarr.dev/wiki/yaml/config-reference/custom-formats/
+
+    custom_formats:
+
+      # Optional
+
+      - trash_ids:
+
+          # - 32b367365729d530ca1c124a0b180c64 # Bad Dual Groups
+
+          # - 82d40da2bc6923f41e14394075dd4b03 # No-RlsGroup
+
+          # - e1a997ddb54e3ecbfe06341ad323c458 # Obfuscated
+
+          # - 06d66ab109d4d2eddb2794d21526d140 # Retags
+
+          # - 1b3994c551cbb92a2c781af061f4ab44 # Scene
+
+        quality_profiles:
+
+          - name: WEB-1080p
+
+  
+
+      - trash_ids:
+
+          # Uncomment the next six lines to allow x265 HD releases with HDR/DV
+
+          # - 47435ece6b99a0b477caf360e79ba0bb # x265 (HD)
+
+        # quality_profiles:
+
+          # - name: WEB-1080p
+
+            # score: 0
+
+      # - trash_ids:
+
+          # - 9b64dff695c2115facf1b6ea59c9bd07 # x265 (no HDR/DV)
+
+        quality_profiles:
+
+          - name: WEB-1080p
+
+      ######################### UHD ######################################34
+
+  
+
+      - trash_ids:
+
+          # - 32b367365729d530ca1c124a0b180c64 # Bad Dual Groups
+
+          # - 82d40da2bc6923f41e14394075dd4b03 # No-RlsGroup
+
+          # - e1a997ddb54e3ecbfe06341ad323c458 # Obfuscated
+
+          # - 06d66ab109d4d2eddb2794d21526d140 # Retags
+
+          # - 1b3994c551cbb92a2c781af061f4ab44 # Scene
+
+        quality_profiles:
+
+          - name: WEB-2160p
+
+  
+
+      - trash_ids:
+
+          # Uncomment the next six lines to allow x265 HD releases with HDR/DV
+
+          # - 47435ece6b99a0b477caf360e79ba0bb # x265 (HD)
+
+        # quality_profiles:
+
+          # - name: WEB-2160p
+
+            # score: 0
+
+      # - trash_ids:
+
+          # - 9b64dff695c2115facf1b6ea59c9bd07 # x265 (no HDR/DV)
+
+        quality_profiles:
+
+          - name: WEB-2160p
+
+  
+
+      - trash_ids:
+
+          - 2016d1676f5ee13a5b7257ff86ac9a93 # SDR
+
+        quality_profiles:
+
+          - name: WEB-2160p
+
+            # score: 0 # Uncomment this line to enable SDR releases
+
+  
+
+      #### ANime
+
+      - trash_ids:
+
+          - 026d5aadd1a6b4e550b134cb6c72b3ca # Uncensored
+
+        quality_profiles:
+
+          - name: Remux-1080p - Anime
+
+            score: 0 # Adjust scoring as desired
+
+  
+
+      - trash_ids:
+
+          - b2550eb333d27b75833e25b8c2557b38 # 10bit
+
+        quality_profiles:
+
+          - name: Remux-1080p - Anime
+
+            score: 0 # Adjust scoring as desired
+
+  
+
+      - trash_ids:
+
+          - 418f50b10f1907201b6cfdf881f467b7 # Anime Dual Audio
+
+        quality_profiles:
+
+          - name: Remux-1080p - Anime
+
+            score: 0 # Adjust scoring as desired
 ```
