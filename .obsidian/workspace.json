@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/The arrs Stack/Recyclarr.md",
+                "file": "Keychron K8 pro/Keychron K8 Pro custom firmware.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 259.5
   },
   "right": {
     "id": "388887a9d68de1d1",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/The arrs Stack/Recyclarr.md",
+                "file": "Keychron K8 pro/Keychron K8 Pro custom firmware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/The arrs Stack/Recyclarr.md",
+                "file": "Keychron K8 pro/Keychron K8 Pro custom firmware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab Docs/The arrs Stack/Recyclarr.md"
+                "file": "Keychron K8 pro/Keychron K8 Pro custom firmware.md"
               }
             }
           },
@@ -166,8 +166,10 @@
   },
   "active": "6c453de7f2e58b5d",
   "lastOpenFiles": [
-    "Home Lab Docs/The arrs Stack/The Arr stack.md",
     "Home Lab Docs/The arrs Stack/Recyclarr.md",
+    "Keychron K8 pro/Keychron K8 Pro custom firmware.md",
+    "Keychron K8 pro",
+    "Home Lab Docs/The arrs Stack/The Arr stack.md",
     "My Cheat Sheets/Debian and Linux/Networking/Setup Samba Share.md",
     "Home Lab Docs/Networking/Iperf3.md",
     "Home Lab Docs/Networking",
@@ -193,7 +195,6 @@
     "My Cheat Sheets/AWS/CloudFormation Templates.md",
     "My Cheat Sheets/AWS/AWS CLI/IAM.md",
     "My Cheat Sheets/AWS/AWS CLI/IP address (Elastic IP).md",
-    "My Cheat Sheets/AWS/AWS CLI/S3.md",
     "My Cheat Sheets/AWS/AWS CLI",
     "My Cheat Sheets/AWS",
     "My Cheat Sheets/Packer",
@@ -201,7 +202,6 @@
     "My Cheat Sheets/Shell Scripting",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking",
     "My Cheat Sheets/Linux Administration (LFCS)",
-    "My Cheat Sheets/Terraform",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",
