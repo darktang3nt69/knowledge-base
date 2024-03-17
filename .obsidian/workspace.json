@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/Networking/Install ping in docker.md",
+                "file": "Home Lab Docs/The arrs Stack/Plex.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/Networking/Install ping in docker.md",
+                "file": "Home Lab Docs/The arrs Stack/Plex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/Networking/Install ping in docker.md",
+                "file": "Home Lab Docs/The arrs Stack/Plex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab Docs/Networking/Install ping in docker.md"
+                "file": "Home Lab Docs/The arrs Stack/Plex.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "90205adb8ad934e9",
   "lastOpenFiles": [
-    "Home Lab Docs/Networking/Iperf3.md",
     "Home Lab Docs/Networking/Install ping in docker.md",
+    "Home Lab Docs/The arrs Stack/Plex.md",
+    "Home Lab Docs/Networking/Iperf3.md",
     "My Cheat Sheets/Ansible/Blocks.md",
     "Keychron K8 pro/Keychron K8 Pro custom firmware.md",
     "Home Lab Docs/The arrs Stack/Recyclarr.md",
@@ -194,7 +195,6 @@
     "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
     "Everything Devops/What I learned and what want to learn.md",
     "My Cheat Sheets/Python/Python Cheat Sheets.md",
-    "My Cheat Sheets/AWS/CloudFormation Templates.md",
     "My Cheat Sheets/AWS/AWS CLI",
     "My Cheat Sheets/AWS",
     "My Cheat Sheets/Packer",
