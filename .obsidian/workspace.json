@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/The arrs Stack/Deleterr.md",
+                "file": "Home Lab Docs/Networking/Install ping in docker.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0178ba827efc05a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Lab Docs/Networking/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/The arrs Stack/Deleterr.md",
+                "file": "Home Lab Docs/Networking/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/The arrs Stack/Deleterr.md",
+                "file": "Home Lab Docs/Networking/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab Docs/The arrs Stack/Deleterr.md"
+                "file": "Home Lab Docs/Networking/Untitled.md"
               }
             }
           },
@@ -164,12 +178,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "90205adb8ad934e9",
+  "active": "0178ba827efc05a8",
   "lastOpenFiles": [
-    "Home Lab Docs/The arrs Stack/WatchState.md",
-    "Home Lab Docs/The arrs Stack/Deleterr.md",
-    "Home Lab Docs/The arrs Stack/Plex.md",
     "Home Lab Docs/Networking/Install ping in docker.md",
+    "Home Lab Docs/Networking/Untitled.md",
+    "Untitled",
+    "Home Lab Docs/The arrs Stack/Deleterr.md",
+    "Home Lab Docs/The arrs Stack/WatchState.md",
+    "Home Lab Docs/The arrs Stack/Plex.md",
     "Home Lab Docs/Networking/Iperf3.md",
     "My Cheat Sheets/Ansible/Blocks.md",
     "Keychron K8 pro/Keychron K8 Pro custom firmware.md",
@@ -194,14 +210,12 @@
     "Home Lab Docs/Authentik.md",
     "My Cheat Sheets/Deployment Stratagies/Canary Release.md",
     "My Cheat Sheets/Deployment Stratagies",
-    "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
     "My Cheat Sheets/AWS/AWS CLI",
     "My Cheat Sheets/AWS",
     "My Cheat Sheets/Packer",
     "My Cheat Sheets/Jenkins",
     "My Cheat Sheets/Shell Scripting",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking",
-    "My Cheat Sheets/Linux Administration (LFCS)",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",
