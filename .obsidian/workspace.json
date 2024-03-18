@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/The arrs Stack/WatchState.md",
+                "file": "Home Lab Docs/The arrs Stack/Deleterr.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/The arrs Stack/WatchState.md",
+                "file": "Home Lab Docs/The arrs Stack/Deleterr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/The arrs Stack/WatchState.md",
+                "file": "Home Lab Docs/The arrs Stack/Deleterr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab Docs/The arrs Stack/WatchState.md"
+                "file": "Home Lab Docs/The arrs Stack/Deleterr.md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +166,8 @@
   },
   "active": "90205adb8ad934e9",
   "lastOpenFiles": [
-    "Home Lab Docs/The arrs Stack/Deleterr.md",
     "Home Lab Docs/The arrs Stack/WatchState.md",
+    "Home Lab Docs/The arrs Stack/Deleterr.md",
     "Home Lab Docs/The arrs Stack/Plex.md",
     "Home Lab Docs/Networking/Install ping in docker.md",
     "Home Lab Docs/Networking/Iperf3.md",
