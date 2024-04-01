@@ -1,6 +1,6 @@
 # DNSSEC 
 
-DNSSEC (DNS Security Extensions) is a set of security extensions to the [[DNS]] (Domain Name System) protocol that provides authentication and integrity checking for DNS data. DNSSEC uses digital signatures to ensure that DNS responses have not been modified in transit and that they come from an authorized source. 
+DNSSEC (DNS Security Extensions) is a set of security extensions to the [[Christian's Cheat Sheets/networking/dns]] (Domain Name System) protocol that provides authentication and integrity checking for DNS data. DNSSEC uses digital signatures to ensure that DNS responses have not been modified in transit and that they come from an authorized source. 
 
 With DNSSEC, each zone in the DNS hierarchy is signed with a private key, and the corresponding public key is published in the DNS. When a DNS resolver receives a DNS response, it can use the public key to verify the digital signature and ensure that the response has not been tampered with. If the signature is valid, the resolver can be confident that the response is authentic and has not been modified in transit.
 

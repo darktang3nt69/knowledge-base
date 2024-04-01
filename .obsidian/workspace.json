@@ -11,9 +11,12 @@
             "id": "6c453de7f2e58b5d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "Home Lab Docs/Fresh Install/Terminal.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home Lab Docs/Fresh Install/Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home Lab Docs/Fresh Install/Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home Lab Docs/Fresh Install/Terminal.md"
+              }
             }
           },
           {
@@ -159,11 +166,22 @@
   },
   "active": "6c453de7f2e58b5d",
   "lastOpenFiles": [
+    "Home Lab Docs/Fresh Install/DNS.md",
+    "Home Lab Docs/Fresh Install/Terminal.md",
+    "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
+    "Home Lab Docs/Fresh Install",
+    "My Cheat Sheets/Linux Administration (LFCS)/Networking/Networking Commands.md",
+    "Home Lab Docs/Installing Joshua's Ubuntu.md",
+    "My Cheat Sheets/Linux Administration (LFCS)/Networking/IP Routes and Network Interfaces.md",
+    "Home Lab Docs/opensense.md",
+    "Home Lab Docs/Interesting Docker Containers.md",
+    "Home Lab Docs/Install Portainer.md",
+    "Home Lab Docs/Install Pihole.md",
+    "Home Lab Docs/Authentik.md",
+    "README.md",
     "Home Lab Docs/K3s/Untitled.md",
     "Home Lab Docs/K3s/installation.md",
     "My Cheat Sheets/Shell Scripting/Basics.md",
-    "My Cheat Sheets/Linux Administration (LFCS)/Networking/Networking Commands.md",
-    "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
     "My Cheat Sheets/Jenkins/Basics.md",
     "My Cheat Sheets/Jenkins/Jenkins.md",
     "Home Lab Docs/The arrs Stack/Recyclarr.md",
@@ -172,20 +190,10 @@
     "Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
     "Everything Devops/Job Search.md",
     "Everything Devops/Devops Courses.md",
-    "Home Lab Docs/opensense.md",
-    "Home Lab Docs/Authentik.md",
     "My Cheat Sheets/Deployment Stratagies/Canary Release.md",
     "My Cheat Sheets/Deployment Stratagies",
     "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
     "Everything Devops/What I learned and what want to learn.md",
-    "My Cheat Sheets/Python/Python Cheat Sheets.md",
-    "My Cheat Sheets/AWS/CloudFormation Templates.md",
-    "My Cheat Sheets/AWS/AWS CLI/IAM.md",
-    "My Cheat Sheets/AWS/AWS CLI/IP address (Elastic IP).md",
-    "My Cheat Sheets/AWS/AWS CLI/S3.md",
-    "My Cheat Sheets/AWS/AWS CLI/Basic EC2 Management.md",
-    "Christian's Cheat Sheets/tools/vagrant.md",
-    "My Cheat Sheets/Packer/Packer.md",
     "My Cheat Sheets/AWS/AWS CLI",
     "My Cheat Sheets/AWS",
     "My Cheat Sheets/Packer",
@@ -194,7 +202,6 @@
     "My Cheat Sheets/Linux Administration (LFCS)/Networking",
     "My Cheat Sheets/Linux Administration (LFCS)",
     "My Cheat Sheets/Terraform",
-    "My Cheat Sheets/Ansible",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",

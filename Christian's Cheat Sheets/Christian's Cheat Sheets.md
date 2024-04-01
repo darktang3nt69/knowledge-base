@@ -83,7 +83,7 @@
 - **networking**
 	- [[dns-record-mailserver]]
 	- [[dns-record-types]]
-	- [[dns]]
+	- [[Christian's Cheat Sheets/networking/dns]]
 	- [[dnssec]]
 	- [[smtp]]
 	- [[tcp]]

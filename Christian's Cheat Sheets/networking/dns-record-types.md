@@ -1,6 +1,6 @@
 # DNS Record Types
 
-[[DNS]] (Domain Name System) record types are used to store different types of information about a domain name in the DNS database. 
+[[Christian's Cheat Sheets/networking/dns]] (Domain Name System) record types are used to store different types of information about a domain name in the DNS database. 
 
 ## Most common types of DNS Records
 
