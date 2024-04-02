@@ -86,7 +86,7 @@ www        IN      A       192.168.254.7
 
 #### SOA (Start of Authority)
 
-A start of authority record is a type of resource record in the Domain Name System ([DNS](networking/dns.md)) containing administrative information about the zone, especially regarding zone transfers. The SOA record format is specified in RFC 1035.
+A start of authority record is a type of resource record in the Domain Name System ([DNS](Christian's%20Cheat%20Sheets/networking/dns.md)) containing administrative information about the zone, especially regarding zone transfers. The SOA record format is specified in RFC 1035.
 
 ```conf
 @         IN      SOA   ns1.domain.tld. hostmaster.domain.tld. (

@@ -5,38 +5,34 @@
 
 1. Uninstall old versions of docker
 ```bash
-sudo apt-get remove docker docker-engine docker.io containerd runc
+[sudo apt-get remove docker docker-engine docker.io containerd runc](<for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done>)
 ```
 
 2. Update the `apt` package index and install packages to allow `apt` to use a repository over HTTPS:
 ```bash
+# Add Docker's official GPG key:
 sudo apt-get update
-sudo apt-get install ca-certificates curl gnupg
-```
-
-3. Add Docker’s official GPG key:
-```bash
+sudo apt-get install ca-certificates curl
 sudo install -m 0755 -d /etc/apt/keyrings
-curl -fsSL https://download.docker.com/linux/debian/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
-sudo chmod a+r /etc/apt/keyrings/docker.gpg
-```
+sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+sudo chmod a+r /etc/apt/keyrings/docker.asc
 
-4. Use the following command to set up the repository:
-```bash
+# Add the repository to Apt sources:
 echo \
-  "deb [arch="$(dpkg --print-architecture)" signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/debian \
-  "$(. /etc/os-release && echo "$VERSION_CODENAME")" stable" | \
+  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
+  $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | \
   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+sudo apt-get update
 ```
 
-5. To install the latest version, run:
+
+3. To install the latest version, run:
 
 ```bash
-sudo apt-get update
-sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
 ```
 
-6. Verify that the Docker Engine installation is successful by running the `hello-world` image:
+4. Verify that the Docker Engine installation is successful by running the `hello-world` image:
 
 ```bash
 sudo docker run hello-world

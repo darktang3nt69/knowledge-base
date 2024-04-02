@@ -23,11 +23,11 @@ Here's a [[dns-record-types|List of all DNS Record Types]].
 
 Ever since DNS was created in 1987, it has been largely unencrypted. Everyone between your device and the resolver is able to snoop on or even modify your DNS queries and responses.
 
-The UDP source port is 53 which is the standard port number for unencrypted [DNS](networking/dns.md). The [UDP](networking/udp.md) payload is therefore likely to be a [DNS](networking/dns.md) answer.
+The UDP source port is 53 which is the standard port number for unencrypted [DNS](Christian's%20Cheat%20Sheets/networking/dns.md). The [UDP](networking/udp.md) payload is therefore likely to be a [DNS](Christian's%20Cheat%20Sheets/networking/dns.md) answer.
 
-Encrypting DNS makes it much harder for snoopers to look into your [DNS](networking/dns.md) messages, or to corrupt them in transit.
+Encrypting DNS makes it much harder for snoopers to look into your [DNS](Christian's%20Cheat%20Sheets/networking/dns.md) messages, or to corrupt them in transit.
 
-Two standardized mechanisms exist to secure the [DNS](networking/dns.md) transport between you and the resolver, [DNS over TLS](networking/dns-over-tls.md), and [DNS queries over HTTPS](networking/dns-over-https.md).
+Two standardized mechanisms exist to secure the [DNS](Christian's%20Cheat%20Sheets/networking/dns.md) transport between you and the resolver, [DNS over TLS](networking/dns-over-tls.md), and [DNS queries over HTTPS](networking/dns-over-https.md).
 
 Both are based on Transport Layer Security ([TLS](networking/tls.md)) which is also used to secure communication between you and a website using [HTTPS](networking/https.md).
 
