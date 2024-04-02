@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "dc90c714edfe6322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/Fresh Install/Terminal.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/Fresh Install/Terminal.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab Docs/Fresh Install/Terminal.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -151,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,10 +178,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6c453de7f2e58b5d",
+  "active": "dc90c714edfe6322",
   "lastOpenFiles": [
-    "Home Lab Docs/Fresh Install/DNS.md",
     "Home Lab Docs/Fresh Install/Terminal.md",
+    "conflict-files-obsidian-git.md",
+    "Keychron K8 pro/Keychron K8 Pro custom firmware.md",
+    "Keychron K8 pro",
+    "Home Lab Docs/The arrs Stack/WatchState.md",
+    "Home Lab Docs/The arrs Stack/Plex.md",
+    "Home Lab Docs/The arrs Stack/Deleterr.md",
+    "Home Lab Docs/Networking/Iperf3.md",
+    "Home Lab Docs/Networking/Untitled.md",
+    "Home Lab Docs/Networking/Install ping in docker.md",
+    "Home Lab Docs/Networking",
+    "Home Lab Docs/Fresh Install/DNS.md",
     "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
     "Home Lab Docs/Fresh Install",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking/Networking Commands.md",
@@ -184,23 +209,13 @@
     "My Cheat Sheets/Jenkins/Basics.md",
     "My Cheat Sheets/Jenkins/Jenkins.md",
     "Home Lab Docs/The arrs Stack/Recyclarr.md",
-    "Everything Devops/Resume.md",
-    "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
-    "Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
-    "Everything Devops/Job Search.md",
-    "Everything Devops/Devops Courses.md",
-    "My Cheat Sheets/Deployment Stratagies/Canary Release.md",
     "My Cheat Sheets/Deployment Stratagies",
-    "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
-    "Everything Devops/What I learned and what want to learn.md",
     "My Cheat Sheets/AWS/AWS CLI",
     "My Cheat Sheets/AWS",
     "My Cheat Sheets/Packer",
     "My Cheat Sheets/Jenkins",
     "My Cheat Sheets/Shell Scripting",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking",
-    "My Cheat Sheets/Linux Administration (LFCS)",
-    "My Cheat Sheets/Terraform",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",
