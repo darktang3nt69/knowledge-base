@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Know the package manager in Linux.md",
+                "file": "Home Lab Docs/The arrs Stack/The Arr stack.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Know the package manager in Linux.md",
+                "file": "Home Lab Docs/The arrs Stack/The Arr stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Know the package manager in Linux.md",
+                "file": "Home Lab Docs/The arrs Stack/The Arr stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Know the package manager in Linux.md"
+                "file": "Home Lab Docs/The arrs Stack/The Arr stack.md"
               }
             }
           },
@@ -166,6 +166,16 @@
   },
   "active": "6c453de7f2e58b5d",
   "lastOpenFiles": [
+    "Home Lab Docs/The arrs Stack/Recyclarr.md",
+    "Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
+    "Home Lab Docs/The arrs Stack/The Arr stack.md",
+    "Home Lab Docs/The arrs Stack/Plex.md",
+    "Home Lab Docs/Interesting Docker Containers.md",
+    "Home Lab Docs/opensense.md",
+    "Home Lab Docs/Authentik.md",
+    "Home Lab Docs/The arrs Stack/WatchState.md",
+    "Home Lab Docs/The arrs Stack/Deleterr.md",
+    "Home Lab Docs/Debian and Linux/Know the package manager in Linux.md",
     "Home Lab Docs/Debian and Linux/Add user to sudo.md",
     "Home Lab Docs/Debian and Linux/All About GUI in Debian.md",
     "Home Lab Docs/Debian and Linux/Get CPU Temps.md",
@@ -178,21 +188,11 @@
     "Home Lab Docs/Debian and Linux/Customizing Linux/Nano Syntax Highlighting.md",
     "Home Lab Docs/Debian and Linux/Sources List.md",
     "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
-    "Home Lab Docs/Debian and Linux/Know the package manager in Linux.md",
     "Home Lab Docs/Debian and Linux/Remote Desktop Client.md",
     "Home Lab Docs/Debian and Linux/Version Upgrade.md",
     "Home Lab Docs/Debian and Linux/Heredoc Syntax.md",
     "Home Lab Docs/Debian and Linux/Get Exit code of previously executed Command.md",
-    "Home Lab Docs/Debian and Linux/Networking/DNS.md",
-    "Home Lab Docs/Fresh Install/Samba Share.md",
-    "Home Lab Docs/Debian and Linux/Networking/Setting Static IP in Debian.md",
-    "Home Lab Docs/Debian and Linux/Networking/Setup Samba Share.md",
-    "Home Lab Docs/Debian and Linux/Networking/Nginx Proxy Manager.md",
-    "conflict-files-obsidian-git.md",
-    "Keychron K8 pro/Keychron K8 Pro custom firmware.md",
     "Keychron K8 pro",
-    "Home Lab Docs/The arrs Stack/WatchState.md",
-    "Home Lab Docs/The arrs Stack/Plex.md",
     "Home Lab Docs/Networking",
     "Home Lab Docs/Fresh Install",
     "My Cheat Sheets/Deployment Stratagies",
