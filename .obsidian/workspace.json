@@ -19,6 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e9cddd6e335b2201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Lab Docs/Networking/Untitled 2.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -166,8 +179,9 @@
   },
   "active": "6c453de7f2e58b5d",
   "lastOpenFiles": [
-    "Home Lab Docs/Networking/Docker Network Tools.md",
+    "Home Lab Docs/Networking/Untitled 2.md",
     "Home Lab Docs/Networking/Untitled 1.md",
+    "Home Lab Docs/Networking/Docker Network Tools.md",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking/IP Routes and Network Interfaces.md",
     "Home Lab Docs/Install Portainer.md",
     "Home Lab Docs/Networking/Iperf3.md",
@@ -191,7 +205,6 @@
     "Home Lab Docs/Debian and Linux/Ubuntu Orangepi.md",
     "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
     "Home Lab Docs/Debian and Linux/Customizing Linux/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
-    "Home Lab Docs/Debian and Linux/Customizing Linux/Nano Syntax Highlighting.md",
     "Keychron K8 pro",
     "Home Lab Docs/Networking",
     "Home Lab Docs/Fresh Install",
