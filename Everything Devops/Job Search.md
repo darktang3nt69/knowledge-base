@@ -62,3 +62,24 @@ Top 5 tools for Productivity and Collaboration tools
   
 Top Job search platform🚀  
 ⚡️ [Careerflow.ai](http://careerflow.ai/): [https://www.careerflow.ai/](https://www.careerflow.ai/)
+
+
+⚡️ Pangian - [https://pangian.com](https://pangian.com/)  
+⚡️ WeWorkRemotely - [https://lnkd.in/gU4Ux_xW](https://lnkd.in/gU4Ux_xW)  
+⚡️ ARC - [https://arc.dev](https://arc.dev/)  
+⚡️RemoteLeaf - [https://remoteleaf.com/](https://remoteleaf.com/)  
+⚡️ ZipRecuriter -[https://lnkd.in/dYpCQU8P](https://lnkd.in/dYpCQU8P)  
+⚡️ Indeed - [https://in.indeed.com/m/](https://in.indeed.com/m/)  
+⚡️ Remotive - [https://remotive.com](https://remotive.com/)  
+⚡️ JustRemote - [https://justremote.co/](https://justremote.co/)  
+⚡️ AngelList - [https://angel.co/](https://angel.co/)  
+⚡️ Jobspresso - [https://jobspresso.co/](https://jobspresso.co/)  
+⚡️ DailyRemote - [https://dailyremote.com/](https://dailyremote.com/)  
+⚡️ Working Nomads - [https://lnkd.in/geSbdqVG](https://lnkd.in/geSbdqVG)
+
+⚡️ Comparably - [https://lnkd.in/gztkfs9z](https://lnkd.in/gztkfs9z)  
+⚡️ Salary - [https://www.salary.com/](https://www.salary.com/)  
+⚡️ Payscale - [http://www.payscale.com/](http://www.payscale.com/)  
+⚡️ Glassdoor - [http://www.glassdoor.com/](http://www.glassdoor.com/)  
+⚡️ PaycheckCity - [https://lnkd.in/gAT3Di8r](https://lnkd.in/gAT3Di8r)
+

@@ -53,3 +53,10 @@ gem install colorls
 alias l="colorls -A --sd"
 alias ll="colorls -lA --sd"
 ```
+
+9. Error related to history file:
+```bash
+%% Check if the permissions or the ownership have to be changed. %%
+ls -ld $(dirname $HISTFILE)
+sudo chown $(whoami) $(dirname $HISTFILE) 
+```

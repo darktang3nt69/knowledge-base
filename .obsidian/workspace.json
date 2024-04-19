@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
+                "file": "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "passwordl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
+                "file": "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
+                "file": "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md"
+                "file": "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md"
               }
             }
           },
@@ -180,10 +179,14 @@
   },
   "active": "6c453de7f2e58b5d",
   "lastOpenFiles": [
+    "Home Lab Docs/Networking/Untitled 2.md",
+    "Home Lab Docs/Networking/Untitled 1.md",
+    "Everything Devops/GE.md",
+    "Everything Devops/Job Search new 1.md",
+    "Everything Devops/Job Search.md",
+    "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
     "Home Lab Docs/Networking/Docker Network Tools.md",
     "Home Lab Docs/Interesting Docker Containers.md",
-    "Home Lab Docs/Networking/Untitled 1.md",
-    "Home Lab Docs/Networking/Untitled 2.md",
     "My Cheat Sheets/Linux Administration (LFCS)/Networking/IP Routes and Network Interfaces.md",
     "Home Lab Docs/Install Portainer.md",
     "Home Lab Docs/Networking/Iperf3.md",
@@ -202,10 +205,6 @@
     "Home Lab Docs/Debian and Linux/Get CPU Temps.md",
     "Home Lab Docs/Debian and Linux/Customizing Linux/Make ZSH default shell.md",
     "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
-    "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
-    "Home Lab Docs/Debian and Linux/Ubuntu Orangepi.md",
-    "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
-    "Home Lab Docs/Debian and Linux/Customizing Linux/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
     "Keychron K8 pro",
     "Home Lab Docs/Networking",
     "Home Lab Docs/Fresh Install",
