@@ -59,4 +59,14 @@ alias ll="colorls -lA --sd"
 %% Check if the permissions or the ownership have to be changed. %%
 ls -ld $(dirname $HISTFILE)
 sudo chown $(whoami) $(dirname $HISTFILE) 
+
+# Add the following to .zshrc file
+if [ -f "$HOME/.zsh_history1" ]; then
+    chmod 600 "$HOME/.zsh_history1"
+fi
+
+HISTFILE="$HOME/.zsh_history1"
+HISTSIZE=10000
+SAVEHIST=10000
+setopt SHARE_HISTORY
 ```
