@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/Fish Feeder Project/Flash MicroPython into ESP8266.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e9cddd6e335b2201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Lab Docs/Networking/Untitled 2.md",
+                "file": "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/Fish Feeder Project/Flash MicroPython into ESP8266.md",
+                "file": "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/Fish Feeder Project/Flash MicroPython into ESP8266.md",
+                "file": "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab Docs/Fish Feeder Project/Flash MicroPython into ESP8266.md"
+                "file": "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md"
               }
             }
           },
@@ -179,11 +166,11 @@
   },
   "active": "6c453de7f2e58b5d",
   "lastOpenFiles": [
-    "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
     "Home Lab Docs/Fish Feeder Project/Flash MicroPython into ESP8266.md",
+    "Home Lab Docs/Networking/Untitled 2.md",
+    "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
     "Home Lab Docs/Fish Feeder Project/Untitled",
     "Home Lab Docs/Fish Feeder Project",
-    "Home Lab Docs/Networking/Untitled 2.md",
     "Home Lab Docs/Networking/Untitled 1.md",
     "Everything Devops/GE.md",
     "Everything Devops/Job Search new 1.md",
