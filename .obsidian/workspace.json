@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
+                "file": "Home Lab Docs/The arrs Stack/The Arr stack.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
+                "file": "Home Lab Docs/The arrs Stack/The Arr stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
+                "file": "Home Lab Docs/The arrs Stack/The Arr stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md"
+                "file": "Home Lab Docs/The arrs Stack/The Arr stack.md"
               }
             }
           },
@@ -166,34 +166,34 @@
   },
   "active": "6c453de7f2e58b5d",
   "lastOpenFiles": [
-    "Home Lab Docs/Fish Feeder Project/Flash MicroPython into ESP8266.md",
-    "Home Lab Docs/Networking/Untitled 2.md",
-    "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
-    "Home Lab Docs/Fish Feeder Project/Untitled",
-    "Home Lab Docs/Fish Feeder Project",
-    "Home Lab Docs/Networking/Untitled 1.md",
-    "Everything Devops/GE.md",
-    "Everything Devops/Job Search new 1.md",
-    "Everything Devops/Job Search.md",
-    "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
-    "Home Lab Docs/Networking/Docker Network Tools.md",
-    "Home Lab Docs/Interesting Docker Containers.md",
-    "My Cheat Sheets/Linux Administration (LFCS)/Networking/IP Routes and Network Interfaces.md",
-    "Home Lab Docs/Install Portainer.md",
-    "Home Lab Docs/Networking/Iperf3.md",
-    "Home Lab Docs/Networking/Untitled.md",
-    "Home Lab Docs/The arrs Stack/Plex.md",
-    "Home Lab Docs/The arrs Stack/The Arr stack.md",
-    "Home Lab Docs/The arrs Stack/Recyclarr.md",
     "Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
-    "Home Lab Docs/opensense.md",
-    "Home Lab Docs/Authentik.md",
-    "Home Lab Docs/The arrs Stack/WatchState.md",
+    "Home Lab Docs/Debian and Linux/Networking/Setup Samba Share.md",
+    "Home Lab Docs/The arrs Stack/The Arr stack.md",
     "Home Lab Docs/The arrs Stack/Deleterr.md",
-    "Home Lab Docs/Debian and Linux/Know the package manager in Linux.md",
-    "Home Lab Docs/Debian and Linux/Add user to sudo.md",
+    "Home Lab Docs/Networking/Iperf3.md",
+    "Home Lab Docs/Networking/Docker Network Tools.md",
+    "Home Lab Docs/Fish Feeder Project/Flash MicroPython into ESP8266.md",
+    "Home Lab Docs/Install Portainer.md",
+    "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
+    "My Cheat Sheets/Docker/Docker Study Plan.md",
+    "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
+    "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
+    "Home Lab Docs/Interesting Docker Containers.md",
+    "Home Lab Docs/opensense.md",
+    "Home Lab Docs/Installing Joshua's Ubuntu.md",
+    "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
     "Home Lab Docs/Debian and Linux/All About GUI in Debian.md",
     "Home Lab Docs/Debian and Linux/Get CPU Temps.md",
+    "Home Lab Docs/Debian and Linux/Get Exit code of previously executed Command.md",
+    "Home Lab Docs/Debian and Linux/Heredoc Syntax.md",
+    "Home Lab Docs/Debian and Linux/Installation of Debian 11.md",
+    "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
+    "Home Lab Docs/Debian and Linux/Add user to sudo.md",
+    "Home Lab Docs/Debian and Linux/Networking/Nginx Proxy Manager.md",
+    "Home Lab Docs/Debian and Linux/Networking/Setting Static IP in Debian.md",
+    "Home Lab Docs/Debian and Linux/Networking/WiFi.md",
+    "Home Lab Docs/Fish Feeder Project/Untitled",
+    "Home Lab Docs/Fish Feeder Project",
     "Keychron K8 pro",
     "Home Lab Docs/Networking",
     "Home Lab Docs/Fresh Install",

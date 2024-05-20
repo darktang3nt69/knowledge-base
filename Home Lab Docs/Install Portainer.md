@@ -4,6 +4,7 @@
 
 ```bash
 docker volume create portainer_data
+docker network create the-arrs
 ```
 
 
