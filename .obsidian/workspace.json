@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/Install Portainer.md",
+                "file": "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/Install Portainer.md",
+                "file": "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/Install Portainer.md",
+                "file": "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab Docs/Install Portainer.md"
+                "file": "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   },
   "active": "6c453de7f2e58b5d",
   "lastOpenFiles": [
+    "Home Lab Docs/Debian and Linux/Customizing Linux/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
+    "Home Lab Docs/Install Portainer.md",
     "Home Lab Docs/The arrs Stack/The Arr stack.md",
     "Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
     "Home Lab Docs/Debian and Linux/Networking/Setup Samba Share.md",
@@ -173,7 +175,6 @@
     "Home Lab Docs/Networking/Iperf3.md",
     "Home Lab Docs/Networking/Docker Network Tools.md",
     "Home Lab Docs/Fish Feeder Project/Flash MicroPython into ESP8266.md",
-    "Home Lab Docs/Install Portainer.md",
     "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
     "My Cheat Sheets/Docker/Docker Study Plan.md",
     "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
@@ -191,7 +192,6 @@
     "Home Lab Docs/Debian and Linux/Add user to sudo.md",
     "Home Lab Docs/Debian and Linux/Networking/Nginx Proxy Manager.md",
     "Home Lab Docs/Debian and Linux/Networking/Setting Static IP in Debian.md",
-    "Home Lab Docs/Debian and Linux/Networking/WiFi.md",
     "Home Lab Docs/Fish Feeder Project/Untitled",
     "Home Lab Docs/Fish Feeder Project",
     "Keychron K8 pro",
