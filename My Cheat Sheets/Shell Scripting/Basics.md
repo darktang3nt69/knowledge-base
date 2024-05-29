@@ -48,7 +48,7 @@
 | Special Variables | Description                                         |
 | ----------------- | --------------------------------------------------- |
 | `$0`              | Name of the bash script. Based on how it is called. |
-| `$!`,`$2`...`$n`  | Bash script Arguments.                              |
+| `$1`,`$2`...`$n`  | Bash script Arguments.                              |
 | `$$`              | Process ID of the current shell.                    |
 | `$#`              | Total no. of arguments passed to the script.        |
 | `$@`              | Value of all arguments passed to the script.        |
