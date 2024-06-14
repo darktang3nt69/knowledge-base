@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Christian's Cheat Sheets/apps/teleport.md",
+                "file": "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Christian's Cheat Sheets/apps/teleport.md",
+                "file": "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Christian's Cheat Sheets/apps/teleport.md",
+                "file": "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Christian's Cheat Sheets/apps/teleport.md"
+                "file": "Christian's Cheat Sheets/Christian's Cheat Sheets.md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,6 +166,16 @@
   },
   "active": "6c453de7f2e58b5d",
   "lastOpenFiles": [
+    "Christian's Cheat Sheets/windows/windows-updates.md",
+    "Christian's Cheat Sheets/windows/windows-terminal.md",
+    "Christian's Cheat Sheets/windows/windows-server.md",
+    "Christian's Cheat Sheets/windows/windows-dns-server.md",
+    "Christian's Cheat Sheets/windows/powershell-remote.md",
+    "Christian's Cheat Sheets/windows/powershell.md",
+    "Christian's Cheat Sheets/windows/environment-variables-in-windows.md",
+    "Christian's Cheat Sheets/windows/chocolatey.md",
+    "Christian's Cheat Sheets/windows/certutil.md",
+    "Christian's Cheat Sheets/apps/teleport.md",
     "Christian's Cheat Sheets/apps/tailscale.md",
     "Christian's Cheat Sheets/apps/grafana.md",
     "Christian's Cheat Sheets/apps/nginx.md",
@@ -172,7 +183,6 @@
     "tools/openssl.md",
     "tools",
     "SECURITY.md",
-    "Christian's Cheat Sheets/windows/windows-server.md",
     "Christian's Cheat Sheets/windows/environment-vars.md",
     "Christian's Cheat Sheets/tools/kubectl.md",
     "Christian's Cheat Sheets/tools/helm.md",
@@ -183,15 +193,6 @@
     "Home Lab Docs/Debian and Linux/Mother of all Linux Cheatsheets.md",
     "Home Lab Docs/Debian and Linux/Remote Desktop Client.md",
     "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
-    "Home Lab Docs/Debian and Linux/Heredoc Syntax.md",
-    "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
-    "Home Lab Docs/Debian and Linux/Customizing Linux/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
-    "Home Lab Docs/Debian and Linux/Customizing Linux/Nano Syntax Highlighting.md",
-    "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
-    "Christian's Cheat Sheets/kubernetes/kubernetes-dns.md",
-    "Christian's Cheat Sheets/kubernetes/kubernetes.md",
-    "Christian's Cheat Sheets/kubernetes/kubectl.md",
-    "Christian's Cheat Sheets/kubernetes/k3s.md",
     "Home Lab Docs/Fish Feeder Project/Untitled",
     "Home Lab Docs/Fish Feeder Project",
     "Keychron K8 pro",
