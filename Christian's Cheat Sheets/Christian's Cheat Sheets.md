@@ -17,6 +17,7 @@
 	- [[traefik]]
 - [[Christian's Cheat Sheets]]
 - **cloud**
+	- [[civo]]
 	- **provider**
 		- [[civo]]
 		- [[digitalocean]]
@@ -34,6 +35,8 @@
 - **hardware**
 	- [[aspm]]
 - **infra**
+	- [[mysql]]
+	- [[postgresql]]
 	- [[proxmox-certificate-management]]
 	- [[proxmox-terraform]]
 	- [[proxmox]]
@@ -83,7 +86,7 @@
 - **networking**
 	- [[dns-record-mailserver]]
 	- [[dns-record-types]]
-	- [[Christian's Cheat Sheets/networking/dns]]
+	- [[dns]]
 	- [[dnssec]]
 	- [[smtp]]
 	- [[tcp]]
@@ -97,13 +100,16 @@
 	- [[chocolatey]]
 	- [[datree]]
 	- [[direnv]]
+	- [[docker]]
 	- [[git]]
+	- [[helm]]
 	- [[homebrew]]
 	- [[iterm2]]
+	- [[kubectl]]
 	- [[nmap]]
 	- [[openssh]]
 	- [[openssl]]
-	- [[Christian's Cheat Sheets/tools/packer]]
+	- [[packer]]
 	- [[starship]]
 	- [[vagrant]]
 	- [[vscode]]
@@ -112,9 +118,11 @@
 	- [[certutil]]
 	- [[chocolatey]]
 	- [[environment-variables-in-windows]]
+	- [[environment-vars]]
 	- [[powershell-remote]]
 	- [[powershell]]
 	- [[windows-dns-server]]
+	- [[windows-server]]
 	- [[windows-terminal]]
 	- [[windows-updates]]
 
