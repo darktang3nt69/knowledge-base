@@ -1,0 +1,123 @@
+%% Begin Waypoint %%
+- **Ansible**
+	- [[Ansible Advanced]]
+	- [[Blocks]]
+	- [[Built-in Ansible_Variables]]
+	- [[Failure Handling]]
+	- [[Installing Ansible]]
+	- [[Intro to Ansible]]
+	- [[Inventory File]]
+	- [[Lookups]]
+	- [[Modules]]
+	- [[Strategies]]
+	- [[Variables]]
+- **AWS**
+	- **AWS CLI**
+		- [[Basic EC2 Management]]
+		- [[IAM]]
+		- [[IP address (Elastic IP)]]
+		- [[S3]]
+	- [[CloudFormation Templates]]
+- **Deployment Stratagies**
+	- [[Canary Release]]
+- **Docker**
+	- [[Docker Study Plan]]
+	- **Docker-networking**
+		- [[Bridge Networks]]
+		- [[Container networking]]
+		- **[[docker images]]**
+			- [[docker images]]
+		- [[Docker Network Deep Dive]]
+		- [[Host Networking]]
+		- [[IPvlan Networks]]
+		- [[Macvlan Network]]
+		- [[Networking overview]]
+	- **Installation**
+		- [[Install Docker Compose]]
+		- [[Installation of Docker]]
+		- [[Linux post-installation steps for Docker Engine]]
+	- [[Macvlan]]
+	- **Storage**
+		- [[Overview]]
+		- [[Volumes]]
+	- [[When to `exec` and when to 'attach']]
+- **[[Jenkins]]**
+	- [[Basics]]
+	- [[Jenkins End to End Projects]]
+	- [[Jenkins]]
+	- [[Pipelines Examples]]
+	- [[sonarqube]]
+- **K8s**
+	- [[How to Learn Kubernetes (Complete Roadmap & Resources)]]
+	- **K8s Yamls**
+		- [[Kubectl Cheatsheet]]
+		- **Pods**
+			- [[Pod Example Yamls]]
+		- [[testing]]
+	- [[Kubeconfig File Explained With Practical Examples]]
+	- [[Kubectl Cheat Sheet]]
+	- [[Kubernetes Architecture Explained]]
+	- [[Kubernetes Objects Vs Resources Vs Custom Resource]]
+	- [[Kubernetes Pod Priority, PriorityClass, and Preemption Explained]]
+	- **Objects**
+		- [[Kubernetes Object definitions]]
+	- [[Service Discovery]]
+	- **Services, Networking. etc**
+		- [[Cluster IP]]
+	- **Workload Resources**
+		- **[[Deployments]]**
+			- [[Creating a Deployment]]
+			- [[Delete HPA (Horizontal Pod Autoscalar), VPA(Vertical Pod Autoscalar) and Cluster Autoscaler]]
+			- [[Deployment Status]]
+			- [[Deployments]]
+			- [[Pausing and Resuming a rollout of a Deployment]]
+			- [[Rolling back a Deployment]]
+			- [[Rollover and Label Selector]]
+			- [[Scaling a Deployment]]
+			- [[Updating a Deployment]]
+		- **[[Jobs]]**
+			- [[Jobs]]
+			- [[Writing a Job spec]]
+		- **[[Pods]]**
+			- [[Ephemeral Containers]]
+			- [[Init Containers]]
+			- [[Pod Lifecycle]]
+			- **Pods Handson**
+				- [[Assign Pods to Nodes]]
+				- [[Deploy a pod]]
+			- [[Pods]]
+		- **[[Replica Sets]]**
+			- [[Replica Sets]]
+		- **StatefulSets**
+			- [[Components]]
+			- [[StatefulSet]]
+- **Keychron**
+	- [[Keychron Custom firmware]]
+- **Linux Administration (LFCS)**
+	- [[Linux Commands]]
+	- **Networking**
+		- [[IP Routes and Network Interfaces]]
+		- [[Networking Commands]]
+- [[Mother of all Indices.]]
+- [[My Cheat Sheets]]
+- **[[Packer]]**
+	- [[Packer]]
+- **Python**
+	- [[Python Cheat Sheets]]
+- [[Rough Notes]]
+- [[Security Tools in devops]]
+- **Shell Scripting**
+	- [[Basics]]
+- **[[Terraform]]**
+	- [[Datasources]]
+	- [[Hashicorp Configuration Language(Terraform Language)]]
+	- [[How-to Guides]]
+	- [[Meta Arguments]]
+	- [[Terraform CLI]]
+	- [[Terraform Lifecycle Meta Argument]]
+	- [[Terraform State]]
+	- [[Terraform Workflow]]
+	- [[Terraform]]
+	- [[Using vars in terraform configuration files]]
+
+%% End Waypoint %%

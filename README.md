@@ -1,7 +1,8 @@
-# Christian's "Cheat-Sheets"
+# Lokesh's "Cheat-Sheets"
 
 [![Welcome](https://cnd-prod-1.s3.us-west-004.backblazeb2.com/new-banner4-scaled-for-github.jpg)](https://youtu.be/apgp9egIKK8)
 
+<<<<<<< HEAD
 **Hey, there!**
 
 **I’m Christian, and I’m passionate about creating educational tech content for IT Pros and Homelab nerds.**
@@ -30,3 +31,8 @@ Creating high-quality videos and valuable resources that are accessible to every
 Remember, ***supporting me is entirely optional.*** Your choice to become a member or not won't change your access to my videos and resources. You are also welcome to reach out to me on Discord, if you have any questions or feedback.
 
 [https://www.patreon.com/christianlempa](https://www.patreon.com/christianlempa)
+=======
+I’m Lokesh.
+
+This Repo is direct fork of Christian Lempa's along with My Notes.
+>>>>>>> main

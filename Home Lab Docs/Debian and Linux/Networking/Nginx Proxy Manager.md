@@ -1,0 +1,1 @@
+The issue was caused by a proxy_host that was assigned an ssl certificate that had been deleted. I managed to fix it by navigating to the data volume and into /nginx/proxy_host, and deleting the *.conf files that were referring to the deleted certificate.

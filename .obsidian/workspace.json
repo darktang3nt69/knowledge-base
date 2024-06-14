@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "ea223b8030fb7f93",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e86bc88d7432514",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c453de7f2e58b5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Lab Docs/Debian and Linux/Mother of all Linux Cheatsheets.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08fd4e29354a7ce7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7729e078ca3593af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3c61c32416b9aa4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa8ed13d65fae360",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b69955822c94760e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "388887a9d68de1d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c624004d93cd66e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "660c2f40f7c054bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home Lab Docs/Debian and Linux/Mother of all Linux Cheatsheets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a8fea8d032d8d46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home Lab Docs/Debian and Linux/Mother of all Linux Cheatsheets.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa305072970a2428",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fdc608608ca3cf43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home Lab Docs/Debian and Linux/Mother of all Linux Cheatsheets.md"
+              }
+            }
+          },
+          {
+            "id": "a7837429fd83126a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "433958ca1d42f1c5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "6c453de7f2e58b5d",
+  "lastOpenFiles": [
+    "Home Lab Docs/Debian and Linux/Remote Desktop Client.md",
+    "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
+    "Home Lab Docs/Debian and Linux/Heredoc Syntax.md",
+    "Home Lab Docs/Debian and Linux/Customizing Linux/Terminal.md",
+    "Home Lab Docs/Debian and Linux/Customizing Linux/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
+    "Home Lab Docs/Debian and Linux/Customizing Linux/Nano Syntax Highlighting.md",
+    "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
+    "Christian's Cheat Sheets/kubernetes/kubernetes-dns.md",
+    "Christian's Cheat Sheets/kubernetes/kubernetes.md",
+    "Christian's Cheat Sheets/kubernetes/kubectl.md",
+    "Christian's Cheat Sheets/kubernetes/k3s.md",
+    "Christian's Cheat Sheets/kubernetes/helm.md",
+    "Christian's Cheat Sheets/hardware/aspm.md",
+    "Christian's Cheat Sheets/docker/docker-networking.md",
+    "Christian's Cheat Sheets/docker/docker-file.md",
+    "Christian's Cheat Sheets/docker/docker-compose.md",
+    "Christian's Cheat Sheets/docker/docker.md",
+    "My Cheat Sheets/Jenkins/Basics.md",
+    "My Cheat Sheets/Linux Administration (LFCS)/Networking/Networking Commands.md",
+    "My Cheat Sheets/Docker/Storage/Overview.md",
+    "My Cheat Sheets/Docker/Storage/Volumes.md",
+    "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
+    "My Cheat Sheets/Shell Scripting/Basics.md",
+    "Home Lab Docs/Install Portainer.md",
+    "Home Lab Docs/The arrs Stack/The Arr stack.md",
+    "Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
+    "Home Lab Docs/Fish Feeder Project/Untitled",
+    "Home Lab Docs/Fish Feeder Project",
+    "Keychron K8 pro",
+    "Home Lab Docs/Networking",
+    "Home Lab Docs/Fresh Install",
+    "My Cheat Sheets/Deployment Stratagies",
+    "My Cheat Sheets/AWS/AWS CLI",
+    "My Cheat Sheets/AWS",
+    "My Cheat Sheets/Packer",
+    "My Cheat Sheets/Jenkins",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet8.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet7.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet6.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet5.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet4.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet3.png",
+    "My Cheat Sheets/Docker/Docker-networking/docker images/dockercheatsheet1.png"
+  ]
+}
