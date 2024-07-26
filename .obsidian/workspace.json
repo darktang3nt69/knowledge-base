@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "988e72edc05891fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6c453de7f2e58b5d",
+  "active": "988e72edc05891fc",
   "lastOpenFiles": [
     "Christian's Cheat Sheets/windows/windows-updates.md",
     "Christian's Cheat Sheets/windows/windows-terminal.md",
