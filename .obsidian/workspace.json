@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
+                "file": "Keychron K8 pro/Keychron K8 Pro custom firmware.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "988e72edc05891fc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
+                "file": "Keychron K8 pro/Keychron K8 Pro custom firmware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
+                "file": "Keychron K8 pro/Keychron K8 Pro custom firmware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Christian's Cheat Sheets/Christian's Cheat Sheets.md"
+                "file": "Keychron K8 pro/Keychron K8 Pro custom firmware.md"
               }
             }
           },
@@ -175,8 +164,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "988e72edc05891fc",
+  "active": "6c453de7f2e58b5d",
   "lastOpenFiles": [
+    "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
     "Christian's Cheat Sheets/windows/windows-updates.md",
     "Christian's Cheat Sheets/windows/windows-terminal.md",
     "Christian's Cheat Sheets/windows/windows-server.md",
@@ -203,7 +193,6 @@
     "Christian's Cheat Sheets/cloud/civo.md",
     "Home Lab Docs/Debian and Linux/Mother of all Linux Cheatsheets.md",
     "Home Lab Docs/Debian and Linux/Remote Desktop Client.md",
-    "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
     "Home Lab Docs/Fish Feeder Project/Untitled",
     "Home Lab Docs/Fish Feeder Project",
     "Keychron K8 pro",

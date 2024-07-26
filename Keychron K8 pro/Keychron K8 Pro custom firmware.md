@@ -7,7 +7,7 @@ There are a few things we need to do in preparation. Which is basically clone th
 -  Clone the repo in a directory of your choosing, and change directories to the newly-cloned repo
 
 ```
-git clone https://github.com/Keychron/qmk_firmware.git && cd qmk_firmware
+git clone https://github.com/Keychron/qmk_firmware.git && cd .\qmk_firmware\
 ```
 
 - In the next section, QMK will call out not having the official firmware as an upstream, so let's satisfy that request:
@@ -31,7 +31,7 @@ git switch bluetooth_playground
 
 - Since, I already have a repo with custom layout. use the following repo. Make sure to sync upstream.
 ```
-git clone https://github.com/darktang3nt69/qmk_firmware.git && cd qmk_firmware
+git clone https://github.com/darktang3nt69/qmk_firmware.git && cd .\qmk_firmware\
 git switch bluetooth_playground
 ```
 
@@ -72,7 +72,7 @@ cp -R keyboards/keychron/k8_pro/ansi/rgb/keymaps/via keyboards/keychron/k8_pro/a
 - At this point you could try to compile your new one (which should be the same as the via one that we tested above) with
 
 ```
-qmk compile -km mynewmap
+qmk compile -km mouse_movement
 ```
 
 - Now with that change, we are going to compile for real this time:
