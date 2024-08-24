@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e86bc88d7432514",
+        "id": "8332f8414497c886",
         "type": "tabs",
         "children": [
           {
-            "id": "6c453de7f2e58b5d",
+            "id": "7aa50c59573fa284",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keychron K8 pro/Keychron K8 Pro custom firmware.md",
+                "file": "Everything Devops/Resume.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Keychron K8 pro/Keychron K8 Pro custom firmware.md",
+                "file": "Everything Devops/Resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Keychron K8 pro/Keychron K8 Pro custom firmware.md",
+                "file": "Everything Devops/Resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Keychron K8 pro/Keychron K8 Pro custom firmware.md"
+                "file": "Everything Devops/Resume.md"
               }
             }
           },
@@ -164,8 +164,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6c453de7f2e58b5d",
+  "active": "7aa50c59573fa284",
   "lastOpenFiles": [
+    "Everything Devops/Devops Projects to add to resume.md",
+    "Everything Devops/Devops Courses.md",
+    "Everything Devops/Devops.md",
+    "Keychron K8 pro/Keychron K8 Pro custom firmware.md",
     "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
     "Christian's Cheat Sheets/windows/windows-updates.md",
     "Christian's Cheat Sheets/windows/windows-terminal.md",
@@ -189,10 +193,6 @@
     "Christian's Cheat Sheets/tools/helm.md",
     "Christian's Cheat Sheets/tools/docker.md",
     "Christian's Cheat Sheets/infra/postgresql.md",
-    "Christian's Cheat Sheets/infra/mysql.md",
-    "Christian's Cheat Sheets/cloud/civo.md",
-    "Home Lab Docs/Debian and Linux/Mother of all Linux Cheatsheets.md",
-    "Home Lab Docs/Debian and Linux/Remote Desktop Client.md",
     "Home Lab Docs/Fish Feeder Project/Untitled",
     "Home Lab Docs/Fish Feeder Project",
     "Keychron K8 pro",
