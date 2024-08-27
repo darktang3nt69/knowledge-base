@@ -1,0 +1,1 @@
+1. **What is KVM?**: KVM (Kernel-based Virtual Machine) is a popular open-source virtualization technology built into the Linux kernel. It allows you to run multiple virtual machines (VMs) on a single physical host, each with its own operating system, effectively turning a Linux system into a hypervisor.

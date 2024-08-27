@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Datasources.md",
+                "file": "AMD Prep/KVM.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Datasources.md",
+                "file": "AMD Prep/KVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Datasources.md",
+                "file": "AMD Prep/KVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Datasources.md"
+                "file": "AMD Prep/KVM.md"
               }
             }
           },
@@ -179,13 +179,17 @@
   },
   "active": "7aa50c59573fa284",
   "lastOpenFiles": [
+    "AMD Prep/Topics to prepare.md",
+    "AMD Prep/KVM.md",
+    "My Cheat Sheets/Ansible/Ansible Advanced.md",
+    "My Cheat Sheets/Terraform/Datasources.md",
+    "AMD Prep",
     "My Cheat Sheets/Terraform/Terraform Lifecycle Meta Argument.md",
     "My Cheat Sheets/Terraform/Meta Arguments.md",
     "My Cheat Sheets/Terraform/Terraform CLI.md",
     "My Cheat Sheets/Terraform/Terraform.md",
     "My Cheat Sheets/Terraform/Terraform Workflow.md",
     "My Cheat Sheets/Terraform/How-to Guides.md",
-    "My Cheat Sheets/Terraform/Datasources.md",
     "My Cheat Sheets/K8s/Service Discovery.md",
     "My Cheat Sheets/K8s/Kubernetes Pod Priority, PriorityClass, and Preemption Explained.md",
     "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md",
@@ -202,9 +206,6 @@
     "My Cheat Sheets/K8s/K8s Yamls/testing.md",
     "My Cheat Sheets/K8s/K8s Yamls/Pods/Pod Example Yamls.md",
     "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
-    "My Cheat Sheets/Python/Python Cheat Sheets.md",
-    "My Cheat Sheets/Jenkins/sonarqube.md",
-    "My Cheat Sheets/Jenkins/Pipelines Examples.md",
     "My Cheat Sheets/Docker/Docker-networking/docker images/docker-bridge-network-2.png",
     "tools",
     "Home Lab Docs/Fish Feeder Project/Untitled",
@@ -215,7 +216,6 @@
     "My Cheat Sheets/Deployment Stratagies",
     "My Cheat Sheets/AWS/AWS CLI",
     "My Cheat Sheets/AWS",
-    "My Cheat Sheets/Packer",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",
