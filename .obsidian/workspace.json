@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7aa50c59573fa284",
+            "id": "44d78f8c7d599294",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Terraform.md",
+                "file": "My Cheat Sheets/Ansible/Inventory File.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "44d78f8c7d599294",
+            "id": "6f5ff192189019eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/K8s/K8s Yamls/Pods/Pod Example Yamls.md",
+                "file": "My Cheat Sheets/Ansible/Ansible Advanced.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Terraform.md",
+                "file": "My Cheat Sheets/Ansible/Inventory File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Terraform.md",
+                "file": "My Cheat Sheets/Ansible/Inventory File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Terraform.md"
+                "file": "My Cheat Sheets/Ansible/Inventory File.md"
               }
             }
           },
@@ -177,17 +177,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7aa50c59573fa284",
+  "active": "44d78f8c7d599294",
   "lastOpenFiles": [
-    "AMD Prep/KVM.md",
-    "AMD Prep/Topics to prepare.md",
+    "AMD Prep/Ansible.md",
+    "My Cheat Sheets/Ansible/Inventory File.md",
     "My Cheat Sheets/Ansible/Ansible Advanced.md",
+    "My Cheat Sheets/Ansible/Intro to Ansible.md",
+    "My Cheat Sheets/Ansible/Installing Ansible.md",
+    "My Cheat Sheets/Ansible/Failure Handling.md",
+    "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md",
+    "My Cheat Sheets/Ansible/Blocks.md",
+    "My Cheat Sheets/Ansible/Lookups.md",
+    "AMD Prep/Topics to prepare.md",
+    "AMD Prep/KVM.md",
+    "My Cheat Sheets/K8s/K8s Yamls/Pods/Pod Example Yamls.md",
+    "My Cheat Sheets/Terraform/Terraform.md",
     "My Cheat Sheets/Terraform/Datasources.md",
     "AMD Prep",
     "My Cheat Sheets/Terraform/Terraform Lifecycle Meta Argument.md",
     "My Cheat Sheets/Terraform/Meta Arguments.md",
     "My Cheat Sheets/Terraform/Terraform CLI.md",
-    "My Cheat Sheets/Terraform/Terraform.md",
     "My Cheat Sheets/Terraform/Terraform Workflow.md",
     "My Cheat Sheets/Terraform/How-to Guides.md",
     "My Cheat Sheets/K8s/Service Discovery.md",
@@ -197,15 +206,6 @@
     "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
     "My Cheat Sheets/K8s/Kubeconfig File Explained With Practical Examples.md",
     "My Cheat Sheets/K8s/How to Learn Kubernetes (Complete Roadmap & Resources).md",
-    "My Cheat Sheets/K8s/Workload Resources/Replica Sets/Replica Sets.md",
-    "My Cheat Sheets/K8s/Workload Resources/Pods/Pod Lifecycle.md",
-    "My Cheat Sheets/K8s/Workload Resources/Pods/Pods.md",
-    "My Cheat Sheets/K8s/Workload Resources/Deployments/Deployments.md",
-    "My Cheat Sheets/K8s/Services, Networking. etc/Cluster IP.md",
-    "My Cheat Sheets/K8s/Objects/Kubernetes Object definitions.md",
-    "My Cheat Sheets/K8s/K8s Yamls/testing.md",
-    "My Cheat Sheets/K8s/K8s Yamls/Pods/Pod Example Yamls.md",
-    "My Cheat Sheets/K8s/K8s Yamls/Kubectl Cheatsheet.md",
     "My Cheat Sheets/Docker/Docker-networking/docker images/docker-bridge-network-2.png",
     "tools",
     "Home Lab Docs/Fish Feeder Project/Untitled",

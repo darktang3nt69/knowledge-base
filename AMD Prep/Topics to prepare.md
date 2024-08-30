@@ -6,3 +6,4 @@
 7. google --- compute units
 8. oci --- basics
 9. virtualization
+10. Ansible

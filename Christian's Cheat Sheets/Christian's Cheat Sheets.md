@@ -95,7 +95,7 @@
 	- [[wireguard]]
 - **tools**
 	- [[1password]]
-	- [[ansible]]
+	- [[Christian's Cheat Sheets/tools/ansible]]
 	- [[bitwarden]]
 	- [[chocolatey]]
 	- [[datree]]

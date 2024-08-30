@@ -20,7 +20,7 @@
 6. **More Ansible variables**:
      1. **ansible_host**: represents the FQDN/URL for the Managed Node.
      2. **ansible_connection**: States the connection to use to connect to the host. `ssh` for Linux and `winrm` for windows.
-     3. **ansible_user**: Which user to use. For ex: `root` for Linux and 'administrator' for Windows.
+     3. **ansible_user**: Which user to use. For ex: `root` for Linux and `administrator` for Windows.
      4. **ansible_password/ansible_ssh_pass**: `ansible_password` for Windows and   `ansible_ssh_pass` for linux
      ```ini
      #Web Servers
