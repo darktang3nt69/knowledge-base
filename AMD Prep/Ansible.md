@@ -17,3 +17,4 @@ ANSIBLE_CONFIG=/path/to/custom/config.cfg ansible-playbook playbook.yml # custom
     2. `ansible-config view # shows current file`
     3. `ansible-config dump # shows active config after the precedence order. Also, shows where/how it picked that value.`
 4. [**Inventory File**](obsidian://open?vault=knowledge-base&file=My%20Cheat%20Sheets%2FAnsible%2FInventory%20File)
+5. [**Variables**](obsidian://open?vault=knowledge-base&file=My%20Cheat%20Sheets%2FAnsible%2FVariables):

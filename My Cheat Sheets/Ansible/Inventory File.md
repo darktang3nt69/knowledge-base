@@ -143,7 +143,7 @@
     northwest
     ```
 
-15. To  access vars associated with other hosts use the following template, 
+15. To  access vars associated with other hosts use the following template, MAGIC VARS: hostvars
     ```bash
     '{{ hostvars['name of the host'].var_name }}'
     ```

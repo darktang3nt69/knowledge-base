@@ -14,19 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "My Cheat Sheets/Ansible/Inventory File.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6f5ff192189019eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Cheat Sheets/Ansible/Ansible Advanced.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -180,16 +167,19 @@
   "active": "44d78f8c7d599294",
   "lastOpenFiles": [
     "AMD Prep/Ansible.md",
+    "My Cheat Sheets/Ansible/Intro to Ansible.md",
+    "AMD Prep/KVM.md",
+    "My Cheat Sheets/Ansible/Strategies.md",
+    "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md",
+    "My Cheat Sheets/Ansible/Variables.md",
+    "My Cheat Sheets/Ansible/Vars.md",
     "My Cheat Sheets/Ansible/Inventory File.md",
     "My Cheat Sheets/Ansible/Ansible Advanced.md",
-    "My Cheat Sheets/Ansible/Intro to Ansible.md",
     "My Cheat Sheets/Ansible/Installing Ansible.md",
     "My Cheat Sheets/Ansible/Failure Handling.md",
-    "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md",
     "My Cheat Sheets/Ansible/Blocks.md",
     "My Cheat Sheets/Ansible/Lookups.md",
     "AMD Prep/Topics to prepare.md",
-    "AMD Prep/KVM.md",
     "My Cheat Sheets/K8s/K8s Yamls/Pods/Pod Example Yamls.md",
     "My Cheat Sheets/Terraform/Terraform.md",
     "My Cheat Sheets/Terraform/Datasources.md",
@@ -203,9 +193,6 @@
     "My Cheat Sheets/K8s/Kubernetes Pod Priority, PriorityClass, and Preemption Explained.md",
     "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md",
     "My Cheat Sheets/K8s/Kubernetes Objects Vs Resources Vs Custom Resource.md",
-    "My Cheat Sheets/K8s/Kubectl Cheat Sheet.md",
-    "My Cheat Sheets/K8s/Kubeconfig File Explained With Practical Examples.md",
-    "My Cheat Sheets/K8s/How to Learn Kubernetes (Complete Roadmap & Resources).md",
     "My Cheat Sheets/Docker/Docker-networking/docker images/docker-bridge-network-2.png",
     "tools",
     "Home Lab Docs/Fish Feeder Project/Untitled",
