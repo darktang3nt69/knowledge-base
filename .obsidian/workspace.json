@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Inventory File.md",
+                "file": "My Cheat Sheets/Ansible/Variables.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Inventory File.md",
+                "file": "My Cheat Sheets/Ansible/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Inventory File.md",
+                "file": "My Cheat Sheets/Ansible/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Inventory File.md"
+                "file": "My Cheat Sheets/Ansible/Variables.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "44d78f8c7d599294",
   "lastOpenFiles": [
+    "My Cheat Sheets/Ansible/Inventory File.md",
     "AMD Prep/Ansible.md",
     "My Cheat Sheets/Ansible/Intro to Ansible.md",
     "AMD Prep/KVM.md",
@@ -173,7 +174,6 @@
     "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md",
     "My Cheat Sheets/Ansible/Variables.md",
     "My Cheat Sheets/Ansible/Vars.md",
-    "My Cheat Sheets/Ansible/Inventory File.md",
     "My Cheat Sheets/Ansible/Ansible Advanced.md",
     "My Cheat Sheets/Ansible/Installing Ansible.md",
     "My Cheat Sheets/Ansible/Failure Handling.md",
