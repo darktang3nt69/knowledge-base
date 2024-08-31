@@ -142,3 +142,16 @@
     southwest
     northwest
     ```
+
+15. To  access vars associated with other hosts use the following template, 
+    ```bash
+    '{{ hostvars['name of the host'].var_name }}'
+    ```
+    ```yaml
+    - name: print dns server
+      hosts: all
+      tasks:
+       - debug:
+          msg: '{{ hostvars['name of the host'].ansible_host }}'
+          msg: '{{ hostvars['name of the host'].ansible_facts.architecture }}' # access facts of other hosts
+    ```
