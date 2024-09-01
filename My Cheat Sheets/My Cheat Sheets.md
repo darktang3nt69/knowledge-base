@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - **Ansible**
 	- [[Ansible Advanced]]
+	- [[Ansible Windows]]
 	- [[Blocks]]
 	- [[Built-in Ansible_Variables]]
 	- [[Failure Handling]]

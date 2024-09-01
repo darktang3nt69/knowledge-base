@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
+                "file": "My Cheat Sheets/Ansible/Ansible Windows.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
+                "file": "My Cheat Sheets/Ansible/Ansible Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
+                "file": "My Cheat Sheets/Ansible/Ansible Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md"
+                "file": "My Cheat Sheets/Ansible/Ansible Windows.md"
               }
             }
           },
@@ -166,11 +166,19 @@
   },
   "active": "44d78f8c7d599294",
   "lastOpenFiles": [
+    "My Cheat Sheets/Ansible/Strategies.md",
+    "My Cheat Sheets/Ansible/Ansible Windows.md",
+    "My Cheat Sheets/Ansible/Ansible Advanced.md",
+    "My Cheat Sheets/Ansible/Variables.md",
+    "AMD Prep/Ansible.md",
+    "AMD Prep/KVM.md",
+    "AMD Prep/Topics to prepare.md",
+    "My Cheat Sheets/Ansible/Intro to Ansible.md",
+    "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
     "My Cheat Sheets/Docker/Macvlan.md",
     "My Cheat Sheets/Docker/Docker Study Plan.md",
     "My Cheat Sheets/Docker/Storage/Volumes.md",
     "My Cheat Sheets/Docker/Storage/Overview.md",
-    "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
     "My Cheat Sheets/Docker/Docker-networking/Bridge Networks.md",
     "My Cheat Sheets/Docker/Docker-networking/Container networking.md",
     "My Cheat Sheets/Docker/Docker-networking/Host Networking.md",
@@ -184,14 +192,6 @@
     "My Cheat Sheets/AWS/AWS CLI/S3.md",
     "My Cheat Sheets/AWS/AWS CLI/IP address (Elastic IP).md",
     "My Cheat Sheets/AWS/AWS CLI/IAM.md",
-    "My Cheat Sheets/AWS/AWS CLI/Basic EC2 Management.md",
-    "My Cheat Sheets/Ansible/Variables.md",
-    "My Cheat Sheets/Ansible/Strategies.md",
-    "My Cheat Sheets/Ansible/Modules.md",
-    "My Cheat Sheets/Ansible/Lookups.md",
-    "My Cheat Sheets/Ansible/Inventory File.md",
-    "My Cheat Sheets/Ansible/Intro to Ansible.md",
-    "My Cheat Sheets/Ansible/Installing Ansible.md",
     "AMD Prep",
     "My Cheat Sheets/Docker/Docker-networking/docker images/docker-bridge-network-2.png",
     "tools",
