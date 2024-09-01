@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Docker/Docker-networking/Networking overview.md",
+                "file": "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Docker/Docker-networking/Networking overview.md",
+                "file": "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Docker/Docker-networking/Networking overview.md",
+                "file": "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Docker/Docker-networking/Networking overview.md"
+                "file": "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md"
               }
             }
           },
@@ -166,6 +166,17 @@
   },
   "active": "44d78f8c7d599294",
   "lastOpenFiles": [
+    "My Cheat Sheets/Docker/Macvlan.md",
+    "My Cheat Sheets/Docker/Docker Study Plan.md",
+    "My Cheat Sheets/Docker/Storage/Volumes.md",
+    "My Cheat Sheets/Docker/Storage/Overview.md",
+    "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
+    "My Cheat Sheets/Docker/Docker-networking/Bridge Networks.md",
+    "My Cheat Sheets/Docker/Docker-networking/Container networking.md",
+    "My Cheat Sheets/Docker/Docker-networking/Host Networking.md",
+    "My Cheat Sheets/Docker/Docker-networking/Docker Network Deep Dive.md",
+    "My Cheat Sheets/Docker/Docker-networking/Macvlan Network.md",
+    "My Cheat Sheets/Docker/Docker-networking/Networking overview.md",
     "My Cheat Sheets/Docker/Installation/Install Docker Compose.md",
     "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
     "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
@@ -181,17 +192,6 @@
     "My Cheat Sheets/Ansible/Inventory File.md",
     "My Cheat Sheets/Ansible/Intro to Ansible.md",
     "My Cheat Sheets/Ansible/Installing Ansible.md",
-    "My Cheat Sheets/Ansible/Failure Handling.md",
-    "My Cheat Sheets/Ansible/Ansible Advanced.md",
-    "My Cheat Sheets/Ansible/Blocks.md",
-    "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md",
-    "AMD Prep/Ansible.md",
-    "AMD Prep/KVM.md",
-    "My Cheat Sheets/Ansible/Vars.md",
-    "AMD Prep/Topics to prepare.md",
-    "My Cheat Sheets/K8s/K8s Yamls/Pods/Pod Example Yamls.md",
-    "My Cheat Sheets/Terraform/Terraform.md",
-    "My Cheat Sheets/Terraform/Datasources.md",
     "AMD Prep",
     "My Cheat Sheets/Docker/Docker-networking/docker images/docker-bridge-network-2.png",
     "tools",
