@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Variables.md",
+                "file": "My Cheat Sheets/Docker/Docker-networking/Networking overview.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 290.5
   },
   "right": {
     "id": "388887a9d68de1d1",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Variables.md",
+                "file": "My Cheat Sheets/Docker/Docker-networking/Networking overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Variables.md",
+                "file": "My Cheat Sheets/Docker/Docker-networking/Networking overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Variables.md"
+                "file": "My Cheat Sheets/Docker/Docker-networking/Networking overview.md"
               }
             }
           },
@@ -166,33 +166,33 @@
   },
   "active": "44d78f8c7d599294",
   "lastOpenFiles": [
-    "My Cheat Sheets/Ansible/Inventory File.md",
-    "AMD Prep/Ansible.md",
-    "My Cheat Sheets/Ansible/Intro to Ansible.md",
-    "AMD Prep/KVM.md",
-    "My Cheat Sheets/Ansible/Strategies.md",
-    "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md",
+    "My Cheat Sheets/Docker/Installation/Install Docker Compose.md",
+    "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
+    "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
+    "My Cheat Sheets/AWS/CloudFormation Templates.md",
+    "My Cheat Sheets/AWS/AWS CLI/S3.md",
+    "My Cheat Sheets/AWS/AWS CLI/IP address (Elastic IP).md",
+    "My Cheat Sheets/AWS/AWS CLI/IAM.md",
+    "My Cheat Sheets/AWS/AWS CLI/Basic EC2 Management.md",
     "My Cheat Sheets/Ansible/Variables.md",
-    "My Cheat Sheets/Ansible/Vars.md",
-    "My Cheat Sheets/Ansible/Ansible Advanced.md",
+    "My Cheat Sheets/Ansible/Strategies.md",
+    "My Cheat Sheets/Ansible/Modules.md",
+    "My Cheat Sheets/Ansible/Lookups.md",
+    "My Cheat Sheets/Ansible/Inventory File.md",
+    "My Cheat Sheets/Ansible/Intro to Ansible.md",
     "My Cheat Sheets/Ansible/Installing Ansible.md",
     "My Cheat Sheets/Ansible/Failure Handling.md",
+    "My Cheat Sheets/Ansible/Ansible Advanced.md",
     "My Cheat Sheets/Ansible/Blocks.md",
-    "My Cheat Sheets/Ansible/Lookups.md",
+    "My Cheat Sheets/Ansible/Built-in Ansible_Variables.md",
+    "AMD Prep/Ansible.md",
+    "AMD Prep/KVM.md",
+    "My Cheat Sheets/Ansible/Vars.md",
     "AMD Prep/Topics to prepare.md",
     "My Cheat Sheets/K8s/K8s Yamls/Pods/Pod Example Yamls.md",
     "My Cheat Sheets/Terraform/Terraform.md",
     "My Cheat Sheets/Terraform/Datasources.md",
     "AMD Prep",
-    "My Cheat Sheets/Terraform/Terraform Lifecycle Meta Argument.md",
-    "My Cheat Sheets/Terraform/Meta Arguments.md",
-    "My Cheat Sheets/Terraform/Terraform CLI.md",
-    "My Cheat Sheets/Terraform/Terraform Workflow.md",
-    "My Cheat Sheets/Terraform/How-to Guides.md",
-    "My Cheat Sheets/K8s/Service Discovery.md",
-    "My Cheat Sheets/K8s/Kubernetes Pod Priority, PriorityClass, and Preemption Explained.md",
-    "My Cheat Sheets/K8s/Kubernetes Architecture Explained.md",
-    "My Cheat Sheets/K8s/Kubernetes Objects Vs Resources Vs Custom Resource.md",
     "My Cheat Sheets/Docker/Docker-networking/docker images/docker-bridge-network-2.png",
     "tools",
     "Home Lab Docs/Fish Feeder Project/Untitled",

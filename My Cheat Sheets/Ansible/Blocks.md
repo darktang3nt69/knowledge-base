@@ -44,7 +44,7 @@
     2. Rescue blocks specify tasks to run when an earlier task in a block fails. This approach is similar to exception handling in many programming languages. 
     3. Ansible only runs rescue blocks after a task returns a ‘failed’ state. Bad task definitions and unreachable hosts will not trigger the rescue block.
     ```yaml   
-       # 1.Rescue blocks specify tasks to run when an earlier task in a block fails.
+       # 1. Rescue blocks specify tasks to run when an earlier task in a block fails.
        # 2. Ansible only runs rescue blocks after a task returns a ‘failed’ state.
        # 3. Bad task definitions and unreachable hosts will not trigger the rescue block.  name: learning blocks
        # 4. The rescued task is considered successful, and does not trigger `max_fail_percentage` or `any_errors_fatal` configurations. However, Ansible still reports a failure in the playbook statistics.
