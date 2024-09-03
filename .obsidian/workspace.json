@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Ansible Windows.md",
+                "file": "AMD Prep/Accenture devops architect.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Ansible Windows.md",
+                "file": "AMD Prep/Accenture devops architect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Ansible Windows.md",
+                "file": "AMD Prep/Accenture devops architect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Ansible/Ansible Windows.md"
+                "file": "AMD Prep/Accenture devops architect.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "44d78f8c7d599294",
   "lastOpenFiles": [
-    "My Cheat Sheets/Ansible/Strategies.md",
     "My Cheat Sheets/Ansible/Ansible Windows.md",
+    "AMD Prep/Accenture devops architect.md",
+    "My Cheat Sheets/Ansible/Strategies.md",
     "My Cheat Sheets/Ansible/Ansible Advanced.md",
     "My Cheat Sheets/Ansible/Variables.md",
     "AMD Prep/Ansible.md",
@@ -191,7 +192,6 @@
     "My Cheat Sheets/AWS/CloudFormation Templates.md",
     "My Cheat Sheets/AWS/AWS CLI/S3.md",
     "My Cheat Sheets/AWS/AWS CLI/IP address (Elastic IP).md",
-    "My Cheat Sheets/AWS/AWS CLI/IAM.md",
     "AMD Prep",
     "My Cheat Sheets/Docker/Docker-networking/docker images/docker-bridge-network-2.png",
     "tools",
