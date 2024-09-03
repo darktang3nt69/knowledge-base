@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AMD Prep/Accenture devops architect.md",
+                "file": "AMD Prep/Vault.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AMD Prep/Accenture devops architect.md",
+                "file": "AMD Prep/Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AMD Prep/Accenture devops architect.md",
+                "file": "AMD Prep/Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AMD Prep/Accenture devops architect.md"
+                "file": "AMD Prep/Vault.md"
               }
             }
           },
@@ -161,37 +161,41 @@
       "graph:Open graph view": false,
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "44d78f8c7d599294",
   "lastOpenFiles": [
-    "My Cheat Sheets/Ansible/Ansible Windows.md",
-    "AMD Prep/Accenture devops architect.md",
-    "My Cheat Sheets/Ansible/Strategies.md",
-    "My Cheat Sheets/Ansible/Ansible Advanced.md",
-    "My Cheat Sheets/Ansible/Variables.md",
-    "AMD Prep/Ansible.md",
+    "AMD Prep/Networking.md",
+    "AMD Prep/Vault.md",
     "AMD Prep/KVM.md",
+    "AMD Prep/ESXI.md",
+    "My Cheat Sheets/Packer/Packer.md",
     "AMD Prep/Topics to prepare.md",
-    "My Cheat Sheets/Ansible/Intro to Ansible.md",
-    "My Cheat Sheets/Docker/When to `exec` and when to 'attach'.md",
-    "My Cheat Sheets/Docker/Macvlan.md",
-    "My Cheat Sheets/Docker/Docker Study Plan.md",
-    "My Cheat Sheets/Docker/Storage/Volumes.md",
-    "My Cheat Sheets/Docker/Storage/Overview.md",
-    "My Cheat Sheets/Docker/Docker-networking/Bridge Networks.md",
-    "My Cheat Sheets/Docker/Docker-networking/Container networking.md",
-    "My Cheat Sheets/Docker/Docker-networking/Host Networking.md",
-    "My Cheat Sheets/Docker/Docker-networking/Docker Network Deep Dive.md",
-    "My Cheat Sheets/Docker/Docker-networking/Macvlan Network.md",
-    "My Cheat Sheets/Docker/Docker-networking/Networking overview.md",
-    "My Cheat Sheets/Docker/Installation/Install Docker Compose.md",
-    "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
-    "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
-    "My Cheat Sheets/AWS/CloudFormation Templates.md",
-    "My Cheat Sheets/AWS/AWS CLI/S3.md",
-    "My Cheat Sheets/AWS/AWS CLI/IP address (Elastic IP).md",
+    "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
+    "Christian's Cheat Sheets/tools/datree.md",
+    "Christian's Cheat Sheets/tools/direnv.md",
+    "Christian's Cheat Sheets/tools/chocolatey.md",
+    "Christian's Cheat Sheets/tools/bitwarden.md",
+    "Christian's Cheat Sheets/tools/ansible.md",
+    "Christian's Cheat Sheets/tools/1password.md",
+    "Christian's Cheat Sheets/networking/wireguard.md",
+    "Christian's Cheat Sheets/networking/twisted-pair-cables.md",
+    "Christian's Cheat Sheets/networking/tls.md",
+    "Christian's Cheat Sheets/networking/tcp.md",
+    "Christian's Cheat Sheets/networking/smtp.md",
+    "Christian's Cheat Sheets/networking/dnssec.md",
+    "Christian's Cheat Sheets/networking/dns-record-types.md",
+    "Christian's Cheat Sheets/networking/dns-record-mailserver.md",
+    "Christian's Cheat Sheets/networking/dns.md",
+    "Christian's Cheat Sheets/misc/twisted-pair-cables.md",
+    "Christian's Cheat Sheets/misc/ssl-security.md",
+    "Christian's Cheat Sheets/misc/ssl-certs.md",
+    "Christian's Cheat Sheets/misc/smtp-codes.md",
+    "repos/cheat-sheets/misc",
+    "repos/cheat-sheets",
+    "repos",
     "AMD Prep",
     "My Cheat Sheets/Docker/Docker-networking/docker images/docker-bridge-network-2.png",
     "tools",
@@ -200,9 +204,6 @@
     "Keychron K8 pro",
     "Home Lab Docs/Networking",
     "Home Lab Docs/Fresh Install",
-    "My Cheat Sheets/Deployment Stratagies",
-    "My Cheat Sheets/AWS/AWS CLI",
-    "My Cheat Sheets/AWS",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",

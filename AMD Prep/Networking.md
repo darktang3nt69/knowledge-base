@@ -1,0 +1,8 @@
+- Understand protocols like OSPF, BGP, and EIGRP, and their uses in determining optimal paths for data.
+- **Firewalls**: Understand how firewalls filter traffic to protect the network from unauthorized access.
+- **VPNs (Virtual Private Networks)**: Learn how VPNs secure data transmission over public networks.
+- **Encryption**: Be aware of encryption methods (e.g., AES, RSA) used to secure data in transit and at rest.
+- **SDN (Software-Defined Networking)**: Understand how SDN abstracts networking hardware to allow centralized control through software.
+- **VNets**: Virtual networks that emulate physical networks within a hypervisor.
+- **NSX and SDN**: Tools and protocols that enable the creation of virtualized network components like switches, routers, and firewalls. 
+- **Dual Stack and Tunneling**: Techniques for transitioning from IPv4 to IPv6, ensuring compatibility and preparing for future network growth.
