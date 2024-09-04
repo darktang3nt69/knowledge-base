@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AMD Prep/Vault.md",
+                "file": "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AMD Prep/Vault.md",
+                "file": "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AMD Prep/Vault.md",
+                "file": "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AMD Prep/Vault.md"
+                "file": "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md"
               }
             }
           },
@@ -165,10 +165,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44d78f8c7d599294",
+  "active": "a3c61c32416b9aa4",
   "lastOpenFiles": [
-    "AMD Prep/Networking.md",
+    "My Cheat Sheets/Terraform/Using vars in terraform configuration files.md",
+    "My Cheat Sheets/Terraform/Terraform Workflow.md",
+    "My Cheat Sheets/Terraform/Terraform Lifecycle Meta Argument.md",
+    "My Cheat Sheets/Terraform/Terraform CLI.md",
+    "My Cheat Sheets/Terraform/Terraform.md",
+    "My Cheat Sheets/Terraform/How-to Guides.md",
     "AMD Prep/Vault.md",
+    "AMD Prep/Networking.md",
     "AMD Prep/KVM.md",
     "AMD Prep/ESXI.md",
     "My Cheat Sheets/Packer/Packer.md",
@@ -187,12 +193,6 @@
     "Christian's Cheat Sheets/networking/smtp.md",
     "Christian's Cheat Sheets/networking/dnssec.md",
     "Christian's Cheat Sheets/networking/dns-record-types.md",
-    "Christian's Cheat Sheets/networking/dns-record-mailserver.md",
-    "Christian's Cheat Sheets/networking/dns.md",
-    "Christian's Cheat Sheets/misc/twisted-pair-cables.md",
-    "Christian's Cheat Sheets/misc/ssl-security.md",
-    "Christian's Cheat Sheets/misc/ssl-certs.md",
-    "Christian's Cheat Sheets/misc/smtp-codes.md",
     "repos/cheat-sheets/misc",
     "repos/cheat-sheets",
     "repos",
