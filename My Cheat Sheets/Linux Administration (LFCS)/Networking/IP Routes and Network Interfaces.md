@@ -29,11 +29,9 @@ The line you've provided appears to be another entry in a Linux-based operating 
 
 3. `proto kernel`: The "proto" field specifies the protocol used for this route. In this case, it's "kernel," which typically means that this route was **automatically** added to the routing table by the kernel itself.
 
-4. `scope link`: This indicates that the scope of this route is limited to the local link. It means that this route is only valid for communication within the same network segment, and it does not involve routing through other devices like routers. It's often u
-5. 
-6. sed for loopback or local communication purposes.
+4. `scope link`: This indicates that the scope of this route is limited to the local link. It means that this route is only valid for communication within the same network segment, and it does not involve routing through other devices like routers. It's often used for loopback or local communication purposes.
 
-7. `src 10.42.0.1`: This specifies the **source IP address** that should be used when sending traffic to the specified destination network (10.42.0.0/24). In this case, the source IP address is set to 10.42.0.1.
+5. `src 10.42.0.1`: This specifies the **source IP address** that should be used when sending traffic to the specified destination network (10.42.0.0/24). In this case, the source IP address is set to 10.42.0.1.
 
 In summary, this line of configuration is defining a route for the local network 10.42.0.0/24. Traffic destined for this network should be sent via the network interface cni0, and the source IP address for this traffic should be 10.42.0.1. This route is scoped to the local link, meaning it's intended for communication within the same network segment.
 # 3. 10.42.1.0/24 via 10.42.1.0 dev flannel.1 onlink

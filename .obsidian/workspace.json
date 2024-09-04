@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
+                "file": "My Cheat Sheets/Shell Scripting/Basics.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
+                "file": "My Cheat Sheets/Shell Scripting/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
+                "file": "My Cheat Sheets/Shell Scripting/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md"
+                "file": "My Cheat Sheets/Shell Scripting/Basics.md"
               }
             }
           },
@@ -165,34 +165,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3c61c32416b9aa4",
+  "active": "44d78f8c7d599294",
   "lastOpenFiles": [
-    "My Cheat Sheets/Terraform/Using vars in terraform configuration files.md",
-    "My Cheat Sheets/Terraform/Terraform Workflow.md",
-    "My Cheat Sheets/Terraform/Terraform Lifecycle Meta Argument.md",
-    "My Cheat Sheets/Terraform/Terraform CLI.md",
-    "My Cheat Sheets/Terraform/Terraform.md",
+    "My Cheat Sheets/Python/Python Cheat Sheets.md",
+    "My Cheat Sheets/Linux Administration (LFCS)/Networking/IP Routes and Network Interfaces.md",
+    "My Cheat Sheets/Linux Administration (LFCS)/Networking/Networking Commands.md",
+    "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
+    "My Cheat Sheets/Jenkins/sonarqube.md",
+    "My Cheat Sheets/Jenkins/Pipelines Examples.md",
+    "My Cheat Sheets/Jenkins/Jenkins End to End Projects.md",
+    "My Cheat Sheets/Jenkins/Jenkins.md",
+    "My Cheat Sheets/Jenkins/Basics.md",
+    "My Cheat Sheets/Deployment Stratagies/Canary Release.md",
+    "My Cheat Sheets/AWS/CloudFormation Templates.md",
+    "My Cheat Sheets/Terraform/Datasources.md",
+    "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
     "My Cheat Sheets/Terraform/How-to Guides.md",
+    "My Cheat Sheets/Terraform/Meta Arguments.md",
+    "My Cheat Sheets/Terraform/Terraform.md",
+    "My Cheat Sheets/Terraform/Terraform CLI.md",
+    "My Cheat Sheets/Terraform/Terraform Lifecycle Meta Argument.md",
+    "My Cheat Sheets/Terraform/Terraform State.md",
+    "My Cheat Sheets/Terraform/Terraform Workflow.md",
+    "My Cheat Sheets/Terraform/Using vars in terraform configuration files.md",
+    "My Cheat Sheets/Rough Notes.md",
     "AMD Prep/Vault.md",
     "AMD Prep/Networking.md",
     "AMD Prep/KVM.md",
     "AMD Prep/ESXI.md",
-    "My Cheat Sheets/Packer/Packer.md",
-    "AMD Prep/Topics to prepare.md",
-    "Christian's Cheat Sheets/Christian's Cheat Sheets.md",
-    "Christian's Cheat Sheets/tools/datree.md",
-    "Christian's Cheat Sheets/tools/direnv.md",
-    "Christian's Cheat Sheets/tools/chocolatey.md",
-    "Christian's Cheat Sheets/tools/bitwarden.md",
-    "Christian's Cheat Sheets/tools/ansible.md",
-    "Christian's Cheat Sheets/tools/1password.md",
-    "Christian's Cheat Sheets/networking/wireguard.md",
-    "Christian's Cheat Sheets/networking/twisted-pair-cables.md",
-    "Christian's Cheat Sheets/networking/tls.md",
-    "Christian's Cheat Sheets/networking/tcp.md",
-    "Christian's Cheat Sheets/networking/smtp.md",
-    "Christian's Cheat Sheets/networking/dnssec.md",
-    "Christian's Cheat Sheets/networking/dns-record-types.md",
     "repos/cheat-sheets/misc",
     "repos/cheat-sheets",
     "repos",
