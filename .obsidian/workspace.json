@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AMD Prep/KVM.md",
+                "file": "ESP32/Install Micropython.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AMD Prep/KVM.md",
+                "file": "ESP32/Install Micropython.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AMD Prep/KVM.md",
+                "file": "ESP32/Install Micropython.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AMD Prep/KVM.md"
+                "file": "ESP32/Install Micropython.md"
               }
             }
           },
@@ -167,10 +167,12 @@
   },
   "active": "44d78f8c7d599294",
   "lastOpenFiles": [
+    "AMD Prep/KVM.md",
+    "ESP32/Install Micropython.md",
+    "ESP32",
     "AMD Prep/Networking.md",
     "AMD Prep/Topics to prepare.md",
     "AMD Prep/Vault.md",
-    "AMD Prep/KVM.md",
     "AMD Prep/ESXI.md",
     "AMD Prep/Ansible.md",
     "My Cheat Sheets/Shell Scripting/Basics.md",
@@ -192,7 +194,6 @@
     "My Cheat Sheets/Terraform/Terraform.md",
     "My Cheat Sheets/Terraform/Terraform CLI.md",
     "My Cheat Sheets/Terraform/Terraform Lifecycle Meta Argument.md",
-    "My Cheat Sheets/Terraform/Terraform State.md",
     "repos/cheat-sheets/misc",
     "repos/cheat-sheets",
     "repos",
@@ -203,7 +204,6 @@
     "Home Lab Docs/Fish Feeder Project",
     "Keychron K8 pro",
     "Home Lab Docs/Networking",
-    "Home Lab Docs/Fresh Install",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",
