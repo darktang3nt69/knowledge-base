@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/Proxmox/Installing Proxmox OrangePi 5.md",
+                "file": "Home Lab Docs/Proxmox/Proxmox Things.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/Proxmox/Installing Proxmox OrangePi 5.md",
+                "file": "Home Lab Docs/Proxmox/Proxmox Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/Proxmox/Installing Proxmox OrangePi 5.md",
+                "file": "Home Lab Docs/Proxmox/Proxmox Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab Docs/Proxmox/Installing Proxmox OrangePi 5.md"
+                "file": "Home Lab Docs/Proxmox/Proxmox Things.md"
               }
             }
           },
@@ -167,8 +167,15 @@
   },
   "active": "44d78f8c7d599294",
   "lastOpenFiles": [
-    "ESP32/Install Micropython.md",
     "Home Lab Docs/Proxmox/Installing Proxmox OrangePi 5.md",
+    "Home Lab Docs/Proxmox/Proxmox Things.md",
+    "Home Lab Docs/Proxmox/Setup Proxmox Bridge.md",
+    "Home Lab Docs/Proxmox/Install Proxmox VE on Orangepi5.md",
+    "Home Lab Docs/Proxmox/Disable IPv6.md",
+    "Christian's Cheat Sheets/infra/proxmox-certificate-management.md",
+    "Christian's Cheat Sheets/infra/proxmox-terraform.md",
+    "Christian's Cheat Sheets/infra/proxmox.md",
+    "ESP32/Install Micropython.md",
     "Home Lab Docs/Proxmox",
     "AMD Prep/KVM.md",
     "ESP32",
@@ -188,13 +195,6 @@
     "My Cheat Sheets/Jenkins/Jenkins.md",
     "My Cheat Sheets/Jenkins/Basics.md",
     "My Cheat Sheets/Deployment Stratagies/Canary Release.md",
-    "My Cheat Sheets/AWS/CloudFormation Templates.md",
-    "My Cheat Sheets/Terraform/Datasources.md",
-    "My Cheat Sheets/Terraform/Hashicorp Configuration Language(Terraform Language).md",
-    "My Cheat Sheets/Terraform/How-to Guides.md",
-    "My Cheat Sheets/Terraform/Meta Arguments.md",
-    "My Cheat Sheets/Terraform/Terraform.md",
-    "My Cheat Sheets/Terraform/Terraform CLI.md",
     "repos/cheat-sheets/misc",
     "repos/cheat-sheets",
     "repos",
