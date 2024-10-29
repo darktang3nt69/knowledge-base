@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/Proxmox/Setup Shared Storage.md",
+                "file": "Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/Proxmox/Setup Shared Storage.md",
+                "file": "Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/Proxmox/Setup Shared Storage.md",
+                "file": "Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab Docs/Proxmox/Setup Shared Storage.md"
+                "file": "Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md"
               }
             }
           },
@@ -167,34 +167,34 @@
   },
   "active": "3f34df84aeb7bb84",
   "lastOpenFiles": [
+    "Home Lab Docs/The arrs Stack/Plex.md",
+    "Home Lab Docs/The arrs Stack/Hard Links and Folder Structure for arr stack.md",
+    "Home Lab Docs/The arrs Stack/The Arr stack.md",
+    "Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
+    "Home Lab Docs/The arrs Stack/Recyclarr.md",
+    "Home Lab Docs/The arrs Stack/WatchState.md",
+    "repos/cheat-sheets/misc/github-actions.md",
+    "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
+    "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
+    "My Cheat Sheets/Docker/Installation/Install Docker Compose.md",
+    "Christian's Cheat Sheets/infra/proxmox-certificate-management.md",
+    "Christian's Cheat Sheets/infra/proxmox.md",
+    "Home Lab Docs/Debian and Linux/Add user to sudo.md",
+    "Home Lab Docs/Proxmox/Setup Shared Storage.md",
     "Home Lab Docs/Proxmox/Shared Storage for proxmox.md",
     "Home Lab Docs/Proxmox/Setup Proxmox Bridge.md",
-    "Home Lab Docs/Proxmox/Setup Shared Storage.md",
     "Home Lab Docs/Proxmox/Proxmox Things.md",
     "Home Lab Docs/Proxmox/Partioning NVMe.md",
     "Home Lab Docs/Proxmox/Install Proxmox VE on Orangepi5.md",
     "Home Lab Docs/Proxmox/Installing Proxmox OrangePi 5.md",
     "Home Lab Docs/Unbrick Orangepi5.md",
     "Home Lab Docs/Proxmox/Disable IPv6.md",
-    "Christian's Cheat Sheets/infra/proxmox-certificate-management.md",
     "Christian's Cheat Sheets/infra/proxmox-terraform.md",
-    "Christian's Cheat Sheets/infra/proxmox.md",
     "ESP32/Install Micropython.md",
     "Home Lab Docs/Proxmox",
     "AMD Prep/KVM.md",
     "ESP32",
     "AMD Prep/Networking.md",
-    "AMD Prep/Topics to prepare.md",
-    "AMD Prep/Vault.md",
-    "AMD Prep/ESXI.md",
-    "AMD Prep/Ansible.md",
-    "My Cheat Sheets/Shell Scripting/Basics.md",
-    "My Cheat Sheets/Python/Python Cheat Sheets.md",
-    "My Cheat Sheets/Linux Administration (LFCS)/Networking/IP Routes and Network Interfaces.md",
-    "My Cheat Sheets/Linux Administration (LFCS)/Networking/Networking Commands.md",
-    "My Cheat Sheets/Linux Administration (LFCS)/Linux Commands.md",
-    "My Cheat Sheets/Jenkins/sonarqube.md",
-    "My Cheat Sheets/Jenkins/Pipelines Examples.md",
     "repos/cheat-sheets/misc",
     "repos/cheat-sheets",
     "repos",
