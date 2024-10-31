@@ -14,5 +14,5 @@
 5. Flash MicroPython:
     ```bash
     # <serial_port> = COM Port in Windows (e.g., COM5) or /dev/ttyUSB* port in Linux (e.g., /dev/ttyUSB0)
-    esptool --port COM3 write_flash --flash_size=detect -fm dio 0x00000 ESP8266_GENERIC-20240222-v1.22.2.bin
+    esptool --port COM3 write_flash --flash_size=detect -fm dio 0x00000 ESP8266_GENERIC-20240222-v1.24.2.bin
     ```
