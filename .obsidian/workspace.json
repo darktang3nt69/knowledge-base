@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Networking/DNS.md",
+                "file": "Home Lab Docs/Install Portainer.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Networking/DNS.md",
+                "file": "Home Lab Docs/Install Portainer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Networking/DNS.md",
+                "file": "Home Lab Docs/Install Portainer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Networking/DNS.md"
+                "file": "Home Lab Docs/Install Portainer.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "3f34df84aeb7bb84",
   "lastOpenFiles": [
+    "Home Lab Docs/Debian and Linux/Networking/DNS.md",
     "Home Lab Docs/Fish Feeder Project/Flash MicroPython into ESP8266.md",
     "Home Lab Docs/Install Portainer.md",
     "Home Lab Docs/Install Pihole.md",
@@ -192,7 +193,6 @@
     "Christian's Cheat Sheets/infra/proxmox.md",
     "Home Lab Docs/Debian and Linux/Add user to sudo.md",
     "Home Lab Docs/Proxmox/Setup Shared Storage.md",
-    "Home Lab Docs/Proxmox/Shared Storage for proxmox.md",
     "Home Lab Docs/Proxmox",
     "ESP32",
     "repos/cheat-sheets/misc",
