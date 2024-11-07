@@ -13,29 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/Install Portainer.md",
+                "file": "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Install Portainer"
-            }
-          },
-          {
-            "id": "6661cef85e4db88c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Setup Passwordless ssh login"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gitlab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/Install Portainer.md",
+                "file": "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Install Portainer"
+              "title": "Backlinks for Setup Passwordless ssh login"
             }
           },
           {
@@ -126,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/Install Portainer.md",
+                "file": "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Install Portainer"
+              "title": "Outgoing links from Setup Passwordless ssh login"
             }
           },
           {
@@ -153,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab Docs/Install Portainer.md"
+                "file": "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Install Portainer"
+              "title": "Outline of Setup Passwordless ssh login"
             }
           },
           {
@@ -198,11 +185,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6661cef85e4db88c",
+  "active": "3f34df84aeb7bb84",
   "lastOpenFiles": [
-    "Home Lab Docs/Debian and Linux/Networking/DNS.md",
+    "Home Lab Docs/Debian and Linux/Know the package manager in Linux.md",
+    "Christian's Cheat Sheets/tools/git.md",
+    "Christian's Cheat Sheets/misc/ssl-certs.md",
+    "AMD Prep/Accenture devops architect.md",
+    "My Cheat Sheets/Rough Notes.md",
+    "Home Lab Docs/Debian and Linux/Add user to sudo.md",
+    "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
     "Home Lab Docs/Fish Feeder Project/Flash MicroPython into ESP8266.md",
     "Home Lab Docs/Install Portainer.md",
+    "Home Lab Docs/Debian and Linux/Networking/DNS.md",
     "Home Lab Docs/Install Pihole.md",
     "Home Lab Docs/The arrs Stack/The Arr stack.md",
     "Home Lab Docs/Unbrick Orangepi5.md",
@@ -219,13 +213,6 @@
     "Home Lab Docs/The arrs Stack/Recyclarr.md",
     "Home Lab Docs/The arrs Stack/WatchState.md",
     "repos/cheat-sheets/misc/github-actions.md",
-    "My Cheat Sheets/Docker/Installation/Linux post-installation steps for Docker Engine.md",
-    "My Cheat Sheets/Docker/Installation/Installation of Docker.md",
-    "My Cheat Sheets/Docker/Installation/Install Docker Compose.md",
-    "Christian's Cheat Sheets/infra/proxmox-certificate-management.md",
-    "Christian's Cheat Sheets/infra/proxmox.md",
-    "Home Lab Docs/Debian and Linux/Add user to sudo.md",
-    "Home Lab Docs/Proxmox/Setup Shared Storage.md",
     "Home Lab Docs/Proxmox",
     "ESP32",
     "repos/cheat-sheets/misc",
