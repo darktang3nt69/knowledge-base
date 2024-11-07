@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
-                "mode": "preview",
+                "file": "Home Lab Docs/Proxmox/Set static IP in Home Assistant.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Setup Passwordless ssh login"
+              "title": "Set static IP in Home Assistant"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
+                "file": "Home Lab Docs/Proxmox/Set static IP in Home Assistant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Setup Passwordless ssh login"
+              "title": "Backlinks for Set static IP in Home Assistant"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
+                "file": "Home Lab Docs/Proxmox/Set static IP in Home Assistant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Setup Passwordless ssh login"
+              "title": "Outgoing links from Set static IP in Home Assistant"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md"
+                "file": "Home Lab Docs/Proxmox/Set static IP in Home Assistant.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Setup Passwordless ssh login"
+              "title": "Outline of Set static IP in Home Assistant"
             }
           },
           {
@@ -187,13 +187,14 @@
   },
   "active": "3f34df84aeb7bb84",
   "lastOpenFiles": [
+    "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
+    "Home Lab Docs/Proxmox/Set static IP in Home Assistant.md",
     "Home Lab Docs/Debian and Linux/Know the package manager in Linux.md",
     "Christian's Cheat Sheets/tools/git.md",
     "Christian's Cheat Sheets/misc/ssl-certs.md",
     "AMD Prep/Accenture devops architect.md",
     "My Cheat Sheets/Rough Notes.md",
     "Home Lab Docs/Debian and Linux/Add user to sudo.md",
-    "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
     "Home Lab Docs/Fish Feeder Project/Flash MicroPython into ESP8266.md",
     "Home Lab Docs/Install Portainer.md",
     "Home Lab Docs/Debian and Linux/Networking/DNS.md",
@@ -212,7 +213,6 @@
     "Home Lab Docs/The arrs Stack/qBittorrent - Basic Setup.md",
     "Home Lab Docs/The arrs Stack/Recyclarr.md",
     "Home Lab Docs/The arrs Stack/WatchState.md",
-    "repos/cheat-sheets/misc/github-actions.md",
     "Home Lab Docs/Proxmox",
     "ESP32",
     "repos/cheat-sheets/misc",

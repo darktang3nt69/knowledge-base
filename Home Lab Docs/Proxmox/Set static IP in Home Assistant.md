@@ -1,0 +1,1 @@
+https://blog.ktz.me/set-a-static-ip-address-in-home-assistant-os/
