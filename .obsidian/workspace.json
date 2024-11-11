@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Set static IP in Home Assistant"
             }
+          },
+          {
+            "id": "2c3fefb4b33eada4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f34df84aeb7bb84",
+  "active": "2c3fefb4b33eada4",
   "lastOpenFiles": [
     "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
     "Home Lab Docs/Proxmox/Set static IP in Home Assistant.md",
