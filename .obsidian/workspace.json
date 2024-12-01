@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Flash MicroPython into ESP8266"
             }
+          },
+          {
+            "id": "76f27e8f145e09f6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f34df84aeb7bb84",
+  "active": "76f27e8f145e09f6",
   "lastOpenFiles": [
     "Home Lab Docs/Debian and Linux/Networking/Setup Samba Share.md",
     "Home Lab Docs/Debian and Linux/Networking/WiFi.md",
