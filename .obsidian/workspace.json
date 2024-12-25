@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/Fish Feeder Project/Flash MicroPython into ESP8266.md",
+                "file": "Home Lab Docs/Proxmox/Install Proxmox VE on Orangepi5.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Flash MicroPython into ESP8266"
+              "title": "Install Proxmox VE on Orangepi5"
             }
           }
         ]
@@ -187,9 +187,11 @@
   },
   "active": "3f34df84aeb7bb84",
   "lastOpenFiles": [
+    "Home Lab Docs/Proxmox/Installing Proxmox OrangePi 5.md",
+    "Home Lab Docs/Proxmox/Install Proxmox VE on Orangepi5.md",
+    "Home Lab Docs/Fish Feeder Project/Flash MicroPython into ESP8266.md",
     "Home Lab Docs/Debian and Linux/Networking/Setup Samba Share.md",
     "Home Lab Docs/Debian and Linux/Networking/WiFi.md",
-    "Home Lab Docs/Fish Feeder Project/Flash MicroPython into ESP8266.md",
     "Home Lab Docs/Networking/Untitled 1.md",
     "Home Lab Docs/Networking/Untitled 2.md",
     "Home Lab Docs/Networking/Untitled.md",
@@ -211,8 +213,6 @@
     "Home Lab Docs/Interesting Docker Containers.md",
     "Home Lab Docs/Debian and Linux/Installation of Debian 11.md",
     "Home Lab Docs/Debian and Linux/Customizing Linux/Make ZSH default shell.md",
-    "Home Lab Docs/Debian and Linux/Customizing Linux/Nano Syntax Highlighting.md",
-    "Home Lab Docs/Debian and Linux/Customizing Linux/Oh My Zsh + PowerLevel10k = 😎 terminal.md",
     "Home Lab Docs/Proxmox",
     "ESP32",
     "repos/cheat-sheets/misc",
