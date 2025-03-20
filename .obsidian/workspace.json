@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "e7ad1e7c84f15ee2",
+        "id": "fe89a2cce41acab8",
         "type": "tabs",
         "children": [
           {
-            "id": "3f34df84aeb7bb84",
+            "id": "2a43e3dd2bb30ab8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab Docs/Proxmox/Install Proxmox VE on Orangepi5.md",
+                "file": "Everything Devops/What I learned and what want to learn.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Install Proxmox VE on Orangepi5"
-            }
-          },
-          {
-            "id": "6175e888a4ef7e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Lab Docs/Proxmox/Untitled.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "What I learned and what want to learn"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,8 +185,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6175e888a4ef7e66",
+  "active": "2a43e3dd2bb30ab8",
   "lastOpenFiles": [
+    "Everything Devops/Resume.md",
+    "Everything Devops/Job Search new 1.md",
+    "Everything Devops/Job Search.md",
+    "AMD Prep/Accenture devops architect.md",
+    "tools/openssl.md",
+    "README.md",
     "Home Lab Docs/Proxmox/Install Proxmox VE on Orangepi5.md",
     "Home Lab Docs/Proxmox/Untitled.md",
     "Home Lab Docs/Proxmox/Installing Proxmox OrangePi 5.md",
@@ -218,17 +208,11 @@
     "Home Lab Docs/Debian and Linux/Know the package manager in Linux.md",
     "Christian's Cheat Sheets/tools/git.md",
     "Christian's Cheat Sheets/misc/ssl-certs.md",
-    "AMD Prep/Accenture devops architect.md",
     "My Cheat Sheets/Rough Notes.md",
     "Home Lab Docs/Debian and Linux/Add user to sudo.md",
     "Home Lab Docs/Install Portainer.md",
     "Home Lab Docs/Debian and Linux/Networking/DNS.md",
     "Home Lab Docs/Install Pihole.md",
-    "Home Lab Docs/The arrs Stack/The Arr stack.md",
-    "Home Lab Docs/Unbrick Orangepi5.md",
-    "Home Lab Docs/opensense.md",
-    "Home Lab Docs/Interesting Docker Containers.md",
-    "Home Lab Docs/Debian and Linux/Installation of Debian 11.md",
     "Home Lab Docs/Proxmox",
     "ESP32",
     "repos/cheat-sheets/misc",
