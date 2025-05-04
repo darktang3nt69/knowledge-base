@@ -15,14 +15,36 @@
               "state": {
                 "file": "Everything Devops/What I learned and what want to learn.md",
                 "mode": "preview",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "What I learned and what want to learn"
             }
+          },
+          {
+            "id": "152404824f802dac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +63,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -185,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a43e3dd2bb30ab8",
+  "active": "152404824f802dac",
   "lastOpenFiles": [
     "Everything Devops/Resume.md",
     "Everything Devops/Job Search new 1.md",
