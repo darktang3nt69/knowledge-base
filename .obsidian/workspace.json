@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fe89a2cce41acab8",
+        "id": "162c825510acb850",
         "type": "tabs",
         "children": [
           {
-            "id": "2a43e3dd2bb30ab8",
+            "id": "54a5c2746e7b328d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everything Devops/What I learned and what want to learn.md",
+                "file": "ESP32/Install Micropython.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "What I learned and what want to learn"
-            }
-          },
-          {
-            "id": "152404824f802dac",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "Install Micropython"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "152404824f802dac",
+  "active": "54a5c2746e7b328d",
   "lastOpenFiles": [
     "Everything Devops/Resume.md",
     "Everything Devops/Job Search new 1.md",
