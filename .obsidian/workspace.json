@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESP32/Install Micropython.md",
+                "file": "VIDE Coding/Sean kochel.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Install Micropython"
+              "title": "Sean kochel"
             }
           }
         ]
@@ -197,6 +197,11 @@
   },
   "active": "54a5c2746e7b328d",
   "lastOpenFiles": [
+    "VIDE Coding/Prompts/Vibe-Design Template.md",
+    "VIDE Coding/Sean kochel.md",
+    "VIDE Coding/Prompts",
+    "ESP32/Install Micropython.md",
+    "VIDE Coding",
     "Everything Devops/Resume.md",
     "Everything Devops/Job Search new 1.md",
     "Everything Devops/Job Search.md",
@@ -220,9 +225,6 @@
     "Christian's Cheat Sheets/misc/ssl-certs.md",
     "My Cheat Sheets/Rough Notes.md",
     "Home Lab Docs/Debian and Linux/Add user to sudo.md",
-    "Home Lab Docs/Install Portainer.md",
-    "Home Lab Docs/Debian and Linux/Networking/DNS.md",
-    "Home Lab Docs/Install Pihole.md",
     "Home Lab Docs/Proxmox",
     "ESP32",
     "repos/cheat-sheets/misc",
@@ -232,8 +234,6 @@
     "My Cheat Sheets/Docker/Docker-networking/docker images/docker-bridge-network-2.png",
     "tools",
     "Home Lab Docs/Fish Feeder Project/Untitled",
-    "Home Lab Docs/Fish Feeder Project",
-    "Keychron K8 pro",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",

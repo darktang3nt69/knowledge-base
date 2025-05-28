@@ -1,0 +1,2 @@
+1. [Vibe Desgn Prompt](https://docs.google.com/document/d/1qgaI_WTqxmoqJfEMvml3lT6SunMFkipnqPXycd-sjl8/edit?tab=t.qm6n4oqkjgj4#heading=h.6yajjro9bdax)
+2. https://www.skool.com/tech-snack/classroom/0ca89703?md=0495550a1e364176ab767175e463d26a
