@@ -1,0 +1,5 @@
+- Use STAR method
+    - Situation:
+    - Task:
+    - Action
+    - Result

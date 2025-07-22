@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIDE Coding/Sean kochel.md",
-                "mode": "preview",
+                "file": "Resume/Tips for Resume.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sean kochel"
+              "title": "Tips for Resume"
             }
           }
         ]
@@ -197,8 +197,12 @@
   },
   "active": "54a5c2746e7b328d",
   "lastOpenFiles": [
-    "VIDE Coding/Prompts/Vibe-Design Template.md",
+    "repos/cheat-sheets/misc/github-actions.md",
+    "Resume/Tips for Resume.md",
+    "Resume",
+    "SECURITY.md",
     "VIDE Coding/Sean kochel.md",
+    "VIDE Coding/Prompts/Vibe-Design Template.md",
     "VIDE Coding/Prompts",
     "ESP32/Install Micropython.md",
     "VIDE Coding",
@@ -222,9 +226,6 @@
     "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
     "Home Lab Docs/Debian and Linux/Know the package manager in Linux.md",
     "Christian's Cheat Sheets/tools/git.md",
-    "Christian's Cheat Sheets/misc/ssl-certs.md",
-    "My Cheat Sheets/Rough Notes.md",
-    "Home Lab Docs/Debian and Linux/Add user to sudo.md",
     "Home Lab Docs/Proxmox",
     "ESP32",
     "repos/cheat-sheets/misc",
@@ -233,7 +234,6 @@
     "AMD Prep",
     "My Cheat Sheets/Docker/Docker-networking/docker images/docker-bridge-network-2.png",
     "tools",
-    "Home Lab Docs/Fish Feeder Project/Untitled",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-process-network.png",
     "My Cheat Sheets/Docker/Docker-networking/docker images/join-container-network.png",
