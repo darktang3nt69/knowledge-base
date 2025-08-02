@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resume/Tips for Resume.md",
+                "file": "Resume/Master List.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tips for Resume"
+              "title": "Master List"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "54a5c2746e7b328d",
   "lastOpenFiles": [
-    "repos/cheat-sheets/misc/github-actions.md",
     "Resume/Tips for Resume.md",
+    "Resume/Master List.md",
+    "repos/cheat-sheets/misc/github-actions.md",
     "Resume",
     "SECURITY.md",
     "VIDE Coding/Sean kochel.md",
@@ -225,7 +226,6 @@
     "Home Lab Docs/Proxmox/Set static IP in Home Assistant.md",
     "Home Lab Docs/Debian and Linux/Setup Passwordless ssh login.md",
     "Home Lab Docs/Debian and Linux/Know the package manager in Linux.md",
-    "Christian's Cheat Sheets/tools/git.md",
     "Home Lab Docs/Proxmox",
     "ESP32",
     "repos/cheat-sheets/misc",
